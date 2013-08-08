@@ -1,0 +1,5226 @@
+1:0:49
+00:03:07,767 --> 00:03:09,098:1:48
+Save Shelly.:2:83
+:2:13
+blah1:0
+<1> : save shelly. 
+2:0:50
+00:03:09,803 --> 00:03:12,033:1:48
+Save Shelly.:2:83
+:2:13
+blah2:0
+<2> : save shelly. 
+3:0:51
+00:03:58,818 --> 00:04:01,810:1:48
+Why, who in the world:2:87
+let Major Briggs loose, Leo?:2:108
+:2:13
+blah3:0
+<3> : why, who in the world let major briggs loose, leo? 
+4:0:52
+00:04:02,289 --> 00:04:03,847:1:48
+lt couldn't have been you, could it?:2:108
+:2:13
+blah4:0
+<4> : lt couldn't have been you, could it? 
+5:0:53
+00:04:06,693 --> 00:04:09,594:1:48
+No, no. No punishment, Leo.:2:78
+:2:13
+blah5:0
+<5> : no, no. no punishment, leo. 
+6:0:54
+00:04:09,829 --> 00:04:12,821:1:48
+lt's too late for that:2:108
+to do us any harm.:2:116
+:2:13
+blah6:0
+<6> : lt's too late for that to do us any harm. 
+7:0:55
+00:04:13,700 --> 00:04:16,692:1:48
+And l have a new game for you.:2:65
+:2:13
+blah7:0
+<7> : and l have a new game for you. 
+8:0:56
+00:04:31,384 --> 00:04:36,253:1:48
+Well, here's our contribution:2:87
+to the Miss Twin Peaks gala buffet.:2:116
+:2:13
+blah8:0
+<8> : well, here's our contribution to the miss twin peaks gala buffet. 
+9:0:57
+00:04:36,456 --> 00:04:39,914:1:48
+And l fully expect to see one of you:2:65
+up there in the winner's circle.:2:117
+:2:13
+blah9:0
+<9> : and l fully expect to see one of you up there in the winner's circle. 
+10:0:49
+00:04:40,093 --> 00:04:43,620:1:48
+- Dream on, Norma.:2:45
+- Don't be so sure.:2:45
+:2:13
+blah10:0
+<10> : - dream on, norma. - don't be so sure. 
+11:0:49
+00:04:43,830 --> 00:04:45,855:1:48
+This is the biggest day of the year:2:84
+for us.:2:102
+:2:13
+blah11:0
+<11> : this is the biggest day of the year for us. 
+12:0:49
+00:04:46,032 --> 00:04:47,624:1:48
+And we have to have somebody:2:65
+up there:2:117
+:2:13
+blah12:0
+<12> : and we have to have somebody up there 
+13:0:49
+00:04:47,834 --> 00:04:49,392:1:48
+who really deserves this title.:2:119
+:2:13
+blah13:0
+<13> : who really deserves this title. 
+14:0:49
+00:04:49,569 --> 00:04:50,831:1:48
+Especially this year.:2:69
+:2:13
+blah14:0
+<14> : especially this year. 
+15:0:49
+00:04:51,204 --> 00:04:53,399:1:48
+You mean Laura Palmer?:2:89
+:2:13
+blah15:0
+<15> : you mean laura palmer? 
+16:0:49
+00:04:53,640 --> 00:04:56,234:1:48
+lt would be a good day for healing.:2:108
+:2:13
+blah16:0
+<16> : lt would be a good day for healing. 
+17:0:49
+00:04:57,844 --> 00:04:59,937:1:48
+l think we need more than a day.:2:108
+:2:13
+blah17:0
+<17> : l think we need more than a day. 
+18:0:49
+00:05:00,113 --> 00:05:02,547:1:48
+So, Norma, are they gonna:2:83
+honor you tonight:2:104
+:2:13
+blah18:0
+<18> : so, norma, are they gonna honor you tonight 
+19:0:49
+00:05:02,716 --> 00:05:05,981:1:48
+on your 20th anniversary:2:111
+of winning Miss Twin Peaks?:2:111
+:2:13
+blah19:0
+<19> : on your 20th anniversary of winning miss twin peaks? 
+20:0:50
+00:05:06,152 --> 00:05:07,619:1:48
+Don't remind me.:2:68
+:2:13
+blah20:0
+<20> : don't remind me. 
+21:0:50
+00:05:07,787 --> 00:05:10,585:1:48
+Come on,:2:67
+if you entered today, you'd win.:2:105
+:2:13
+blah21:0
+<21> : come on, if you entered today, you'd win. 
+22:0:50
+00:05:10,991 --> 00:05:13,255:1:48
+Look at you,:2:76
+you're already working on the judge.:2:121
+:2:13
+blah22:0
+<22> : look at you, you're already working on the judge. 
+23:0:50
+00:05:14,661 --> 00:05:17,095:1:48
+Well, since you mentioned it...:2:87
+:2:13
+blah23:0
+<23> : well, since you mentioned it... 
+24:0:50
+00:05:17,263 --> 00:05:18,924:1:48
+Who are you gonna vote for?:2:87
+:2:13
+blah24:0
+<24> : who are you gonna vote for? 
+25:0:50
+00:05:19,099 --> 00:05:21,590:1:48
+Maybe you could split your vote.:2:77
+:2:13
+blah25:0
+<25> : maybe you could split your vote. 
+26:0:50
+00:05:32,278 --> 00:05:34,974:1:48
+- Hi, Daddy.:2:45
+- Audrey.:2:45
+:2:13
+blah26:0
+<26> : - hi, daddy. - audrey. 
+27:0:50
+00:05:35,281 --> 00:05:38,114:1:48
+The most intelligent face:2:84
+that l've seen all day.:2:116
+:2:13
+blah27:0
+<27> : the most intelligent face that l've seen all day. 
+28:0:50
+00:05:39,185 --> 00:05:42,780:1:48
+You make the rest of us:2:89
+look like primates.:2:108
+:2:13
+blah28:0
+<28> : you make the rest of us look like primates. 
+29:0:50
+00:05:43,156 --> 00:05:44,453:1:48
+What's with all the books?:2:87
+:2:13
+blah29:0
+<29> : what's with all the books? 
+30:0:51
+00:05:45,458 --> 00:05:47,619:1:48
+Yes, the Koran,:2:89
+:2:13
+blah30:0
+<30> : yes, the koran, 
+31:0:51
+00:05:47,994 --> 00:05:50,690:1:48
+the Bhagavad-Gita, the Talmud,:2:116
+:2:13
+blah31:0
+<31> : the bhagavad-gita, the talmud, 
+32:0:51
+00:05:50,897 --> 00:05:53,957:1:48
+the Bible, Old and New Testaments,:2:116
+:2:13
+blah32:0
+<32> : the bible, old and new testaments, 
+33:0:51
+00:05:54,300 --> 00:05:55,995:1:48
+the Tao Te Ching.:2:116
+:2:13
+blah33:0
+<33> : the tao te ching. 
+34:0:51
+00:05:56,169 --> 00:06:01,801:1:48
+Audrey, l hold in my hands:2:65
+those holy books:2:116
+:2:13
+blah34:0
+<34> : audrey, l hold in my hands those holy books 
+35:0:51
+00:06:01,975 --> 00:06:04,136:1:48
+which constitute:2:119
+the fundamental framework:2:116
+:2:13
+blah35:0
+<35> : which constitute the fundamental framework 
+36:0:51
+00:06:04,310 --> 00:06:06,801:1:48
+of humanity's:2:111
+philosophy of good.:2:112
+:2:13
+blah36:0
+<36> : of humanity's philosophy of good. 
+37:0:51
+00:06:06,980 --> 00:06:11,383:1:48
+Somewhere in here:2:83
+are the answers that l seek.:2:97
+:2:13
+blah37:0
+<37> : somewhere in here are the answers that l seek. 
+38:0:51
+00:06:11,551 --> 00:06:17,217:1:48
+And l intend to read them:2:65
+from cover to cover, until l find...:2:102
+:2:13
+blah38:0
+<38> : and l intend to read them from cover to cover, until l find... 
+39:0:51
+00:06:19,859 --> 00:06:22,487:1:48
+Listen to me prattling on.:2:76
+:2:13
+blah39:0
+<39> : listen to me prattling on. 
+40:0:52
+00:06:23,229 --> 00:06:25,424:1:48
+lt's Jack, isn't it?:2:108
+:2:13
+blah40:0
+<40> : lt's jack, isn't it? 
+41:0:52
+00:06:26,533 --> 00:06:29,161:1:48
+lt's only been a day.:2:108
+:2:13
+blah41:0
+<41> : lt's only been a day. 
+42:0:52
+00:06:29,636 --> 00:06:32,662:1:48
+l hope it doesn't hurt this much:2:108
+in a week.:2:105
+:2:13
+blah42:0
+<42> : l hope it doesn't hurt this much in a week. 
+43:0:52
+00:06:33,840 --> 00:06:39,210:1:48
+Honey, may l give you:2:72
+a piece of ageless wisdom:2:97
+:2:13
+blah43:0
+<43> : honey, may l give you a piece of ageless wisdom 
+44:0:52
+00:06:39,379 --> 00:06:42,473:1:48
+culled from these volumes?:2:99
+:2:13
+blah44:0
+<44> : culled from these volumes? 
+45:0:52
+00:06:42,749 --> 00:06:45,980:1:48
+Time heals all wounds.:2:84
+:2:13
+blah45:0
+<45> : time heals all wounds. 
+46:0:52
+00:06:46,986 --> 00:06:49,386:1:48
+l know how it feels.:2:108
+:2:13
+blah46:0
+<46> : l know how it feels. 
+47:0:52
+00:06:49,556 --> 00:06:51,353:1:48
+Believe me.:2:66
+:2:13
+blah47:0
+<47> : believe me. 
+48:0:52
+00:06:52,258 --> 00:06:55,989:1:48
+We barely had time:2:87
+to know each other.:2:116
+:2:13
+blah48:0
+<48> : we barely had time to know each other. 
+49:0:52
+00:06:56,596 --> 00:07:01,033:1:48
+But the time that you had:2:66
+was highly concentrated.:2:119
+:2:13
+blah49:0
+<49> : but the time that you had was highly concentrated. 
+50:0:53
+00:07:02,402 --> 00:07:06,270:1:48
+lt's the concentrate:2:108
+they make concentrate from.:2:116
+:2:13
+blah50:0
+<50> : lt's the concentrate they make concentrate from. 
+51:0:53
+00:07:09,275 --> 00:07:12,039:1:48
+l'm afraid l'll never see him again.:2:108
+:2:13
+blah51:0
+<51> : l'm afraid l'll never see him again. 
+52:0:53
+00:07:12,846 --> 00:07:14,871:1:48
+Jack is a man of his word.:2:74
+:2:13
+blah52:0
+<52> : jack is a man of his word. 
+53:0:53
+00:07:15,048 --> 00:07:19,382:1:48
+And if he said that he'd be back,:2:65
+then he will be back.:2:116
+:2:13
+blah53:0
+<53> : and if he said that he'd be back, then he will be back. 
+54:0:53
+00:07:19,552 --> 00:07:22,112:1:48
+l promise you.:2:108
+:2:13
+blah54:0
+<54> : l promise you. 
+55:0:53
+00:07:22,288 --> 00:07:26,622:1:48
+Daddy, you can't promise me,:2:68
+but thanks for wanting to.:2:98
+:2:13
+blah55:0
+<55> : daddy, you can't promise me, but thanks for wanting to. 
+56:0:53
+00:07:28,261 --> 00:07:31,094:1:48
+l actually came here:2:108
+to update you on my trip to Seattle.:2:116
+:2:13
+blah56:0
+<56> : l actually came here to update you on my trip to seattle. 
+57:0:53
+00:07:31,631 --> 00:07:34,794:1:48
+Right. Update away.:2:82
+:2:13
+blah57:0
+<57> : right. update away. 
+58:0:53
+00:07:35,769 --> 00:07:37,066:1:48
+Okay.:2:79
+:2:13
+blah58:0
+<58> : okay. 
+59:0:53
+00:07:37,237 --> 00:07:39,933:1:48
+The Packards are using:2:84
+Twin Peaks Savings and Loan:2:84
+:2:13
+blah59:0
+<59> : the packards are using twin peaks savings and loan 
+60:0:54
+00:07:40,106 --> 00:07:42,404:1:48
+to funnel cash:2:116
+to the Ghostwood project.:2:116
+:2:13
+blah60:0
+<60> : to funnel cash to the ghostwood project. 
+61:0:54
+00:07:42,575 --> 00:07:45,874:1:48
+But the bank is keeping:2:66
+a very low profile.:2:97
+:2:13
+blah61:0
+<61> : but the bank is keeping a very low profile. 
+62:0:54
+00:07:46,045 --> 00:07:49,378:1:48
+lt seems they don't want:2:108
+any bad publicity.:2:97
+:2:13
+blah62:0
+<62> : lt seems they don't want any bad publicity. 
+63:0:54
+00:07:49,783 --> 00:07:51,944:1:48
+Oh, they don't?:2:79
+:2:13
+blah63:0
+<63> : oh, they don't? 
+64:0:54
+00:07:52,418 --> 00:07:56,878:1:48
+Well, bad publicity:2:87
+is exactly what they're gonna get.:2:105
+:2:13
+blah64:0
+<64> : well, bad publicity is exactly what they're gonna get. 
+65:0:54
+00:07:57,423 --> 00:07:59,516:1:48
+Audrey, have you given:2:65
+any more thought:2:97
+:2:13
+blah65:0
+<65> : audrey, have you given any more thought 
+66:0:54
+00:07:59,726 --> 00:08:02,752:1:48
+to the Miss Twin Peaks Pageant?:2:116
+:2:13
+blah66:0
+<66> : to the miss twin peaks pageant? 
+67:0:54
+00:08:04,097 --> 00:08:06,065:1:48
+Daddy...:2:68
+:2:13
+blah67:0
+<67> : daddy... 
+68:0:54
+00:08:08,802 --> 00:08:10,429:1:48
+From the bottom of my heart,:2:70
+:2:13
+blah68:0
+<68> : from the bottom of my heart, 
+69:0:54
+00:08:10,603 --> 00:08:13,970:1:48
+l don't wanna be:2:108
+the town bathing beauty.:2:116
+:2:13
+blah69:0
+<69> : l don't wanna be the town bathing beauty. 
+70:0:55
+00:08:14,140 --> 00:08:15,164:1:48
+l understand.:2:108
+:2:13
+blah70:0
+<70> : l understand. 
+71:0:55
+00:08:15,575 --> 00:08:20,569:1:48
+But Miss Twin Peaks:2:66
+is the ultimate local forum.:2:105
+:2:13
+blah71:0
+<71> : but miss twin peaks is the ultimate local forum. 
+72:0:55
+00:08:21,181 --> 00:08:22,808:1:48
+Audrey.:2:65
+:2:13
+blah72:0
+<72> : audrey. 
+73:0:55
+00:08:23,683 --> 00:08:27,847:1:48
+lt would truly be inspirational:2:108
+:2:13
+blah73:0
+<73> : lt would truly be inspirational 
+74:0:55
+00:08:28,054 --> 00:08:31,182:1:48
+to have a winner:2:116
+with a political sensibility:2:119
+:2:13
+blah74:0
+<74> : to have a winner with a political sensibility 
+75:0:55
+00:08:31,424 --> 00:08:33,688:1:48
+that extends:2:116
+beyond makeup strategies:2:98
+:2:13
+blah75:0
+<75> : that extends beyond makeup strategies 
+76:0:55
+00:08:33,860 --> 00:08:38,763:1:48
+and recipes for cherry pie, huh?:2:97
+:2:13
+blah76:0
+<76> : and recipes for cherry pie, huh? 
+77:0:55
+00:08:38,932 --> 00:08:40,991:1:48
+Now, as you know,:2:78
+:2:13
+blah77:0
+<77> : now, as you know, 
+78:0:55
+00:08:41,167 --> 00:08:44,967:1:48
+each contestant gives a speech:2:101
+to the assembled town.:2:116
+:2:13
+blah78:0
+<78> : each contestant gives a speech to the assembled town. 
+79:0:55
+00:08:45,138 --> 00:08:49,006:1:48
+This year's theme concerns:2:84
+our immediate environment.:2:111
+:2:13
+blah79:0
+<79> : this year's theme concerns our immediate environment. 
+80:0:56
+00:08:49,175 --> 00:08:52,770:1:48
+And what we must do to preserve it.:2:65
+:2:13
+blah80:0
+<80> : and what we must do to preserve it. 
+81:0:56
+00:08:52,946 --> 00:08:56,143:1:48
+l know there's another way to do this,:2:108
+Daddy.:2:68
+:2:13
+blah81:0
+<81> : l know there's another way to do this, daddy. 
+82:0:56
+00:08:56,316 --> 00:09:00,116:1:48
+Audrey, make the speech.:2:65
+:2:13
+blah82:0
+<82> : audrey, make the speech. 
+83:0:56
+00:09:00,286 --> 00:09:03,346:1:48
+Help stop Ghostwood.:2:72
+:2:13
+blah83:0
+<83> : help stop ghostwood. 
+84:0:56
+00:09:03,523 --> 00:09:07,391:1:48
+And take us to a better day.:2:65
+:2:13
+blah84:0
+<84> : and take us to a better day. 
+85:0:56
+00:09:13,399 --> 00:09:15,492:1:48
+Has he taken his eyes off it yet?:2:72
+:2:13
+blah85:0
+<85> : has he taken his eyes off it yet? 
+86:0:56
+00:09:15,668 --> 00:09:17,499:1:48
+Not today.:2:78
+:2:13
+blah86:0
+<86> : not today. 
+87:0:56
+00:09:17,971 --> 00:09:19,199:1:48
+And before you ask,:2:65
+:2:13
+blah87:0
+<87> : and before you ask, 
+88:0:56
+00:09:19,372 --> 00:09:22,864:1:48
+we still got people out:2:119
+combing the woods for Major Briggs.:2:99
+:2:13
+blah88:0
+<88> : we still got people out combing the woods for major briggs. 
+89:0:56
+00:09:23,142 --> 00:09:26,305:1:48
+Harry, considering our mutual:2:72
+connection to Project Blue Book,:2:99
+:2:13
+blah89:0
+<89> : harry, considering our mutual connection to project blue book, 
+90:0:57
+00:09:26,479 --> 00:09:28,572:1:48
+l believe that Windom Earle:2:108
+has targeted the major.:2:104
+:2:13
+blah90:0
+<90> : l believe that windom earle has targeted the major. 
+91:0:57
+00:09:28,748 --> 00:09:31,717:1:48
+- What for?:2:45
+- lnteresting.:2:45
+:2:13
+blah91:0
+<91> : - what for? - lnteresting. 
+92:0:57
+00:09:34,687 --> 00:09:36,348:1:48
+l don't know.:2:108
+:2:13
+blah92:0
+<92> : l don't know. 
+93:0:57
+00:09:37,123 --> 00:09:40,559:1:48
+But with your permission,:2:66
+l'd like to speak out loud.:2:108
+:2:13
+blah93:0
+<93> : but with your permission, l'd like to speak out loud. 
+94:0:57
+00:09:41,527 --> 00:09:43,722:1:48
+Windom Earle has been:2:87
+seeking access to the Black Lodge:2:115
+:2:13
+blah94:0
+<94> : windom earle has been seeking access to the black lodge 
+95:0:57
+00:09:43,897 --> 00:09:45,990:1:48
+as far back as 1 965.:2:97
+:2:13
+blah95:0
+<95> : as far back as 1 965. 
+96:0:57
+00:09:46,432 --> 00:09:47,763:1:48
+This chess game may involve:2:84
+:2:13
+blah96:0
+<96> : this chess game may involve 
+97:0:57
+00:09:48,001 --> 00:09:50,162:1:48
+more pieces:2:109
+than we've begun to imagine.:2:116
+:2:13
+blah97:0
+<97> : more pieces than we've begun to imagine. 
+98:0:57
+00:09:50,336 --> 00:09:52,395:1:48
+Then of course,:2:84
+there's the mysterious circumstances:2:116
+:2:13
+blah98:0
+<98> : then of course, there's the mysterious circumstances 
+99:0:57
+00:09:52,572 --> 00:09:54,130:1:48
+surrounding Josie's death:2:115
+to consider.:2:116
+:2:13
+blah99:0
+<99> : surrounding josie's death to consider. 
+100:0:49
+00:09:54,440 --> 00:09:56,738:1:48
+What about them?:2:87
+Consider them how?:2:67
+:2:13
+blah100:0
+<100> : what about them? consider them how? 
+101:0:49
+00:09:57,410 --> 00:10:01,107:1:48
+When she died-- l'm sorry:2:87
+l didn't mention this before, Harry,:2:108
+:2:13
+blah101:0
+<101> : when she died-- l'm sorry l didn't mention this before, harry, 
+102:0:49
+00:10:01,281 --> 00:10:03,272:1:48
+but l had to take into account:2:98
+your mental state.:2:121
+:2:13
+blah102:0
+<102> : but l had to take into account your mental state. 
+103:0:49
+00:10:04,050 --> 00:10:05,574:1:48
+What is it?:2:87
+:2:13
+blah103:0
+<103> : what is it? 
+104:0:49
+00:10:06,886 --> 00:10:08,683:1:48
+She was trembling with fear.:2:83
+:2:13
+blah104:0
+<104> : she was trembling with fear. 
+105:0:49
+00:10:08,855 --> 00:10:12,154:1:48
+l would go as far as to say:2:108
+quaking like an animal.:2:113
+:2:13
+blah105:0
+<105> : l would go as far as to say quaking like an animal. 
+106:0:49
+00:10:12,692 --> 00:10:15,752:1:48
+l might venture a guess to say:2:108
+that it was the fear that killed her.:2:116
+:2:13
+blah106:0
+<106> : l might venture a guess to say that it was the fear that killed her. 
+107:0:49
+00:10:15,929 --> 00:10:17,453:1:48
+At the moment of her death...:2:65
+:2:13
+blah107:0
+<107> : at the moment of her death... 
+108:0:49
+00:10:18,798 --> 00:10:20,959:1:48
+...l saw Bob.:2:46
+:2:13
+blah108:0
+<108> : ...l saw bob. 
+109:0:49
+00:10:21,167 --> 00:10:24,295:1:48
+As if he had slipped in:2:65
+through some crevice in time.:2:116
+:2:13
+blah109:0
+<109> : as if he had slipped in through some crevice in time. 
+110:0:49
+00:10:24,470 --> 00:10:26,370:1:48
+Upon reflection, l believe:2:85
+there's a connection:2:116
+:2:13
+blah110:0
+<110> : upon reflection, l believe there's a connection 
+111:0:49
+00:10:26,539 --> 00:10:28,302:1:48
+between his appearance:2:98
+and Josie's fear.:2:97
+:2:13
+blah111:0
+<111> : between his appearance and josie's fear. 
+112:0:49
+00:10:28,474 --> 00:10:29,873:1:48
+As if he was attracted to it.:2:65
+:2:13
+blah112:0
+<112> : as if he was attracted to it. 
+113:0:49
+00:10:30,310 --> 00:10:32,608:1:48
+Feeding off it somehow.:2:70
+:2:13
+blah113:0
+<113> : feeding off it somehow. 
+114:0:49
+00:10:33,079 --> 00:10:36,537:1:48
+You see a connection:2:89
+between Bob and the Black Lodge?:2:98
+:2:13
+blah114:0
+<114> : you see a connection between bob and the black lodge? 
+115:0:49
+00:10:37,583 --> 00:10:39,983:1:48
+Harry,:2:72
+l think it's where he comes from.:2:108
+:2:13
+blah115:0
+<115> : harry, l think it's where he comes from. 
+116:0:49
+00:10:40,186 --> 00:10:43,212:1:48
+l think that the Black Lodge:2:108
+is what you have referred to in the past:2:105
+:2:13
+blah116:0
+<116> : l think that the black lodge is what you have referred to in the past 
+117:0:49
+00:10:43,389 --> 00:10:46,119:1:48
+as ''the evil in these woods.'':2:97
+:2:13
+blah117:0
+<117> : as ''the evil in these woods.'' 
+118:0:49
+00:10:46,793 --> 00:10:48,556:1:48
+lf Windom Earle is seeking access:2:108
+to that,:2:116
+:2:13
+blah118:0
+<118> : lf windom earle is seeking access to that, 
+119:0:49
+00:10:48,728 --> 00:10:51,891:1:48
+it is imperative that we find our way in:2:105
+before he does.:2:98
+:2:13
+blah119:0
+<119> : it is imperative that we find our way in before he does. 
+120:0:49
+00:10:52,098 --> 00:10:54,430:1:48
+There's a source of great power there,:2:84
+Harry.:2:72
+:2:13
+blah120:0
+<120> : there's a source of great power there, harry. 
+121:0:49
+00:10:55,234 --> 00:10:58,635:1:48
+Far beyond our ability:2:70
+to comprehend.:2:116
+:2:13
+blah121:0
+<121> : far beyond our ability to comprehend. 
+122:0:49
+00:10:59,305 --> 00:11:01,773:1:48
+Eureka!:2:69
+:2:13
+blah122:0
+<122> : eureka! 
+123:0:49
+00:11:03,009 --> 00:11:08,208:1:48
+Dale, l could kiss:2:68
+your pointy little head.:2:121
+:2:13
+blah123:0
+<123> : dale, l could kiss your pointy little head. 
+124:0:49
+00:11:10,817 --> 00:11:12,250:1:48
+lt's fear.:2:108
+:2:13
+blah124:0
+<124> : lt's fear. 
+125:0:49
+00:11:12,418 --> 00:11:14,511:1:48
+lt's fear, Leo. That's the key.:2:108
+:2:13
+blah125:0
+<125> : lt's fear, leo. that's the key. 
+126:0:49
+00:11:14,721 --> 00:11:17,417:1:48
+My favorite emotional state.:2:77
+:2:13
+blah126:0
+<126> : my favorite emotional state. 
+127:0:49
+00:11:17,590 --> 00:11:21,356:1:48
+And all this time,:2:65
+it's been staring me right in the kisser.:2:105
+:2:13
+blah127:0
+<127> : and all this time, it's been staring me right in the kisser. 
+128:0:49
+00:11:21,527 --> 00:11:25,293:1:48
+Leo, it's marvelous, a perfect fit.:2:76
+:2:13
+blah128:0
+<128> : leo, it's marvelous, a perfect fit. 
+129:0:49
+00:11:25,465 --> 00:11:28,093:1:48
+These night creatures that hover:2:84
+on the edge of our nightmares:2:111
+:2:13
+blah129:0
+<129> : these night creatures that hover on the edge of our nightmares 
+130:0:49
+00:11:28,267 --> 00:11:31,498:1:48
+are drawn to us:2:97
+when we radiate fear.:2:119
+:2:13
+blah130:0
+<130> : are drawn to us when we radiate fear. 
+131:0:49
+00:11:31,671 --> 00:11:33,434:1:48
+lt's their bread and butter.:2:108
+:2:13
+blah131:0
+<131> : lt's their bread and butter. 
+132:0:49
+00:11:33,606 --> 00:11:35,597:1:48
+A perfect symbiosis.:2:65
+:2:13
+blah132:0
+<132> : a perfect symbiosis. 
+133:0:49
+00:11:35,775 --> 00:11:39,802:1:48
+Oh, nature,:2:79
+perfect in design and aspects.:2:112
+:2:13
+blah133:0
+<133> : oh, nature, perfect in design and aspects. 
+134:0:49
+00:11:39,979 --> 00:11:42,379:1:48
+You do not disappoint!:2:89
+:2:13
+blah134:0
+<134> : you do not disappoint! 
+135:0:49
+00:11:42,548 --> 00:11:44,675:1:48
+Leo, look lively.:2:76
+:2:13
+blah135:0
+<135> : leo, look lively. 
+136:0:49
+00:11:45,752 --> 00:11:47,447:1:48
+Victory is at hand.:2:86
+:2:13
+blah136:0
+<136> : victory is at hand. 
+137:0:49
+00:11:47,620 --> 00:11:51,454:1:48
+We know where the entrance is.:2:87
+We know when the lock appears.:2:87
+:2:13
+blah137:0
+<137> : we know where the entrance is. we know when the lock appears. 
+138:0:49
+00:11:51,624 --> 00:11:56,755:1:48
+Now we hold the key in our hands.:2:78
+:2:13
+blah138:0
+<138> : now we hold the key in our hands. 
+139:0:49
+00:11:58,998 --> 00:12:02,490:1:48
+Forgive my hasty departure,:2:70
+dear one.:2:100
+:2:13
+blah139:0
+<139> : forgive my hasty departure, dear one. 
+140:0:49
+00:12:02,668 --> 00:12:07,401:1:48
+The time has come:2:84
+to gather my beloved queen:2:116
+:2:13
+blah140:0
+<140> : the time has come to gather my beloved queen 
+141:0:49
+00:12:07,573 --> 00:12:10,906:1:48
+and embark:2:97
+upon our dark honeymoon.:2:117
+:2:13
+blah141:0
+<141> : and embark upon our dark honeymoon. 
+142:0:49
+00:12:11,711 --> 00:12:16,808:1:48
+l haven't been this excited:2:108
+since l punctured Caroline's aorta.:2:115
+:2:13
+blah142:0
+<142> : l haven't been this excited since l punctured caroline's aorta. 
+143:0:49
+00:12:17,884 --> 00:12:22,821:1:48
+Leo, we must share:2:76
+a final sentiment.:2:97
+:2:13
+blah143:0
+<143> : leo, we must share a final sentiment. 
+144:0:49
+00:12:22,989 --> 00:12:26,356:1:48
+During our time together:2:68
+in this verdant bower,:2:105
+:2:13
+blah144:0
+<144> : during our time together in this verdant bower, 
+145:0:49
+00:12:26,526 --> 00:12:31,395:1:48
+l must confess, l've developed:2:108
+something of a fondness for you.:2:115
+:2:13
+blah145:0
+<145> : l must confess, l've developed something of a fondness for you. 
+146:0:49
+00:12:31,564 --> 00:12:35,591:1:48
+Sounding board, companion,:2:83
+:2:13
+blah146:0
+<146> : sounding board, companion, 
+147:0:49
+00:12:35,802 --> 00:12:38,828:1:48
+ever obedient and faithful.:2:101
+:2:13
+blah147:0
+<147> : ever obedient and faithful. 
+148:0:49
+00:12:39,005 --> 00:12:42,099:1:48
+An overall A for effort, Leo.:2:65
+:2:13
+blah148:0
+<148> : an overall a for effort, leo. 
+149:0:49
+00:12:42,308 --> 00:12:46,404:1:48
+But l'm still a trifle miffed:2:66
+at your release of Major Briggs.:2:97
+:2:13
+blah149:0
+<149> : but l'm still a trifle miffed at your release of major briggs. 
+150:0:49
+00:12:47,814 --> 00:12:52,683:1:48
+But then, you'll have plenty of time:2:66
+to reflect upon that, won't you?:2:116
+:2:13
+blah150:0
+<150> : but then, you'll have plenty of time to reflect upon that, won't you? 
+151:0:49
+00:12:55,555 --> 00:12:57,546:1:48
+Goodbye, Leo.:2:71
+:2:13
+blah151:0
+<151> : goodbye, leo. 
+152:0:49
+00:12:57,723 --> 00:12:59,850:1:48
+And good luck.:2:65
+:2:13
+blah152:0
+<152> : and good luck. 
+153:0:49
+00:13:44,737 --> 00:13:48,935:1:48
+One and two and three, step four.:2:79
+:2:13
+blah153:0
+<153> : one and two and three, step four. 
+154:0:49
+00:13:49,108 --> 00:13:52,441:1:48
+And one and two--:2:65
+Let the mood carry you.:2:76
+:2:13
+blah154:0
+<154> : and one and two-- let the mood carry you. 
+155:0:49
+00:13:52,645 --> 00:13:54,977:1:48
+Don't be afraid of your vulnerability.:2:68
+Show me more leg.:2:83
+:2:13
+blah155:0
+<155> : don't be afraid of your vulnerability. show me more leg. 
+156:0:49
+00:13:55,148 --> 00:13:58,015:1:48
+What kind of a dance:2:87
+is this supposed to be, Mr. Pinkle?:2:105
+:2:13
+blah156:0
+<156> : what kind of a dance is this supposed to be, mr. pinkle? 
+157:0:49
+00:13:59,085 --> 00:14:01,747:1:48
+lt's a dance of nature, my friend.:2:108
+:2:13
+blah157:0
+<157> : lt's a dance of nature, my friend. 
+158:0:49
+00:14:01,921 --> 00:14:04,754:1:48
+lt's a celebration.:2:108
+All right, girls.:2:65
+:2:13
+blah158:0
+<158> : lt's a celebration. all right, girls. 
+159:0:49
+00:14:04,924 --> 00:14:08,758:1:48
+Now, turn around:2:78
+and bend forward:2:97
+:2:13
+blah159:0
+<159> : now, turn around and bend forward 
+160:0:49
+00:14:08,928 --> 00:14:11,624:1:48
+like a sapling.:2:108
+A sapling in the wind.:2:65
+:2:13
+blah160:0
+<160> : like a sapling. a sapling in the wind. 
+161:0:49
+00:14:12,165 --> 00:14:16,534:1:48
+That's it. A little bit more, and hold it.:2:84
+:2:13
+blah161:0
+<161> : that's it. a little bit more, and hold it. 
+162:0:49
+00:14:16,936 --> 00:14:20,838:1:48
+What exactly are we celebrating:2:87
+with us all bending over like this?:2:119
+:2:13
+blah162:0
+<162> : what exactly are we celebrating with us all bending over like this? 
+163:0:49
+00:14:21,507 --> 00:14:25,341:1:48
+Don't ever question the vision:2:68
+of your choreographer!:2:111
+:2:13
+blah163:0
+<163> : don't ever question the vision of your choreographer! 
+164:0:49
+00:14:25,778 --> 00:14:28,474:1:48
+You are but a petal on my rose.:2:89
+:2:13
+blah164:0
+<164> : you are but a petal on my rose. 
+165:0:49
+00:14:28,648 --> 00:14:32,175:1:48
+Now, please, people.:2:78
+On the count of one.:2:79
+:2:13
+blah165:0
+<165> : now, please, people. on the count of one. 
+166:0:49
+00:14:32,351 --> 00:14:36,447:1:48
+One and two and three and four.:2:79
+:2:13
+blah166:0
+<166> : one and two and three and four. 
+167:0:49
+00:14:36,622 --> 00:14:38,055:1:48
+And one and two:2:65
+:2:13
+blah167:0
+<167> : and one and two 
+168:0:49
+00:14:38,291 --> 00:14:41,522:1:48
+- and three and four...:2:45
+- l love a chorus line.:2:45
+:2:13
+blah168:0
+<168> : - and three and four... - l love a chorus line. 
+169:0:49
+00:14:42,061 --> 00:14:43,722:1:48
+lf we could just focus here:2:108
+for a second.:2:102
+:2:13
+blah169:0
+<169> : lf we could just focus here for a second. 
+170:0:49
+00:14:43,930 --> 00:14:45,795:1:48
+l've gotta get back to the diner.:2:108
+:2:13
+blah170:0
+<170> : l've gotta get back to the diner. 
+171:0:49
+00:14:45,965 --> 00:14:50,629:1:48
+Now, what qualities do we think:2:78
+best exemplify Miss Twin Peaks?:2:98
+:2:13
+blah171:0
+<171> : now, what qualities do we think best exemplify miss twin peaks? 
+172:0:49
+00:14:51,938 --> 00:14:54,907:1:48
+Beauty and power.:2:66
+:2:13
+blah172:0
+<172> : beauty and power. 
+173:0:49
+00:14:55,074 --> 00:14:56,905:1:48
+That's the way l like them.:2:84
+:2:13
+blah173:0
+<173> : that's the way l like them. 
+174:0:49
+00:14:57,076 --> 00:15:01,206:1:48
+Poise and, God help us,:2:80
+a sophistication:2:97
+:2:13
+blah174:0
+<174> : poise and, god help us, a sophistication 
+175:0:49
+00:15:01,380 --> 00:15:03,405:1:48
+and breeding.:2:97
+:2:13
+blah175:0
+<175> : and breeding. 
+176:0:49
+00:15:03,583 --> 00:15:06,848:1:48
+Well, l think a major factor:2:87
+should be originality.:2:115
+:2:13
+blah176:0
+<176> : well, l think a major factor should be originality. 
+177:0:49
+00:15:07,019 --> 00:15:09,044:1:48
+Well, wouldn't that fall under talent?:2:87
+:2:13
+blah177:0
+<177> : well, wouldn't that fall under talent? 
+178:0:49
+00:15:09,222 --> 00:15:11,417:1:48
+lt's always nice when it does.:2:108
+:2:13
+blah178:0
+<178> : lt's always nice when it does. 
+179:0:49
+00:15:11,591 --> 00:15:15,550:1:48
+Personally,:2:80
+l've always been big on style.:2:108
+:2:13
+blah179:0
+<179> : personally, l've always been big on style. 
+180:0:49
+00:15:15,761 --> 00:15:17,524:1:48
+l think this is enough:2:108
+for me to work with,:2:102
+:2:13
+blah180:0
+<180> : l think this is enough for me to work with, 
+181:0:49
+00:15:17,697 --> 00:15:20,757:1:48
+so l'm gonna go back:2:115
+and work up the scoresheets,:2:97
+:2:13
+blah181:0
+<181> : so l'm gonna go back and work up the scoresheets, 
+182:0:49
+00:15:20,967 --> 00:15:22,901:1:48
+and l'll see you tonight.:2:97
+:2:13
+blah182:0
+<182> : and l'll see you tonight. 
+183:0:49
+00:15:23,102 --> 00:15:24,865:1:48
+- Terrific.:2:45
+- Bye.:2:45
+:2:13
+blah183:0
+<183> : - terrific. - bye. 
+184:0:49
+00:15:25,071 --> 00:15:26,732:1:48
+And three and four.:2:65
+:2:13
+blah184:0
+<184> : and three and four. 
+185:0:49
+00:15:27,206 --> 00:15:29,106:1:48
+Okay, that's a break, team.:2:79
+:2:13
+blah185:0
+<185> : okay, that's a break, team. 
+186:0:49
+00:15:29,275 --> 00:15:32,369:1:48
+Hi, Dick. We're on break.:2:72
+:2:13
+blah186:0
+<186> : hi, dick. we're on break. 
+187:0:49
+00:15:33,579 --> 00:15:35,171:1:48
+Hi, Lana.:2:72
+:2:13
+blah187:0
+<187> : hi, lana. 
+188:0:49
+00:15:35,581 --> 00:15:38,414:1:48
+Would you mind helping me:2:87
+find something in the storage room?:2:102
+:2:13
+blah188:0
+<188> : would you mind helping me find something in the storage room? 
+189:0:49
+00:15:39,118 --> 00:15:40,745:1:48
+Storage room?:2:83
+:2:13
+blah189:0
+<189> : storage room? 
+190:0:49
+00:15:40,920 --> 00:15:43,787:1:48
+We're missing:2:87
+a very important prop.:2:97
+:2:13
+blah190:0
+<190> : we're missing a very important prop. 
+191:0:49
+00:15:44,023 --> 00:15:45,547:1:48
+Come on.:2:67
+:2:13
+blah191:0
+<191> : come on. 
+192:0:49
+00:15:59,005 --> 00:16:01,235:1:48
+l'm having trouble.:2:108
+:2:13
+blah192:0
+<192> : l'm having trouble. 
+193:0:49
+00:16:01,407 --> 00:16:03,602:1:48
+Well, just flick it.:2:87
+:2:13
+blah193:0
+<193> : well, just flick it. 
+194:0:49
+00:16:04,043 --> 00:16:09,413:1:48
+Now, what exactly:2:78
+did you need to find?:2:100
+:2:13
+blah194:0
+<194> : now, what exactly did you need to find? 
+195:0:49
+00:16:11,751 --> 00:16:15,915:1:48
+- Lana?:2:45
+- Oh, did l do that?:2:45
+:2:13
+blah195:0
+<195> : - lana? - oh, did l do that? 
+196:0:49
+00:16:17,256 --> 00:16:18,917:1:48
+What are you looking for?:2:87
+:2:13
+blah196:0
+<196> : what are you looking for? 
+197:0:49
+00:16:19,091 --> 00:16:24,085:1:48
+Well, now, l don't know:2:87
+the exact technical name for it, but...:2:116
+:2:13
+blah197:0
+<197> : well, now, l don't know the exact technical name for it, but... 
+198:0:49
+00:16:25,131 --> 00:16:30,899:1:48
+Does anything--?:2:68
+Does anything in here look like it?:2:68
+:2:13
+blah198:0
+<198> : does anything--? does anything in here look like it? 
+199:0:49
+00:16:32,972 --> 00:16:36,169:1:48
+Oh, l think this might be it.:2:79
+:2:13
+blah199:0
+<199> : oh, l think this might be it. 
+200:0:50
+00:16:36,342 --> 00:16:41,302:1:48
+Oh, by George, l think you've got it.:2:79
+:2:13
+blah200:0
+<200> : oh, by george, l think you've got it. 
+201:0:50
+00:16:51,257 --> 00:16:54,590:1:48
+Diane, it's 1 :1 7 p.m.:2:68
+l have just concluded:2:108
+:2:13
+blah201:0
+<201> : diane, it's 1 :1 7 p.m. l have just concluded 
+202:0:50
+00:16:54,760 --> 00:16:56,751:1:48
+my second meditation of the day:2:109
+in lieu of sleep.:2:105
+:2:13
+blah202:0
+<202> : my second meditation of the day in lieu of sleep. 
+203:0:50
+00:16:56,929 --> 00:17:00,194:1:48
+And l feel completely refreshed:2:65
+and struck again by the realization:2:97
+:2:13
+blah203:0
+<203> : and l feel completely refreshed and struck again by the realization 
+204:0:50
+00:17:00,366 --> 00:17:02,527:1:48
+that all of us on this great big:2:116
+planet Earth:2:112
+:2:13
+blah204:0
+<204> : that all of us on this great big planet earth 
+205:0:50
+00:17:02,702 --> 00:17:04,761:1:48
+live at only a fraction:2:108
+of our potential.:2:111
+:2:13
+blah205:0
+<205> : live at only a fraction of our potential. 
+206:0:50
+00:17:06,172 --> 00:17:08,800:1:48
+We are working round the clock:2:87
+on the cave petroglyph.:2:111
+:2:13
+blah206:0
+<206> : we are working round the clock on the cave petroglyph. 
+207:0:50
+00:17:08,974 --> 00:17:12,273:1:48
+l am certain that the answers lie:2:108
+in this mysterious etching.:2:105
+:2:13
+blah207:0
+<207> : l am certain that the answers lie in this mysterious etching. 
+208:0:50
+00:17:12,445 --> 00:17:14,037:1:48
+l am also convinced:2:108
+that Windom Earle:2:116
+:2:13
+blah208:0
+<208> : l am also convinced that windom earle 
+209:0:50
+00:17:14,213 --> 00:17:16,340:1:48
+is searching for exactly:2:105
+the same thing as we are:2:116
+:2:13
+blah209:0
+<209> : is searching for exactly the same thing as we are 
+210:0:50
+00:17:16,515 --> 00:17:18,710:1:48
+for diametrically opposite reasons.:2:102
+:2:13
+blah210:0
+<210> : for diametrically opposite reasons. 
+211:0:50
+00:17:18,884 --> 00:17:22,320:1:48
+lf l'm correct in my assumptions:2:108
+about the power of this unholy place,:2:97
+:2:13
+blah211:0
+<211> : lf l'm correct in my assumptions about the power of this unholy place, 
+212:0:50
+00:17:22,488 --> 00:17:25,150:1:48
+God help us if he gets there first.:2:71
+:2:13
+blah212:0
+<212> : god help us if he gets there first. 
+213:0:50
+00:17:25,858 --> 00:17:27,291:1:48
+Diane, at this particular juncture,:2:68
+:2:13
+blah213:0
+<213> : diane, at this particular juncture, 
+214:0:50
+00:17:27,460 --> 00:17:31,157:1:48
+l would like to make specific mention:2:108
+of Annie Blackburn.:2:111
+:2:13
+blah214:0
+<214> : l would like to make specific mention of annie blackburn. 
+215:0:50
+00:17:31,330 --> 00:17:33,890:1:48
+She is a completely original:2:83
+human being.:2:104
+:2:13
+blah215:0
+<215> : she is a completely original human being. 
+216:0:50
+00:17:34,100 --> 00:17:37,627:1:48
+Her responses,:2:72
+as pure as those of a child.:2:97
+:2:13
+blah216:0
+<216> : her responses, as pure as those of a child. 
+217:0:50
+00:17:37,837 --> 00:17:41,034:1:48
+l must be honest, l haven't felt this way:2:108
+about a woman since Caroline.:2:97
+:2:13
+blah217:0
+<217> : l must be honest, l haven't felt this way about a woman since caroline. 
+218:0:50
+00:17:41,207 --> 00:17:43,505:1:48
+lt has taken meeting Annie:2:108
+for me to realize:2:102
+:2:13
+blah218:0
+<218> : lt has taken meeting annie for me to realize 
+219:0:50
+00:17:43,676 --> 00:17:46,338:1:48
+how gray my life has been:2:104
+since Caroline's death.:2:115
+:2:13
+blah219:0
+<219> : how gray my life has been since caroline's death. 
+220:0:50
+00:17:46,512 --> 00:17:49,709:1:48
+How cold and solitary.:2:72
+:2:13
+blah220:0
+<220> : how cold and solitary. 
+221:0:50
+00:17:51,183 --> 00:17:52,480:1:48
+Although occasionally,:2:65
+:2:13
+blah221:0
+<221> : although occasionally, 
+222:0:50
+00:17:52,651 --> 00:17:54,744:1:48
+there is something to be said:2:116
+for solitude.:2:102
+:2:13
+blah222:0
+<222> : there is something to be said for solitude. 
+223:0:50
+00:18:02,495 --> 00:18:05,760:1:48
+Annie Blackburn,:2:65
+you have almost perfect timing.:2:121
+:2:13
+blah223:0
+<223> : annie blackburn, you have almost perfect timing. 
+224:0:50
+00:18:05,931 --> 00:18:08,695:1:48
+That's not:2:84
+what our choreographer says.:2:119
+:2:13
+blah224:0
+<224> : that's not what our choreographer says. 
+225:0:50
+00:18:10,503 --> 00:18:12,164:1:48
+What can l do for you?:2:87
+:2:13
+blah225:0
+<225> : what can l do for you? 
+226:0:50
+00:18:12,338 --> 00:18:15,330:1:48
+Well, l need to give a speech:2:87
+in six hours.:2:105
+:2:13
+blah226:0
+<226> : well, l need to give a speech in six hours. 
+227:0:50
+00:18:15,508 --> 00:18:17,032:1:48
+l haven't written a word,:2:108
+:2:13
+blah227:0
+<227> : l haven't written a word, 
+228:0:50
+00:18:17,209 --> 00:18:19,575:1:48
+and l don't have any idea:2:97
+what l wanna say.:2:119
+:2:13
+blah228:0
+<228> : and l don't have any idea what l wanna say. 
+229:0:50
+00:18:19,745 --> 00:18:21,337:1:48
+l'm in a complete:2:108
+sweaty-palmed panic,:2:115
+:2:13
+blah229:0
+<229> : l'm in a complete sweaty-palmed panic, 
+230:0:50
+00:18:21,514 --> 00:18:24,278:1:48
+and l need to talk to someone,:2:97
+namely you.:2:110
+:2:13
+blah230:0
+<230> : and l need to talk to someone, namely you. 
+231:0:50
+00:18:24,450 --> 00:18:25,747:1:48
+What's your topic?:2:87
+:2:13
+blah231:0
+<231> : what's your topic? 
+232:0:50
+00:18:25,918 --> 00:18:28,352:1:48
+What you can do:2:87
+to save our local forests.:2:116
+:2:13
+blah232:0
+<232> : what you can do to save our local forests. 
+233:0:50
+00:18:28,521 --> 00:18:31,513:1:48
+l just don't wanna stand up there:2:108
+like some deranged Barbie doll,:2:108
+:2:13
+blah233:0
+<233> : l just don't wanna stand up there like some deranged barbie doll, 
+234:0:50
+00:18:31,690 --> 00:18:34,454:1:48
+saying things like,:2:115
+''Make sure your campfires are out,:2:39
+:2:13
+blah234:0
+<234> : saying things like, ''make sure your campfires are out, 
+235:0:50
+00:18:34,660 --> 00:18:36,218:1:48
+kind of like my brain.'':2:107
+:2:13
+blah235:0
+<235> : kind of like my brain.'' 
+236:0:50
+00:18:36,395 --> 00:18:39,694:1:48
+- You're terrified of public speaking.:2:45
+- Yes.:2:45
+:2:13
+blah236:0
+<236> : - you're terrified of public speaking. - yes. 
+237:0:50
+00:18:39,865 --> 00:18:42,766:1:48
+All right, well...:2:65
+:2:13
+blah237:0
+<237> : all right, well... 
+238:0:50
+00:18:43,969 --> 00:18:47,029:1:48
+...our forests need saving because:2:46
+of the way people regard them.:2:111
+:2:13
+blah238:0
+<238> : ...our forests need saving because of the way people regard them. 
+239:0:50
+00:18:47,606 --> 00:18:48,937:1:48
+Expendable.:2:69
+:2:13
+blah239:0
+<239> : expendable. 
+240:0:50
+00:18:49,308 --> 00:18:51,469:1:48
+lf the Ghostwood development:2:108
+cost thousands of lives,:2:99
+:2:13
+blah240:0
+<240> : lf the ghostwood development cost thousands of lives, 
+241:0:50
+00:18:51,677 --> 00:18:54,544:1:48
+do you think it would have:2:100
+a chance of going forward?:2:97
+:2:13
+blah241:0
+<241> : do you think it would have a chance of going forward? 
+242:0:50
+00:18:55,181 --> 00:18:57,411:1:48
+Well, trees aren't the same:2:87
+as people.:2:97
+:2:13
+blah242:0
+<242> : well, trees aren't the same as people. 
+243:0:50
+00:18:57,583 --> 00:18:59,574:1:48
+But they are alive.:2:66
+:2:13
+blah243:0
+<243> : but they are alive. 
+244:0:50
+00:19:00,886 --> 00:19:04,583:1:48
+Your forest is beautiful:2:89
+and peaceful.:2:97
+:2:13
+blah244:0
+<244> : your forest is beautiful and peaceful. 
+245:0:50
+00:19:06,125 --> 00:19:08,093:1:48
+Part of it's been damaged.:2:80
+:2:13
+blah245:0
+<245> : part of it's been damaged. 
+246:0:50
+00:19:08,461 --> 00:19:11,726:1:48
+l've tried to replant,:2:108
+but nothing's taken root.:2:98
+:2:13
+blah246:0
+<246> : l've tried to replant, but nothing's taken root. 
+247:0:50
+00:19:12,431 --> 00:19:15,332:1:48
+Every forest has its shadow.:2:69
+:2:13
+blah247:0
+<247> : every forest has its shadow. 
+248:0:50
+00:19:16,936 --> 00:19:19,928:1:48
+l can see half my life's history:2:108
+in your face,:2:105
+:2:13
+blah248:0
+<248> : l can see half my life's history in your face, 
+249:0:50
+00:19:20,105 --> 00:19:22,403:1:48
+and l'm not sure that l want to.:2:97
+:2:13
+blah249:0
+<249> : and l'm not sure that l want to. 
+250:0:50
+00:19:30,716 --> 00:19:33,583:1:48
+l don't wanna talk about trees:2:108
+anymore.:2:97
+:2:13
+blah250:0
+<250> : l don't wanna talk about trees anymore. 
+251:0:50
+00:19:43,529 --> 00:19:46,123:1:48
+All l know is,:2:65
+l wanna make love with you.:2:108
+:2:13
+blah251:0
+<251> : all l know is, l wanna make love with you. 
+252:0:50
+00:20:08,821 --> 00:20:14,123:1:48
+And this is me with last year's:2:65
+regional champion from Yakima.:2:114
+:2:13
+blah252:0
+<252> : and this is me with last year's regional champion from yakima. 
+253:0:50
+00:20:14,393 --> 00:20:17,692:1:48
+He was cute, but a little slow. Next.:2:72
+:2:13
+blah253:0
+<253> : he was cute, but a little slow. next. 
+254:0:50
+00:20:19,965 --> 00:20:22,866:1:48
+Oh, and this is me:2:79
+with Brock Farmington,:2:119
+:2:13
+blah254:0
+<254> : oh, and this is me with brock farmington, 
+255:0:50
+00:20:23,335 --> 00:20:25,530:1:48
+triple-A champion from Spokane.:2:116
+:2:13
+blah255:0
+<255> : triple-a champion from spokane. 
+256:0:50
+00:20:25,771 --> 00:20:28,069:1:48
+Superior upper-body strength,:2:83
+:2:13
+blah256:0
+<256> : superior upper-body strength, 
+257:0:50
+00:20:28,274 --> 00:20:32,540:1:48
+and quads like bridge supports.:2:97
+:2:13
+blah257:0
+<257> : and quads like bridge supports. 
+258:0:50
+00:20:33,145 --> 00:20:36,706:1:48
+l pinned him in a minute five.:2:108
+:2:13
+blah258:0
+<258> : l pinned him in a minute five. 
+259:0:50
+00:20:36,882 --> 00:20:38,406:1:48
+Next.:2:78
+:2:13
+blah259:0
+<259> : next. 
+260:0:50
+00:20:40,219 --> 00:20:44,679:1:48
+Oh, this is me:2:79
+with all the stuff l won.:2:119
+:2:13
+blah260:0
+<260> : oh, this is me with all the stuff l won. 
+261:0:50
+00:20:46,926 --> 00:20:48,587:1:48
+- That's nice.:2:45
+- Way to go.:2:45
+:2:13
+blah261:0
+<261> : - that's nice. - way to go. 
+262:0:50
+00:20:49,862 --> 00:20:51,921:1:48
+Thank you, Nadine.:2:84
+:2:13
+blah262:0
+<262> : thank you, nadine. 
+263:0:50
+00:20:52,097 --> 00:20:54,588:1:48
+Well, now,:2:87
+:2:13
+blah263:0
+<263> : well, now, 
+264:0:50
+00:20:54,800 --> 00:20:58,702:1:48
+l suppose all of you are wondering:2:108
+just why we've gathered here today.:2:106
+:2:13
+blah264:0
+<264> : l suppose all of you are wondering just why we've gathered here today. 
+265:0:50
+00:20:58,871 --> 00:21:04,537:1:48
+See, l learned that when a couple:2:83
+is contemplating div--:2:105
+:2:13
+blah265:0
+<265> : see, l learned that when a couple is contemplating div-- 
+266:0:50
+00:21:04,843 --> 00:21:06,401:1:48
+Breaking up,:2:66
+:2:13
+blah266:0
+<266> : breaking up, 
+267:0:50
+00:21:06,579 --> 00:21:11,915:1:48
+well, sometimes it's easier:2:119
+to talk about our feelings:2:116
+:2:13
+blah267:0
+<267> : well, sometimes it's easier to talk about our feelings 
+268:0:50
+00:21:12,117 --> 00:21:13,880:1:48
+when we're around other people.:2:119
+:2:13
+blah268:0
+<268> : when we're around other people. 
+269:0:50
+00:21:14,053 --> 00:21:19,582:1:48
+So, Nadine,:2:83
+maybe you'd like to begin.:2:109
+:2:13
+blah269:0
+<269> : so, nadine, maybe you'd like to begin. 
+270:0:50
+00:21:20,025 --> 00:21:21,822:1:48
+Okay.:2:79
+:2:13
+blah270:0
+<270> : okay. 
+271:0:50
+00:21:23,128 --> 00:21:24,425:1:48
+Well, l guess it all started:2:87
+:2:13
+blah271:0
+<271> : well, l guess it all started 
+272:0:50
+00:21:24,597 --> 00:21:28,727:1:48
+when l noticed Mike's buns:2:119
+in the hall at school.:2:105
+:2:13
+blah272:0
+<272> : when l noticed mike's buns in the hall at school. 
+273:0:50
+00:21:29,401 --> 00:21:30,959:1:48
+Yes.:2:89
+:2:13
+blah273:0
+<273> : yes. 
+274:0:50
+00:21:31,403 --> 00:21:34,065:1:48
+Well, how are you feeling now?:2:87
+:2:13
+blah274:0
+<274> : well, how are you feeling now? 
+275:0:50
+00:21:34,740 --> 00:21:38,972:1:48
+Well, a little guilty, l guess.:2:87
+:2:13
+blah275:0
+<275> : well, a little guilty, l guess. 
+276:0:50
+00:21:39,144 --> 00:21:45,549:1:48
+l mean, Mike and l are hot.:2:108
+:2:13
+blah276:0
+<276> : l mean, mike and l are hot. 
+277:0:50
+00:21:45,718 --> 00:21:47,709:1:48
+And Miss Twin Peaks is tonight,:2:65
+:2:13
+blah277:0
+<277> : and miss twin peaks is tonight, 
+278:0:50
+00:21:47,886 --> 00:21:52,084:1:48
+and Mr. Pinkle thinks:2:97
+l'm a show-business natural.:2:108
+:2:13
+blah278:0
+<278> : and mr. pinkle thinks l'm a show-business natural. 
+279:0:50
+00:21:52,958 --> 00:21:57,486:1:48
+Well, l mean, because l'm so happy,:2:87
+:2:13
+blah279:0
+<279> : well, l mean, because l'm so happy, 
+280:0:50
+00:21:57,663 --> 00:21:59,893:1:48
+l worry about Ed being sad.:2:108
+:2:13
+blah280:0
+<280> : l worry about ed being sad. 
+281:0:50
+00:22:01,467 --> 00:22:06,769:1:48
+Ed, is there something:2:69
+that you'd like to tell Nadine?:2:116
+:2:13
+blah281:0
+<281> : ed, is there something that you'd like to tell nadine? 
+282:0:50
+00:22:08,140 --> 00:22:10,074:1:48
+Nadine...:2:78
+:2:13
+blah282:0
+<282> : nadine... 
+283:0:50
+00:22:12,144 --> 00:22:15,580:1:48
+...Norma and l:2:46
+plan on getting married.:2:112
+:2:13
+blah283:0
+<283> : ...norma and l plan on getting married. 
+284:0:50
+00:22:20,519 --> 00:22:22,282:1:48
+Really?:2:82
+:2:13
+blah284:0
+<284> : really? 
+285:0:50
+00:22:23,522 --> 00:22:26,320:1:48
+Well, that's wonderful, Eddie,:2:87
+:2:13
+blah285:0
+<285> : well, that's wonderful, eddie, 
+286:0:50
+00:22:26,492 --> 00:22:29,791:1:48
+because Mike and me:2:98
+are getting married too.:2:97
+:2:13
+blah286:0
+<286> : because mike and me are getting married too. 
+287:0:50
+00:23:25,317 --> 00:23:27,808:1:48
+Which way is the castle?:2:87
+:2:13
+blah287:0
+<287> : which way is the castle? 
+288:0:50
+00:23:43,102 --> 00:23:45,093:1:48
+- l waited for you.:2:45
+- Thanks, Harry.:2:45
+:2:13
+blah288:0
+<288> : - l waited for you. - thanks, harry. 
+289:0:50
+00:23:45,270 --> 00:23:47,204:1:48
+Not that he's too talkative.:2:78
+:2:13
+blah289:0
+<289> : not that he's too talkative. 
+290:0:50
+00:23:47,372 --> 00:23:50,864:1:48
+He checks out okay physically.:2:72
+Doc ran some blood tests.:2:68
+:2:13
+blah290:0
+<290> : he checks out okay physically. doc ran some blood tests. 
+291:0:50
+00:23:52,244 --> 00:23:53,768:1:48
+He's been shot full of haloperidol.:2:72
+:2:13
+blah291:0
+<291> : he's been shot full of haloperidol. 
+292:0:50
+00:23:54,780 --> 00:23:56,111:1:48
+Right.:2:82
+:2:13
+blah292:0
+<292> : right. 
+293:0:50
+00:23:57,616 --> 00:23:59,379:1:48
+Garland?:2:71
+:2:13
+blah293:0
+<293> : garland? 
+294:0:50
+00:23:59,551 --> 00:24:02,019:1:48
+Did Windom Earle do this to you?:2:68
+:2:13
+blah294:0
+<294> : did windom earle do this to you? 
+295:0:50
+00:24:02,187 --> 00:24:03,984:1:48
+Garland?:2:71
+:2:13
+blah295:0
+<295> : garland? 
+296:0:50
+00:24:05,023 --> 00:24:07,048:1:48
+Odd name.:2:79
+:2:13
+blah296:0
+<296> : odd name. 
+297:0:50
+00:24:08,127 --> 00:24:09,856:1:48
+Judy Garland?:2:74
+:2:13
+blah297:0
+<297> : judy garland? 
+298:0:50
+00:24:10,395 --> 00:24:12,022:1:48
+Was it Windom Earle?:2:87
+:2:13
+blah298:0
+<298> : was it windom earle? 
+299:0:50
+00:24:14,900 --> 00:24:18,495:1:48
+lt was God, l suppose.:2:108
+:2:13
+blah299:0
+<299> : lt was god, l suppose. 
+300:0:51
+00:24:18,871 --> 00:24:21,567:1:48
+Garland, where did he take you?:2:71
+:2:13
+blah300:0
+<300> : garland, where did he take you? 
+301:0:51
+00:24:22,074 --> 00:24:23,302:1:48
+The woods?:2:84
+:2:13
+blah301:0
+<301> : the woods? 
+302:0:51
+00:24:24,309 --> 00:24:25,640:1:48
+Can you be more specific?:2:67
+:2:13
+blah302:0
+<302> : can you be more specific? 
+303:0:51
+00:24:27,079 --> 00:24:29,206:1:48
+They were lovely.:2:84
+:2:13
+blah303:0
+<303> : they were lovely. 
+304:0:51
+00:24:30,015 --> 00:24:35,817:1:48
+Dark. The king of Romania:2:68
+was unable to attend.:2:119
+:2:13
+blah304:0
+<304> : dark. the king of romania was unable to attend. 
+305:0:51
+00:24:41,727 --> 00:24:44,252:1:48
+Harry, this is gonna take some time.:2:72
+:2:13
+blah305:0
+<305> : harry, this is gonna take some time. 
+306:0:51
+00:24:44,930 --> 00:24:47,626:1:48
+- How much time we got?:2:45
+- Not enough.:2:45
+:2:13
+blah306:0
+<306> : - how much time we got? - not enough. 
+307:0:51
+00:24:47,800 --> 00:24:51,167:1:48
+Let's leave him here with us.:2:76
+Maybe something will bubble up.:2:77
+:2:13
+blah307:0
+<307> : let's leave him here with us. maybe something will bubble up. 
+308:0:51
+00:24:55,140 --> 00:24:57,165:1:48
+Harry, we're in trouble.:2:72
+:2:13
+blah308:0
+<308> : harry, we're in trouble. 
+309:0:51
+00:24:57,342 --> 00:24:59,242:1:48
+lf the door to the Black Lodge:2:108
+does exist,:2:100
+:2:13
+blah309:0
+<309> : lf the door to the black lodge does exist, 
+310:0:51
+00:24:59,411 --> 00:25:01,675:1:48
+it probably exists at a point in time.:2:105
+:2:13
+blah310:0
+<310> : it probably exists at a point in time. 
+311:0:51
+00:25:01,914 --> 00:25:03,347:1:48
+Now, an object, such as a door,:2:78
+:2:13
+blah311:0
+<311> : now, an object, such as a door, 
+312:0:51
+00:25:03,549 --> 00:25:05,983:1:48
+normally exists at a point:2:110
+in time and space.:2:105
+:2:13
+blah312:0
+<312> : normally exists at a point in time and space. 
+313:0:51
+00:25:06,451 --> 00:25:07,679:1:48
+By way of contrast,:2:66
+:2:13
+blah313:0
+<313> : by way of contrast, 
+314:0:51
+00:25:07,853 --> 00:25:10,253:1:48
+a shooting star normally exists:2:97
+at a point in time:2:97
+:2:13
+blah314:0
+<314> : a shooting star normally exists at a point in time 
+315:0:51
+00:25:10,422 --> 00:25:11,855:1:48
+over a continuum of space.:2:111
+:2:13
+blah315:0
+<315> : over a continuum of space. 
+316:0:51
+00:25:12,057 --> 00:25:15,288:1:48
+But taken from the star's point of view,:2:66
+it's a completely different experience.:2:105
+:2:13
+blah316:0
+<316> : but taken from the star's point of view, it's a completely different experience. 
+317:0:51
+00:25:15,460 --> 00:25:16,791:1:48
+You just lost me.:2:89
+:2:13
+blah317:0
+<317> : you just lost me. 
+318:0:51
+00:25:16,962 --> 00:25:20,193:1:48
+lf we're not at the right place:2:108
+at exactly the right time,:2:97
+:2:13
+blah318:0
+<318> : lf we're not at the right place at exactly the right time, 
+319:0:51
+00:25:20,365 --> 00:25:22,356:1:48
+we won't find our way in.:2:119
+:2:13
+blah319:0
+<319> : we won't find our way in. 
+320:0:51
+00:25:22,568 --> 00:25:24,433:1:48
+Sheriff?:2:83
+:2:13
+blah320:0
+<320> : sheriff? 
+321:0:51
+00:25:24,636 --> 00:25:27,605:1:48
+Could the Four-H Club:2:67
+have anything to do with all of this?:2:104
+:2:13
+blah321:0
+<321> : could the four-h club have anything to do with all of this? 
+322:0:51
+00:25:28,373 --> 00:25:29,931:1:48
+Doubtful, Andy.:2:68
+:2:13
+blah322:0
+<322> : doubtful, andy. 
+323:0:51
+00:25:34,847 --> 00:25:37,338:1:48
+This has to be the last box.:2:84
+Look at it.:2:76
+:2:13
+blah323:0
+<323> : this has to be the last box. look at it. 
+324:0:51
+00:25:37,516 --> 00:25:39,450:1:48
+l can't take any more of this.:2:108
+:2:13
+blah324:0
+<324> : l can't take any more of this. 
+325:0:51
+00:25:39,785 --> 00:25:41,878:1:48
+Boxes inside boxes.:2:66
+:2:13
+blah325:0
+<325> : boxes inside boxes. 
+326:0:51
+00:25:42,087 --> 00:25:44,385:1:48
+Whatever is in that:2:87
+better be worth a fortune.:2:98
+:2:13
+blah326:0
+<326> : whatever is in that better be worth a fortune. 
+327:0:51
+00:25:44,790 --> 00:25:47,020:1:48
+Maybe it's not a box at all.:2:77
+:2:13
+blah327:0
+<327> : maybe it's not a box at all. 
+328:0:51
+00:25:47,392 --> 00:25:50,589:1:48
+Maybe it's just a block:2:77
+of stainless steel.:2:111
+:2:13
+blah328:0
+<328> : maybe it's just a block of stainless steel. 
+329:0:51
+00:25:50,796 --> 00:25:54,027:1:48
+- Eckhardt's last little joke.:2:45
+- lt'd be a good one.:2:45
+:2:13
+blah329:0
+<329> : - eckhardt's last little joke. - lt'd be a good one. 
+330:0:51
+00:25:54,533 --> 00:25:58,469:1:48
+Let's channel:2:76
+some of that high wit into the job.:2:115
+:2:13
+blah330:0
+<330> : let's channel some of that high wit into the job. 
+331:0:51
+00:25:59,238 --> 00:26:00,466:1:48
+Again.:2:65
+:2:13
+blah331:0
+<331> : again. 
+332:0:51
+00:26:00,672 --> 00:26:03,470:1:48
+l can't believe a little crumb like that:2:108
+:2:13
+blah332:0
+<332> : l can't believe a little crumb like that 
+333:0:51
+00:26:03,675 --> 00:26:07,475:1:48
+can stand up to:2:99
+this Cram Jack all-duty vise.:2:116
+:2:13
+blah333:0
+<333> : can stand up to this cram jack all-duty vise. 
+334:0:51
+00:26:07,679 --> 00:26:13,140:1:48
+On three. One, two and three!:2:79
+:2:13
+blah334:0
+<334> : on three. one, two and three! 
+335:0:51
+00:26:15,320 --> 00:26:17,914:1:48
+l'm sorry, Andrew.:2:108
+That was my fault.:2:84
+:2:13
+blah335:0
+<335> : l'm sorry, andrew. that was my fault. 
+336:0:51
+00:26:24,863 --> 00:26:26,763:1:48
+Dumb boxes!:2:68
+:2:13
+blah336:0
+<336> : dumb boxes! 
+337:0:51
+00:26:34,506 --> 00:26:36,064:1:48
+Andrew!:2:65
+:2:13
+blah337:0
+<337> : andrew! 
+338:0:51
+00:26:45,250 --> 00:26:47,241:1:48
+Darn boxes.:2:68
+:2:13
+blah338:0
+<338> : darn boxes. 
+339:0:51
+00:26:52,724 --> 00:26:54,954:1:48
+Nice shooting, Andrew.:2:78
+:2:13
+blah339:0
+<339> : nice shooting, andrew. 
+340:0:51
+00:26:55,160 --> 00:26:57,526:1:48
+Look at that.:2:76
+:2:13
+blah340:0
+<340> : look at that. 
+341:0:51
+00:26:58,297 --> 00:27:00,390:1:48
+A key!:2:65
+:2:13
+blah341:0
+<341> : a key! 
+342:0:51
+00:27:03,302 --> 00:27:08,239:1:48
+And where there's a key,:2:65
+there's a lock.:2:116
+:2:13
+blah342:0
+<342> : and where there's a key, there's a lock. 
+343:0:51
+00:27:08,807 --> 00:27:11,367:1:48
+lt should be kept safe.:2:108
+:2:13
+blah343:0
+<343> : lt should be kept safe. 
+344:0:51
+00:27:11,777 --> 00:27:15,804:1:48
+Yes, in plain sight.:2:89
+:2:13
+blah344:0
+<344> : yes, in plain sight. 
+345:0:51
+00:27:16,248 --> 00:27:20,116:1:48
+You two don't trust each other?:2:89
+:2:13
+blah345:0
+<345> : you two don't trust each other? 
+346:0:51
+00:27:21,086 --> 00:27:22,951:1:48
+Of course we do.:2:79
+:2:13
+blah346:0
+<346> : of course we do. 
+347:0:51
+00:27:23,121 --> 00:27:26,215:1:48
+Like brother, like sister.:2:76
+:2:13
+blah347:0
+<347> : like brother, like sister. 
+348:0:51
+00:27:28,727 --> 00:27:30,194:1:48
+How about here?:2:72
+:2:13
+blah348:0
+<348> : how about here? 
+349:0:51
+00:27:32,230 --> 00:27:33,993:1:48
+ln the cake saver.:2:108
+:2:13
+blah349:0
+<349> : ln the cake saver. 
+350:0:51
+00:27:34,199 --> 00:27:36,997:1:48
+ln plain sight.:2:108
+:2:13
+blah350:0
+<350> : ln plain sight. 
+351:0:51
+00:27:37,202 --> 00:27:42,401:1:48
+- So we have a key.:2:45
+- Yes, we do.:2:45
+:2:13
+blah351:0
+<351> : - so we have a key. - yes, we do. 
+352:0:51
+00:27:53,819 --> 00:27:56,253:1:48
+You look truly beautiful.:2:89
+:2:13
+blah352:0
+<352> : you look truly beautiful. 
+353:0:51
+00:27:56,722 --> 00:27:58,280:1:48
+Read us your speech.:2:82
+:2:13
+blah353:0
+<353> : read us your speech. 
+354:0:51
+00:28:00,092 --> 00:28:02,287:1:48
+l'd rather talk about the truth:2:108
+right now.:2:114
+:2:13
+blah354:0
+<354> : l'd rather talk about the truth right now. 
+355:0:51
+00:28:04,096 --> 00:28:05,529:1:48
+What truth is that?:2:87
+:2:13
+blah355:0
+<355> : what truth is that? 
+356:0:51
+00:28:06,031 --> 00:28:08,431:1:48
+l know something's going on:2:108
+with you and Benjamin Horne,:2:119
+:2:13
+blah356:0
+<356> : l know something's going on with you and benjamin horne, 
+357:0:51
+00:28:08,600 --> 00:28:09,828:1:48
+and l wanna know what it is.:2:97
+:2:13
+blah357:0
+<357> : and l wanna know what it is. 
+358:0:51
+00:28:10,168 --> 00:28:12,329:1:48
+Donna,:2:68
+don't talk to your mother like that.:2:100
+:2:13
+blah358:0
+<358> : donna, don't talk to your mother like that. 
+359:0:51
+00:28:12,537 --> 00:28:16,132:1:48
+You know, l'm really tired of you:2:89
+talking to me like l'm a child.:2:116
+:2:13
+blah359:0
+<359> : you know, l'm really tired of you talking to me like l'm a child. 
+360:0:51
+00:28:16,775 --> 00:28:18,936:1:48
+l wanna know what's going on.:2:108
+:2:13
+blah360:0
+<360> : l wanna know what's going on. 
+361:0:51
+00:28:20,379 --> 00:28:23,177:1:48
+Donna, l understand your feeling.:2:68
+:2:13
+blah361:0
+<361> : donna, l understand your feeling. 
+362:0:51
+00:28:23,382 --> 00:28:25,646:1:48
+But there are some things:2:66
+you just have to trust.:2:121
+:2:13
+blah362:0
+<362> : but there are some things you just have to trust. 
+363:0:51
+00:28:25,851 --> 00:28:28,547:1:48
+You're young:2:89
+and you don't know all the limitations.:2:97
+:2:13
+blah363:0
+<363> : you're young and you don't know all the limitations. 
+364:0:51
+00:28:28,754 --> 00:28:30,449:1:48
+l know the limitations of lying.:2:108
+:2:13
+blah364:0
+<364> : l know the limitations of lying. 
+365:0:51
+00:28:30,622 --> 00:28:32,453:1:48
+l know that you raised me:2:108
+to tell the truth.:2:116
+:2:13
+blah365:0
+<365> : l know that you raised me to tell the truth. 
+366:0:51
+00:28:32,758 --> 00:28:35,386:1:48
+l expect the same from you.:2:108
+:2:13
+blah366:0
+<366> : l expect the same from you. 
+367:0:51
+00:28:37,963 --> 00:28:39,863:1:48
+lf you're not gonna tell me:2:108
+what l need to know,:2:119
+:2:13
+blah367:0
+<367> : lf you're not gonna tell me what l need to know, 
+368:0:51
+00:28:40,032 --> 00:28:41,499:1:48
+l'll find out from Benjamin Horne.:2:108
+:2:13
+blah368:0
+<368> : l'll find out from benjamin horne. 
+369:0:51
+00:28:41,700 --> 00:28:43,827:1:48
+- No.:2:45
+- Then tell me.:2:45
+:2:13
+blah369:0
+<369> : - no. - then tell me. 
+370:0:51
+00:28:47,839 --> 00:28:53,209:1:48
+All right, this is your choice,:2:65
+not mine.:2:110
+:2:13
+blah370:0
+<370> : all right, this is your choice, not mine. 
+371:0:51
+00:28:53,512 --> 00:28:55,309:1:48
+Donna.:2:68
+:2:13
+blah371:0
+<371> : donna. 
+372:0:51
+00:28:56,715 --> 00:28:58,410:1:48
+Donna!:2:68
+:2:13
+blah372:0
+<372> : donna! 
+373:0:51
+00:29:14,933 --> 00:29:16,833:1:48
+By heavens.:2:66
+:2:13
+blah373:0
+<373> : by heavens. 
+374:0:51
+00:29:17,002 --> 00:29:19,869:1:48
+Andy, take a look at this.:2:65
+:2:13
+blah374:0
+<374> : andy, take a look at this. 
+375:0:51
+00:29:20,038 --> 00:29:21,699:1:48
+What you mistook:2:87
+for the Four-H Club,:2:102
+:2:13
+blah375:0
+<375> : what you mistook for the four-h club, 
+376:0:51
+00:29:21,873 --> 00:29:24,603:1:48
+the four and the H,:2:116
+are actually astrological symbols.:2:97
+:2:13
+blah376:0
+<376> : the four and the h, are actually astrological symbols. 
+377:0:51
+00:29:24,810 --> 00:29:27,506:1:48
+- You mean, like planets?:2:45
+- Why, yes, Andy.:2:45
+:2:13
+blah377:0
+<377> : - you mean, like planets? - why, yes, andy. 
+378:0:51
+00:29:27,679 --> 00:29:29,408:1:48
+They stand for Jupiter and Saturn.:2:84
+:2:13
+blah378:0
+<378> : they stand for jupiter and saturn. 
+379:0:51
+00:29:29,581 --> 00:29:31,412:1:48
+Some of the others:2:83
+represent planets as well,:2:114
+:2:13
+blah379:0
+<379> : some of the others represent planets as well, 
+380:0:51
+00:29:31,583 --> 00:29:35,451:1:48
+but this particular part of the puzzle:2:98
+pertains to a precise planetary position.:2:112
+:2:13
+blah380:0
+<380> : but this particular part of the puzzle pertains to a precise planetary position. 
+381:0:51
+00:29:35,620 --> 00:29:38,919:1:48
+- Jupiter and Saturn in conjunction.:2:45
+- What's that supposed to mean?:2:45
+:2:13
+blah381:0
+<381> : - jupiter and saturn in conjunction. - what's that supposed to mean? 
+382:0:51
+00:29:39,357 --> 00:29:42,349:1:48
+Well, historically, Harry,:2:87
+when Jupiter and Saturn are conjunct,:2:119
+:2:13
+blah382:0
+<382> : well, historically, harry, when jupiter and saturn are conjunct, 
+383:0:51
+00:29:42,527 --> 00:29:45,257:1:48
+there are enormous shifts:2:116
+in power and fortune.:2:105
+:2:13
+blah383:0
+<383> : there are enormous shifts in power and fortune. 
+384:0:51
+00:29:45,430 --> 00:29:47,261:1:48
+Jupiter being expansive:2:74
+in its influence,:2:105
+:2:13
+blah384:0
+<384> : jupiter being expansive in its influence, 
+385:0:51
+00:29:47,466 --> 00:29:48,728:1:48
+Saturn, contractive.:2:83
+:2:13
+blah385:0
+<385> : saturn, contractive. 
+386:0:51
+00:29:48,900 --> 00:29:52,893:1:48
+Conjunction suggests a state:2:67
+of intensification, concentration.:2:111
+:2:13
+blah386:0
+<386> : conjunction suggests a state of intensification, concentration. 
+387:0:51
+00:29:53,071 --> 00:29:56,268:1:48
+What this indicates to me:2:87
+is the potential for explosive change,:2:105
+:2:13
+blah387:0
+<387> : what this indicates to me is the potential for explosive change, 
+388:0:51
+00:29:56,441 --> 00:29:59,069:1:48
+- good and bad.:2:45
+- So when's the next conjunction?:2:45
+:2:13
+blah388:0
+<388> : - good and bad. - so when's the next conjunction? 
+389:0:51
+00:30:00,045 --> 00:30:01,535:1:48
+Well, now, let's see.:2:87
+:2:13
+blah389:0
+<389> : well, now, let's see. 
+390:0:51
+00:30:01,713 --> 00:30:03,772:1:48
+According to the ephemeris...:2:65
+:2:13
+blah390:0
+<390> : according to the ephemeris... 
+391:0:51
+00:30:04,850 --> 00:30:08,342:1:48
+...the next conjunction is due:2:46
+January to June.:2:74
+:2:13
+blah391:0
+<391> : ...the next conjunction is due january to june. 
+392:0:51
+00:30:10,355 --> 00:30:11,788:1:48
+My God, Harry.:2:77
+:2:13
+blah392:0
+<392> : my god, harry. 
+393:0:51
+00:30:11,957 --> 00:30:13,288:1:48
+The door to the Lodge.:2:84
+:2:13
+blah393:0
+<393> : the door to the lodge. 
+394:0:51
+00:30:13,458 --> 00:30:16,359:1:48
+That's when it's open.:2:84
+That's what the puzzle is telling us.:2:84
+:2:13
+blah394:0
+<394> : that's when it's open. that's what the puzzle is telling us. 
+395:0:51
+00:30:16,962 --> 00:30:18,930:1:48
+lt's telling us:2:108
+when it's gonna be open.:2:119
+:2:13
+blah395:0
+<395> : lt's telling us when it's gonna be open. 
+396:0:51
+00:30:19,131 --> 00:30:22,123:1:48
+Protect the queen.:2:80
+:2:13
+blah396:0
+<396> : protect the queen. 
+397:0:51
+00:30:22,300 --> 00:30:26,134:1:48
+lf it's telling us when,:2:108
+then it must also tell us where.:2:116
+:2:13
+blah397:0
+<397> : lf it's telling us when, then it must also tell us where. 
+398:0:51
+00:30:26,371 --> 00:30:31,172:1:48
+Fear and love open the doors.:2:70
+:2:13
+blah398:0
+<398> : fear and love open the doors. 
+399:0:51
+00:30:32,444 --> 00:30:33,775:1:48
+What's he saying?:2:87
+:2:13
+blah399:0
+<399> : what's he saying? 
+400:0:52
+00:30:33,945 --> 00:30:38,678:1:48
+He said,:2:72
+''Fear and love open the doors.'':2:39
+:2:13
+blah400:0
+<400> : he said, ''fear and love open the doors.'' 
+401:0:52
+00:30:39,651 --> 00:30:42,779:1:48
+Two doors, two lodges.:2:84
+:2:13
+blah401:0
+<401> : two doors, two lodges. 
+402:0:52
+00:30:42,954 --> 00:30:44,785:1:48
+Fear opens one, the black.:2:70
+:2:13
+blah402:0
+<402> : fear opens one, the black. 
+403:0:52
+00:30:44,956 --> 00:30:46,981:1:48
+- Love, the other.:2:45
+- What's that mean?:2:45
+:2:13
+blah403:0
+<403> : - love, the other. - what's that mean? 
+404:0:52
+00:30:47,159 --> 00:30:49,024:1:48
+l don't know exactly.:2:108
+lt just came to me.:2:108
+:2:13
+blah404:0
+<404> : l don't know exactly. lt just came to me. 
+405:0:52
+00:30:49,261 --> 00:30:52,424:1:48
+How does the queen--?:2:72
+:2:13
+blah405:0
+<405> : how does the queen--? 
+406:0:52
+00:30:53,331 --> 00:30:55,595:1:48
+- Of course, the queen.:2:45
+- Of Romania?:2:45
+:2:13
+blah406:0
+<406> : - of course, the queen. - of romania? 
+407:0:52
+00:30:55,767 --> 00:30:58,827:1:48
+No. The chess game's final piece.:2:78
+Harry, follow my logic.:2:72
+:2:13
+blah407:0
+<407> : no. the chess game's final piece. harry, follow my logic. 
+408:0:52
+00:30:59,004 --> 00:31:02,167:1:48
+- lf Windom Earle takes the queen--:2:45
+- Game's not over till he takes the king.:2:45
+:2:13
+blah408:0
+<408> : - lf windom earle takes the queen-- - game's not over till he takes the king. 
+409:0:52
+00:31:02,340 --> 00:31:04,831:1:48
+That depends. Maybe he takes her:2:84
+to the doorway when it opens.:2:116
+:2:13
+blah409:0
+<409> : that depends. maybe he takes her to the doorway when it opens. 
+410:0:52
+00:31:05,043 --> 00:31:07,102:1:48
+- Which queen are we talking about?:2:45
+- Agent Cooper.:2:45
+:2:13
+blah410:0
+<410> : - which queen are we talking about? - agent cooper. 
+411:0:52
+00:31:07,312 --> 00:31:08,438:1:48
+Just a minute, Andy.:2:74
+:2:13
+blah411:0
+<411> : just a minute, andy. 
+412:0:52
+00:31:09,014 --> 00:31:11,881:1:48
+The queen. The queen.:2:84
+The crown. The queen.:2:84
+:2:13
+blah412:0
+<412> : the queen. the queen. the crown. the queen. 
+413:0:52
+00:31:12,050 --> 00:31:14,018:1:48
+- Harry, the queen.:2:45
+- Agent Cooper?:2:45
+:2:13
+blah413:0
+<413> : - harry, the queen. - agent cooper? 
+414:0:52
+00:31:14,219 --> 00:31:15,481:1:48
+Andy, please.:2:65
+:2:13
+blah414:0
+<414> : andy, please. 
+415:0:52
+00:31:15,654 --> 00:31:18,851:1:48
+Harry, Miss Twin Peaks.:2:72
+:2:13
+blah415:0
+<415> : harry, miss twin peaks. 
+416:0:52
+00:31:19,024 --> 00:31:21,788:1:48
+- Holy smokes, that's it.:2:45
+- Yeah. Yeah.:2:45
+:2:13
+blah416:0
+<416> : - holy smokes, that's it. - yeah. yeah. 
+417:0:52
+00:31:21,993 --> 00:31:23,722:1:48
+Agent Cooper, please.:2:65
+:2:13
+blah417:0
+<417> : agent cooper, please. 
+418:0:52
+00:31:26,965 --> 00:31:28,557:1:48
+Andy.:2:65
+:2:13
+blah418:0
+<418> : andy. 
+419:0:52
+00:31:32,204 --> 00:31:36,197:1:48
+Coop, the plant's been bugged.:2:67
+:2:13
+blah419:0
+<419> : coop, the plant's been bugged. 
+420:0:52
+00:31:36,708 --> 00:31:38,869:1:48
+This bonsai isn't from Josie, Harry.:2:84
+:2:13
+blah420:0
+<420> : this bonsai isn't from josie, harry. 
+421:0:52
+00:31:39,044 --> 00:31:41,638:1:48
+This bonsai's from Windom Earle.:2:84
+:2:13
+blah421:0
+<421> : this bonsai's from windom earle. 
+422:0:52
+00:31:42,247 --> 00:31:43,976:1:48
+He's way ahead of us,:2:72
+:2:13
+blah422:0
+<422> : he's way ahead of us, 
+423:0:52
+00:31:44,149 --> 00:31:46,515:1:48
+and we've been working for him:2:97
+from the beginning.:2:102
+:2:13
+blah423:0
+<423> : and we've been working for him from the beginning. 
+424:0:52
+00:31:46,685 --> 00:31:48,744:1:48
+- What time does that contest start?:2:45
+- Any minute.:2:45
+:2:13
+blah424:0
+<424> : - what time does that contest start? - any minute. 
+425:0:52
+00:31:48,954 --> 00:31:50,512:1:48
+Let's go.:2:76
+:2:13
+blah425:0
+<425> : let's go. 
+426:0:52
+00:31:51,223 --> 00:31:54,158:1:48
+Agent Cooper. Agent Cooper!:2:65
+:2:13
+blah426:0
+<426> : agent cooper. agent cooper! 
+427:0:52
+00:33:45,770 --> 00:33:47,635:1:48
+Welcome, ladies and gentlemen.:2:87
+:2:13
+blah427:0
+<427> : welcome, ladies and gentlemen. 
+428:0:52
+00:33:47,806 --> 00:33:50,070:1:48
+l hope you've had a good weekend.:2:108
+:2:13
+blah428:0
+<428> : l hope you've had a good weekend. 
+429:0:52
+00:33:50,275 --> 00:33:52,937:1:48
+And welcome:2:65
+to the Miss Twin Peaks Pageant,:2:116
+:2:13
+blah429:0
+<429> : and welcome to the miss twin peaks pageant, 
+430:0:52
+00:33:53,144 --> 00:33:57,274:1:48
+in which one of these lovely:2:105
+and talented young citizens:2:97
+:2:13
+blah430:0
+<430> : in which one of these lovely and talented young citizens 
+431:0:52
+00:33:57,482 --> 00:34:00,815:1:48
+will soon be crowned:2:119
+Miss Twin Peaks.:2:77
+:2:13
+blah431:0
+<431> : will soon be crowned miss twin peaks. 
+432:0:52
+00:34:00,985 --> 00:34:04,887:1:48
+And now, commencing:2:65
+our talent section of the show,:2:111
+:2:13
+blah432:0
+<432> : and now, commencing our talent section of the show, 
+433:0:52
+00:34:05,090 --> 00:34:06,785:1:48
+Lucy Moran.:2:76
+:2:13
+blah433:0
+<433> : lucy moran. 
+434:0:52
+00:34:25,744 --> 00:34:27,541:1:48
+Come on.:2:67
+:2:13
+blah434:0
+<434> : come on. 
+435:0:52
+00:34:38,022 --> 00:34:40,388:1:48
+Small town, man.:2:83
+:2:13
+blah435:0
+<435> : small town, man. 
+436:0:52
+00:34:58,710 --> 00:35:00,735:1:48
+So, what,:2:83
+did you bring your whole family?:2:100
+:2:13
+blah436:0
+<436> : so, what, did you bring your whole family? 
+437:0:52
+00:35:45,990 --> 00:35:48,959:1:48
+We're pulling in deputies from all over:2:87
+to surround the place.:2:116
+:2:13
+blah437:0
+<437> : we're pulling in deputies from all over to surround the place. 
+438:0:52
+00:35:49,127 --> 00:35:50,458:1:48
+They should be here any time.:2:84
+:2:13
+blah438:0
+<438> : they should be here any time. 
+439:0:52
+00:35:50,628 --> 00:35:53,791:1:48
+Harry, it is essential whoever wins:2:72
+this contest receive 24-hour guard,:2:116
+:2:13
+blah439:0
+<439> : harry, it is essential whoever wins this contest receive 24-hour guard, 
+440:0:52
+00:35:53,965 --> 00:35:55,728:1:48
+house security, l want the works.:2:104
+:2:13
+blah440:0
+<440> : house security, l want the works. 
+441:0:52
+00:35:55,900 --> 00:35:57,265:1:48
+As soon as she's announced.:2:65
+:2:13
+blah441:0
+<441> : as soon as she's announced. 
+442:0:52
+00:35:57,469 --> 00:36:00,597:1:48
+Our next entry:2:79
+is Lana Budding-Milford,:2:105
+:2:13
+blah442:0
+<442> : our next entry is lana budding-milford, 
+443:0:52
+00:36:00,805 --> 00:36:04,070:1:48
+who will perform a dance of...:2:119
+:2:13
+blah443:0
+<443> : who will perform a dance of... 
+444:0:52
+00:36:04,509 --> 00:36:07,842:1:48
+...contortionistic jazz exotica.:2:46
+:2:13
+blah444:0
+<444> : ...contortionistic jazz exotica. 
+445:0:52
+00:36:08,079 --> 00:36:10,479:1:48
+- Lana?:2:45
+- Agent Coop--:2:45
+:2:13
+blah445:0
+<445> : - lana? - agent coop-- 
+446:0:52
+00:37:12,544 --> 00:37:16,071:1:48
+There, my friend, is a real artist.:2:84
+:2:13
+blah446:0
+<446> : there, my friend, is a real artist. 
+447:0:52
+00:37:29,894 --> 00:37:33,523:1:48
+There is only one way to save a forest,:2:84
+an idea, or anything of value.:2:97
+:2:13
+blah447:0
+<447> : there is only one way to save a forest, an idea, or anything of value. 
+448:0:52
+00:37:34,198 --> 00:37:37,031:1:48
+And that is by refusing to stand by:2:65
+and watch it die.:2:97
+:2:13
+blah448:0
+<448> : and that is by refusing to stand by and watch it die. 
+449:0:52
+00:37:37,702 --> 00:37:40,865:1:48
+There is a law of nature,:2:84
+which is more fundamental to life:2:119
+:2:13
+blah449:0
+<449> : there is a law of nature, which is more fundamental to life 
+450:0:52
+00:37:41,072 --> 00:37:43,563:1:48
+than the laws of man.:2:116
+:2:13
+blah450:0
+<450> : than the laws of man. 
+451:0:52
+00:37:44,309 --> 00:37:46,436:1:48
+And when something you care about:2:65
+is in danger,:2:105
+:2:13
+blah451:0
+<451> : and when something you care about is in danger, 
+452:0:52
+00:37:46,611 --> 00:37:48,340:1:48
+you must fight to save it:2:121
+:2:13
+blah452:0
+<452> : you must fight to save it 
+453:0:52
+00:37:48,880 --> 00:37:51,075:1:48
+or lose it forever.:2:111
+:2:13
+blah453:0
+<453> : or lose it forever. 
+454:0:52
+00:37:51,950 --> 00:37:53,508:1:48
+Thank you.:2:84
+:2:13
+blah454:0
+<454> : thank you. 
+455:0:52
+00:37:57,455 --> 00:37:59,082:1:48
+Thank you, Audrey Horne.:2:84
+:2:13
+blah455:0
+<455> : thank you, audrey horne. 
+456:0:52
+00:37:59,724 --> 00:38:02,022:1:48
+Now a brief musical interlude.:2:78
+:2:13
+blah456:0
+<456> : now a brief musical interlude. 
+457:0:52
+00:38:02,360 --> 00:38:04,453:1:48
+Thanks, Daddy.:2:84
+:2:13
+blah457:0
+<457> : thanks, daddy. 
+458:0:52
+00:38:04,629 --> 00:38:06,688:1:48
+l'm gonna go out there.:2:108
+:2:13
+blah458:0
+<458> : l'm gonna go out there. 
+459:0:52
+00:38:16,074 --> 00:38:19,339:1:48
+l wanna know what's going on:2:108
+with you and my mother.:2:119
+:2:13
+blah459:0
+<459> : l wanna know what's going on with you and my mother. 
+460:0:52
+00:38:20,078 --> 00:38:21,636:1:48
+Donna.:2:68
+:2:13
+blah460:0
+<460> : donna. 
+461:0:52
+00:38:24,849 --> 00:38:27,374:1:48
+l think the wisest course would be,:2:108
+:2:13
+blah461:0
+<461> : l think the wisest course would be, 
+462:0:52
+00:38:27,552 --> 00:38:30,453:1:48
+first of all, just to get together:2:102
+and talk about this.:2:97
+:2:13
+blah462:0
+<462> : first of all, just to get together and talk about this. 
+463:0:52
+00:38:30,655 --> 00:38:31,917:1:48
+l don't think so.:2:108
+:2:13
+blah463:0
+<463> : l don't think so. 
+464:0:52
+00:38:32,957 --> 00:38:36,654:1:48
+Donna, l really don't think:2:68
+this is the time or the place.:2:116
+:2:13
+blah464:0
+<464> : donna, l really don't think this is the time or the place. 
+465:0:52
+00:38:36,894 --> 00:38:39,385:1:48
+Old pictures,:2:79
+Horne bearer bonds in the attic,:2:72
+:2:13
+blah465:0
+<465> : old pictures, horne bearer bonds in the attic, 
+466:0:52
+00:38:39,797 --> 00:38:41,924:1:48
+love letters to my mom.:2:108
+:2:13
+blah466:0
+<466> : love letters to my mom. 
+467:0:52
+00:38:42,100 --> 00:38:45,900:1:48
+l want to tell the truth.:2:108
+l want to do the right thing.:2:108
+:2:13
+blah467:0
+<467> : l want to tell the truth. l want to do the right thing. 
+468:0:52
+00:38:46,104 --> 00:38:48,436:1:48
+A birth certificate:2:65
+with no father's name on it.:2:119
+:2:13
+blah468:0
+<468> : a birth certificate with no father's name on it. 
+469:0:52
+00:38:48,606 --> 00:38:50,403:1:48
+What the hell's going on here,:2:87
+Mr. Horne?:2:77
+:2:13
+blah469:0
+<469> : what the hell's going on here, mr. horne? 
+470:0:52
+00:38:50,808 --> 00:38:53,572:1:48
+Why won't anyone tell me the truth?:2:87
+:2:13
+blah470:0
+<470> : why won't anyone tell me the truth? 
+471:0:52
+00:39:01,252 --> 00:39:02,810:1:48
+Donna.:2:68
+:2:13
+blah471:0
+<471> : donna. 
+472:0:52
+00:39:06,624 --> 00:39:08,956:1:48
+Your mother and l...:2:89
+:2:13
+blah472:0
+<472> : your mother and l... 
+473:0:52
+00:39:13,598 --> 00:39:15,589:1:48
+You're my father?:2:89
+:2:13
+blah473:0
+<473> : you're my father? 
+474:0:52
+00:39:19,103 --> 00:39:20,468:1:48
+Donna.:2:68
+:2:13
+blah474:0
+<474> : donna. 
+475:0:52
+00:39:21,773 --> 00:39:22,933:1:48
+And to illustrate my point,:2:65
+:2:13
+blah475:0
+<475> : and to illustrate my point, 
+476:0:52
+00:39:23,141 --> 00:39:25,473:1:48
+l'd like to quote these words:2:108
+from Chief Seattle,:2:102
+:2:13
+blah476:0
+<476> : l'd like to quote these words from chief seattle, 
+477:0:52
+00:39:25,643 --> 00:39:27,873:1:48
+leader of the Suquamish tribe::2:108
+:2:13
+blah477:0
+<477> : leader of the suquamish tribe: 
+478:0:52
+00:39:28,046 --> 00:39:31,209:1:48
+''Your dead are soon forgotten:2:39
+and never return.:2:97
+:2:13
+blah478:0
+<478> : ''your dead are soon forgotten and never return. 
+479:0:52
+00:39:31,416 --> 00:39:34,442:1:48
+Our dead never forget the beautiful:2:79
+world that gave them being.:2:119
+:2:13
+blah479:0
+<479> : our dead never forget the beautiful world that gave them being. 
+480:0:52
+00:39:34,619 --> 00:39:36,519:1:48
+They still love its verdant valleys,:2:84
+:2:13
+blah480:0
+<480> : they still love its verdant valleys, 
+481:0:52
+00:39:36,688 --> 00:39:39,782:1:48
+its murmuring rivers,:2:105
+its majestic mountains.:2:105
+:2:13
+blah481:0
+<481> : its murmuring rivers, its majestic mountains. 
+482:0:52
+00:39:39,957 --> 00:39:42,687:1:48
+When the last red man has vanished:2:87
+from this earth,:2:102
+:2:13
+blah482:0
+<482> : when the last red man has vanished from this earth, 
+483:0:52
+00:39:42,927 --> 00:39:45,828:1:48
+these forests and shores:2:116
+will still hold their spirits.'':2:119
+:2:13
+blah483:0
+<483> : these forests and shores will still hold their spirits.'' 
+484:0:52
+00:39:47,365 --> 00:39:48,957:1:48
+For the lndians love the earth:2:70
+:2:13
+blah484:0
+<484> : for the lndians love the earth 
+485:0:52
+00:39:49,133 --> 00:39:52,159:1:48
+as a newborn loves:2:97
+its mother's heartbeat.:2:105
+:2:13
+blah485:0
+<485> : as a newborn loves its mother's heartbeat. 
+486:0:52
+00:39:52,336 --> 00:39:54,861:1:48
+Why have we all lost touch:2:87
+with this beauty?:2:119
+:2:13
+blah486:0
+<486> : why have we all lost touch with this beauty? 
+487:0:52
+00:39:55,073 --> 00:39:58,065:1:48
+Maybe saving a forest starts:2:77
+with preserving some of the feelings:2:119
+:2:13
+blah487:0
+<487> : maybe saving a forest starts with preserving some of the feelings 
+488:0:52
+00:39:58,242 --> 00:40:00,301:1:48
+that die inside us every day.:2:116
+:2:13
+blah488:0
+<488> : that die inside us every day. 
+489:0:52
+00:40:00,478 --> 00:40:02,571:1:48
+Those parts of ourselves:2:84
+that we deny.:2:116
+:2:13
+blah489:0
+<489> : those parts of ourselves that we deny. 
+490:0:52
+00:40:03,247 --> 00:40:06,148:1:48
+For if we cannot respect:2:70
+that interior land,:2:116
+:2:13
+blah490:0
+<490> : for if we cannot respect that interior land, 
+491:0:52
+00:40:06,350 --> 00:40:09,513:1:48
+then neither can we respect:2:116
+the land we walk.:2:116
+:2:13
+blah491:0
+<491> : then neither can we respect the land we walk. 
+492:0:52
+00:40:09,687 --> 00:40:12,656:1:48
+So let us, in walking gently:2:83
+upon the earth,:2:117
+:2:13
+blah492:0
+<492> : so let us, in walking gently upon the earth, 
+493:0:52
+00:40:12,824 --> 00:40:14,758:1:48
+leave behind a simple legacy.:2:108
+:2:13
+blah493:0
+<493> : leave behind a simple legacy. 
+494:0:52
+00:40:15,493 --> 00:40:17,256:1:48
+That we're new warriors,:2:84
+:2:13
+blah494:0
+<494> : that we're new warriors, 
+495:0:52
+00:40:17,729 --> 00:40:20,892:1:48
+mystic warriors who love the earth:2:109
+:2:13
+blah495:0
+<495> : mystic warriors who love the earth 
+496:0:52
+00:40:21,065 --> 00:40:22,589:1:48
+and tried to save it.:2:97
+:2:13
+blah496:0
+<496> : and tried to save it. 
+497:0:52
+00:40:23,468 --> 00:40:25,493:1:48
+Thank you very much.:2:84
+:2:13
+blah497:0
+<497> : thank you very much. 
+498:0:52
+00:40:34,212 --> 00:40:36,476:1:48
+Thanks to all our contestants.:2:84
+:2:13
+blah498:0
+<498> : thanks to all our contestants. 
+499:0:52
+00:40:36,748 --> 00:40:41,242:1:48
+Balloting will now commence,:2:66
+and we will then announce our winner.:2:97
+:2:13
+blah499:0
+<499> : balloting will now commence, and we will then announce our winner. 
+500:0:53
+00:40:43,755 --> 00:40:46,690:1:48
+Have you both forgotten:2:72
+what day this is?:2:119
+:2:13
+blah500:0
+<500> : have you both forgotten what day this is? 
+501:0:53
+00:40:46,858 --> 00:40:49,349:1:48
+Miss Twin Peaks Day?:2:77
+:2:13
+blah501:0
+<501> : miss twin peaks day? 
+502:0:53
+00:40:49,560 --> 00:40:53,929:1:48
+Today is the day:2:84
+my unborn child receives a dad.:2:109
+:2:13
+blah502:0
+<502> : today is the day my unborn child receives a dad. 
+503:0:53
+00:40:54,098 --> 00:40:56,191:1:48
+lt was right on the tip of my tongue.:2:108
+:2:13
+blah503:0
+<503> : lt was right on the tip of my tongue. 
+504:0:53
+00:40:57,235 --> 00:40:58,532:1:48
+l have decided:2:108
+:2:13
+blah504:0
+<504> : l have decided 
+505:0:53
+00:40:58,703 --> 00:41:03,970:1:48
+that regardless of which individual:2:116
+is biologically responsible,:2:105
+:2:13
+blah505:0
+<505> : that regardless of which individual is biologically responsible, 
+506:0:53
+00:41:04,142 --> 00:41:07,407:1:48
+that l want Andy to be the father:2:116
+of my child.:2:111
+:2:13
+blah506:0
+<506> : that l want andy to be the father of my child. 
+507:0:53
+00:41:07,578 --> 00:41:09,443:1:48
+Really?:2:82
+:2:13
+blah507:0
+<507> : really? 
+508:0:53
+00:41:09,614 --> 00:41:14,278:1:48
+l'm sorry, Dick, but l just have to do:2:108
+what's best for little what's-his-name.:2:119
+:2:13
+blah508:0
+<508> : l'm sorry, dick, but l just have to do what's best for little what's-his-name. 
+509:0:53
+00:41:14,452 --> 00:41:16,113:1:48
+Oh, no, not at all. A sound choice.:2:79
+:2:13
+blah509:0
+<509> : oh, no, not at all. a sound choice. 
+510:0:53
+00:41:16,320 --> 00:41:18,948:1:48
+Heartiest congratulations,:2:72
+dearest Andrew.:2:100
+:2:13
+blah510:0
+<510> : heartiest congratulations, dearest andrew. 
+511:0:53
+00:41:19,123 --> 00:41:23,526:1:48
+Now, if you'll both excuse me,:2:78
+l do have a vote to cast myself.:2:108
+:2:13
+blah511:0
+<511> : now, if you'll both excuse me, l do have a vote to cast myself. 
+512:0:53
+00:41:26,931 --> 00:41:28,922:1:48
+Here's to the children.:2:72
+:2:13
+blah512:0
+<512> : here's to the children. 
+513:0:53
+00:41:31,068 --> 00:41:33,935:1:48
+Don't sound so disappointed.:2:68
+:2:13
+blah513:0
+<513> : don't sound so disappointed. 
+514:0:53
+00:41:34,539 --> 00:41:36,234:1:48
+My God, Lucy.:2:77
+:2:13
+blah514:0
+<514> : my god, lucy. 
+515:0:53
+00:41:36,407 --> 00:41:40,571:1:48
+l'm so honored:2:108
+you made this decision.:2:121
+:2:13
+blah515:0
+<515> : l'm so honored you made this decision. 
+516:0:53
+00:41:40,745 --> 00:41:45,978:1:48
+And l promise l'll be a great father.:2:65
+:2:13
+blah516:0
+<516> : and l promise l'll be a great father. 
+517:0:53
+00:41:46,250 --> 00:41:50,016:1:48
+But right now:2:66
+:2:13
+blah517:0
+<517> : but right now 
+518:0:53
+00:41:50,188 --> 00:41:53,453:1:48
+l've got to find Agent Cooper.:2:108
+:2:13
+blah518:0
+<518> : l've got to find agent cooper. 
+519:0:53
+00:41:57,595 --> 00:41:59,460:1:48
+Men.:2:77
+:2:13
+blah519:0
+<519> : men. 
+520:0:53
+00:42:05,069 --> 00:42:07,162:1:48
+lt is time:2:108
+to make the announcement.:2:116
+:2:13
+blah520:0
+<520> : lt is time to make the announcement. 
+521:0:53
+00:42:09,307 --> 00:42:11,707:1:48
+The winner of the contest:2:84
+:2:13
+blah521:0
+<521> : the winner of the contest 
+522:0:53
+00:42:12,143 --> 00:42:14,668:1:48
+and our new Miss Twin Peaks is...:2:97
+:2:13
+blah522:0
+<522> : and our new miss twin peaks is... 
+523:0:53
+00:42:17,381 --> 00:42:19,144:1:48
+...Annie Blackburn.:2:46
+:2:13
+blah523:0
+<523> : ...annie blackburn. 
+524:0:53
+00:42:35,733 --> 00:42:39,897:1:48
+Ladies and gentlemen,:2:76
+your new Miss Twin Peaks!:2:121
+:2:13
+blah524:0
+<524> : ladies and gentlemen, your new miss twin peaks! 
+525:0:53
+00:42:49,247 --> 00:42:51,147:1:48
+This is an outrage.:2:84
+:2:13
+blah525:0
+<525> : this is an outrage. 
+526:0:53
+00:42:51,315 --> 00:42:54,978:1:48
+She's been living in this town:2:83
+about 1 5 minutes.:2:97
+:2:13
+blah526:0
+<526> : she's been living in this town about 1 5 minutes. 
+527:0:53
+00:42:55,853 --> 00:42:57,252:1:48
+And what the hell got into you?:2:65
+:2:13
+blah527:0
+<527> : and what the hell got into you? 
+528:0:53
+00:42:58,256 --> 00:42:59,689:1:48
+She gave a beautiful speech.:2:83
+:2:13
+blah528:0
+<528> : she gave a beautiful speech. 
+529:0:53
+00:42:59,891 --> 00:43:01,381:1:48
+lnherent in her message were words:2:108
+:2:13
+blah529:0
+<529> : lnherent in her message were words 
+530:0:53
+00:43:01,559 --> 00:43:04,619:1:48
+even the most craven of us:2:101
+can ill afford to ignore.:2:99
+:2:13
+blah530:0
+<530> : even the most craven of us can ill afford to ignore. 
+531:0:53
+00:43:23,447 --> 00:43:24,880:1:48
+What's happening?:2:87
+:2:13
+blah531:0
+<531> : what's happening? 
+532:0:53
+00:43:33,724 --> 00:43:37,455:1:48
+Everybody, please,:2:69
+please stay calm.:2:112
+:2:13
+blah532:0
+<532> : everybody, please, please stay calm. 
+533:0:53
+00:43:59,550 --> 00:44:01,609:1:48
+Good Lord.:2:71
+:2:13
+blah533:0
+<533> : good lord. 
+534:0:53
+00:44:03,321 --> 00:44:05,186:1:48
+This way.:2:84
+:2:13
+blah534:0
+<534> : this way. 
+535:0:53
+00:44:28,512 --> 00:44:33,108:1:48
+Settle down. Everybody settle down.:2:83
+Don't panic! This way.:2:68
+:2:13
+blah535:0
+<535> : settle down. everybody settle down. don't panic! this way. 
+536:0:53
+00:44:35,753 --> 00:44:38,017:1:48
+l will help you.:2:108
+:2:13
+blah536:0
+<536> : l will help you. 
+537:0:53
+00:44:46,464 --> 00:44:48,432:1:48
+Annie?:2:65
+:2:13
+blah537:0
+<537> : annie? 
+538:0:53
+00:44:51,268 --> 00:44:52,997:1:48
+Annie?:2:65
+:2:13
+blah538:0
+<538> : annie? 
+539:0:53
+00:44:54,305 --> 00:44:56,170:1:48
+Annie?:2:65
+:2:13
+blah539:0
+<539> : annie? 
+540:0:53
+00:44:56,807 --> 00:44:58,104:1:48
+- Harry.:2:45
+- What?:2:45
+:2:13
+blah540:0
+<540> : - harry. - what? 
+541:0:53
+00:44:58,275 --> 00:44:59,674:1:48
+- He took Annie.:2:45
+- What?:2:45
+:2:13
+blah541:0
+<541> : - he took annie. - what? 
+542:0:53
+00:44:59,844 --> 00:45:01,436:1:48
+He got Annie.:2:72
+:2:13
+blah542:0
+<542> : he got annie. 
+543:0:53
+00:45:01,612 --> 00:45:04,979:1:48
+Bastard. He won't get half a mile:2:66
+from here. We'll get him.:2:102
+:2:13
+blah543:0
+<543> : bastard. he won't get half a mile from here. we'll get him. 
+544:0:53
+00:45:06,150 --> 00:45:08,675:1:48
+Agent Cooper,:2:65
+l've been looking all over for you.:2:108
+:2:13
+blah544:0
+<544> : agent cooper, l've been looking all over for you. 
+545:0:53
+00:45:09,620 --> 00:45:11,952:1:48
+Andy, they're gonna need you:2:65
+outside.:2:111
+:2:13
+blah545:0
+<545> : andy, they're gonna need you outside. 
+546:0:53
+00:45:12,123 --> 00:45:13,351:1:48
+This is important.:2:84
+:2:13
+blah546:0
+<546> : this is important. 
+547:0:53
+00:45:13,557 --> 00:45:16,788:1:48
+That cave painting in the office,:2:84
+l finally figured it out.:2:108
+:2:13
+blah547:0
+<547> : that cave painting in the office, l finally figured it out. 
+548:0:53
+00:45:17,294 --> 00:45:20,058:1:48
+- What?:2:45
+- l knew l'd seen it someplace before.:2:45
+:2:13
+blah548:0
+<548> : - what? - l knew l'd seen it someplace before. 
+549:0:53
+00:45:20,264 --> 00:45:21,891:1:48
+l know where it's telling us to go.:2:108
+:2:13
+blah549:0
+<549> : l know where it's telling us to go. 
+550:0:53
+00:45:22,066 --> 00:45:23,829:1:48
+lt's not a puzzle at all.:2:108
+:2:13
+blah550:0
+<550> : lt's not a puzzle at all. 
+551:0:53
+00:45:24,001 --> 00:45:26,026:1:48
+lt's a map.:2:108
+:2:0
+blah551:1
+<551> : lt's a map. 
+computing mathcing limits for each sentence ...
+Starting forward pass ... 
+(0,550): 0,4946 *********************************** 
+(1,550): 2,4948 *********************************** 
+(2,550): 4,4958 *********************************** 
+(3,550): 14,4966 *********************************** 
+(4,550): 22,4971 *********************************** 
+(5,550): 27,4982 *********************************** 
+(6,550): 38,4990 *********************************** 
+(7,550): 46,5002 *********************************** 
+(8,550): 58,5018 *********************************** 
+(9,550): 74,5026 *********************************** 
+(10,550): 82,5036 *********************************** 
+(11,550): 92,5044 *********************************** 
+(12,550): 100,5049 *********************************** 
+(13,550): 105,5052 *********************************** 
+(14,550): 108,5056 *********************************** 
+(15,550): 112,5064 *********************************** 
+(16,550): 120,5072 *********************************** 
+(17,550): 128,5080 *********************************** 
+(18,550): 136,5089 *********************************** 
+(19,550): 145,5093 *********************************** 
+(20,550): 149,5102 *********************************** 
+(21,550): 158,5112 *********************************** 
+(22,550): 168,5117 *********************************** 
+(23,550): 173,5123 *********************************** 
+(24,550): 179,5129 *********************************** 
+(25,550): 185,5132 *********************************** 
+(26,550): 188,5142 *********************************** 
+(27,550): 198,5151 *********************************** 
+(28,550): 207,5157 *********************************** 
+(29,550): 213,5160 *********************************** 
+(30,550): 216,5165 *********************************** 
+(31,550): 221,5171 *********************************** 
+(32,550): 227,5175 *********************************** 
+(33,550): 231,5184 *********************************** 
+(34,550): 240,5189 *********************************** 
+(35,550): 245,5195 *********************************** 
+(36,550): 251,5204 *********************************** 
+(37,550): 260,5217 *********************************** 
+(38,550): 273,5222 *********************************** 
+(39,550): 278,5228 *********************************** 
+(40,550): 284,5234 *********************************** 
+(41,550): 290,5245 *********************************** 
+(42,550): 301,5255 *********************************** 
+(43,550): 311,5259 *********************************** 
+(44,550): 315,5263 *********************************** 
+(45,550): 319,5268 *********************************** 
+(46,550): 324,5270 *********************************** 
+(47,550): 326,5278 *********************************** 
+(48,550): 334,5287 *********************************** 
+(49,550): 343,5295 *********************************** 
+(50,550): 351,5304 *********************************** 
+(51,550): 360,5311 *********************************** 
+(52,550): 367,5325 *********************************** 
+(53,550): 381,5328 *********************************** 
+(54,550): 384,5339 *********************************** 
+(55,550): 395,5351 *********************************** 
+(56,550): 407,5354 *********************************** 
+(57,550): 410,5355 *********************************** 
+(58,550): 411,5364 *********************************** 
+(59,550): 420,5371 *********************************** 
+(60,550): 427,5380 *********************************** 
+(61,550): 436,5389 *********************************** 
+(62,550): 445,5393 *********************************** 
+(63,550): 449,5403 *********************************** 
+(64,550): 459,5410 *********************************** 
+(65,550): 466,5416 *********************************** 
+(66,550): 472,5417 *********************************** 
+(67,550): 473,5423 *********************************** 
+(68,550): 479,5432 *********************************** 
+(69,550): 488,5434 *********************************** 
+(70,550): 490,5443 *********************************** 
+(71,550): 499,5444 *********************************** 
+(72,550): 500,5449 *********************************** 
+(73,550): 505,5457 *********************************** 
+(74,550): 513,5462 *********************************** 
+(75,550): 518,5468 *********************************** 
+(76,550): 524,5472 *********************************** 
+(77,550): 528,5481 *********************************** 
+(78,550): 537,5489 *********************************** 
+(79,550): 545,5497 *********************************** 
+(80,550): 553,5507 *********************************** 
+(81,550): 563,5511 *********************************** 
+(82,550): 567,5514 *********************************** 
+(83,550): 570,5521 *********************************** 
+(84,550): 577,5529 *********************************** 
+(85,550): 585,5531 *********************************** 
+(86,550): 587,5535 *********************************** 
+(87,550): 591,5546 *********************************** 
+(88,550): 602,5555 *********************************** 
+(89,550): 611,5564 *********************************** 
+(90,550): 620,5567 *********************************** 
+(91,550): 623,5571 *********************************** 
+(92,550): 627,5582 *********************************** 
+(93,550): 638,5592 *********************************** 
+(94,550): 648,5598 *********************************** 
+(95,550): 654,5603 *********************************** 
+(96,550): 659,5611 *********************************** 
+(97,550): 667,5619 *********************************** 
+(98,550): 675,5625 *********************************** 
+(99,550): 681,5631 *********************************** 
+(100,550): 687,5644 *********************************** 
+(101,550): 700,5654 *********************************** 
+(102,550): 710,5657 *********************************** 
+(103,550): 713,5662 *********************************** 
+(104,550): 718,5674 *********************************** 
+(105,550): 730,5689 *********************************** 
+(106,550): 745,5695 *********************************** 
+(107,550): 751,5698 *********************************** 
+(108,550): 754,5709 *********************************** 
+(109,550): 765,5717 *********************************** 
+(110,550): 773,5724 *********************************** 
+(111,550): 780,5731 *********************************** 
+(112,550): 787,5735 *********************************** 
+(113,550): 791,5745 *********************************** 
+(114,550): 801,5754 *********************************** 
+(115,550): 810,5769 *********************************** 
+(116,550): 825,5775 *********************************** 
+(117,550): 831,5783 *********************************** 
+(118,550): 839,5795 *********************************** 
+(119,550): 851,5804 *********************************** 
+(120,550): 860,5810 *********************************** 
+(121,550): 866,5811 *********************************** 
+(122,550): 867,5819 *********************************** 
+(123,550): 875,5822 *********************************** 
+(124,550): 878,5830 *********************************** 
+(125,550): 886,5834 *********************************** 
+(126,550): 890,5847 *********************************** 
+(127,550): 903,5854 *********************************** 
+(128,550): 910,5865 *********************************** 
+(129,550): 921,5873 *********************************** 
+(130,550): 929,5879 *********************************** 
+(131,550): 935,5882 *********************************** 
+(132,550): 938,5889 *********************************** 
+(133,550): 945,5893 *********************************** 
+(134,550): 949,5896 *********************************** 
+(135,550): 952,5900 *********************************** 
+(136,550): 956,5912 *********************************** 
+(137,550): 968,5920 *********************************** 
+(138,550): 976,5926 *********************************** 
+(139,550): 982,5935 *********************************** 
+(140,550): 991,5941 *********************************** 
+(141,550): 997,5953 *********************************** 
+(142,550): 1009,5960 *********************************** 
+(143,550): 1016,5968 *********************************** 
+(144,550): 1024,5980 *********************************** 
+(145,550): 1036,5983 *********************************** 
+(146,550): 1039,5987 *********************************** 
+(147,550): 1043,5993 *********************************** 
+(148,550): 1049,6006 *********************************** 
+(149,550): 1062,6021 *********************************** 
+(150,550): 1077,6023 *********************************** 
+(151,550): 1079,6026 *********************************** 
+(152,550): 1082,6033 *********************************** 
+(153,550): 1089,6042 *********************************** 
+(154,550): 1098,6053 *********************************** 
+(155,550): 1109,6065 *********************************** 
+(156,550): 1121,6073 *********************************** 
+(157,550): 1129,6080 *********************************** 
+(158,550): 1136,6086 *********************************** 
+(159,550): 1142,6094 *********************************** 
+(160,550): 1150,6104 *********************************** 
+(161,550): 1160,6116 *********************************** 
+(162,550): 1172,6125 *********************************** 
+(163,550): 1181,6133 *********************************** 
+(164,550): 1189,6141 *********************************** 
+(165,550): 1197,6148 *********************************** 
+(166,550): 1204,6152 *********************************** 
+(167,550): 1208,6161 *********************************** 
+(168,550): 1217,6170 *********************************** 
+(169,550): 1226,6178 *********************************** 
+(170,550): 1234,6189 *********************************** 
+(171,550): 1245,6192 *********************************** 
+(172,550): 1248,6199 *********************************** 
+(173,550): 1255,6206 *********************************** 
+(174,550): 1262,6208 *********************************** 
+(175,550): 1264,6217 *********************************** 
+(176,550): 1273,6224 *********************************** 
+(177,550): 1280,6231 *********************************** 
+(178,550): 1287,6239 *********************************** 
+(179,550): 1295,6249 *********************************** 
+(180,550): 1305,6260 *********************************** 
+(181,550): 1316,6266 *********************************** 
+(182,550): 1322,6268 *********************************** 
+(183,550): 1324,6272 *********************************** 
+(184,550): 1328,6278 *********************************** 
+(185,550): 1334,6284 *********************************** 
+(186,550): 1340,6286 *********************************** 
+(187,550): 1342,6297 *********************************** 
+(188,550): 1353,6299 *********************************** 
+(189,550): 1355,6306 *********************************** 
+(190,550): 1362,6308 *********************************** 
+(191,550): 1364,6312 *********************************** 
+(192,550): 1368,6316 *********************************** 
+(193,550): 1372,6324 *********************************** 
+(194,550): 1380,6330 *********************************** 
+(195,550): 1386,6335 *********************************** 
+(196,550): 1391,6348 *********************************** 
+(197,550): 1404,6357 *********************************** 
+(198,550): 1413,6364 *********************************** 
+(199,550): 1420,6373 *********************************** 
+(200,550): 1429,6385 *********************************** 
+(201,550): 1441,6395 *********************************** 
+(202,550): 1451,6406 *********************************** 
+(203,550): 1462,6416 *********************************** 
+(204,550): 1472,6424 *********************************** 
+(205,550): 1480,6434 *********************************** 
+(206,550): 1490,6445 *********************************** 
+(207,550): 1501,6452 *********************************** 
+(208,550): 1508,6462 *********************************** 
+(209,550): 1518,6466 *********************************** 
+(210,550): 1522,6480 *********************************** 
+(211,550): 1536,6488 *********************************** 
+(212,550): 1544,6493 *********************************** 
+(213,550): 1549,6503 *********************************** 
+(214,550): 1559,6510 *********************************** 
+(215,550): 1566,6519 *********************************** 
+(216,550): 1575,6534 *********************************** 
+(217,550): 1590,6543 *********************************** 
+(218,550): 1599,6553 *********************************** 
+(219,550): 1609,6557 *********************************** 
+(220,550): 1613,6559 *********************************** 
+(221,550): 1615,6567 *********************************** 
+(222,550): 1623,6574 *********************************** 
+(223,550): 1630,6581 *********************************** 
+(224,550): 1637,6587 *********************************** 
+(225,550): 1643,6597 *********************************** 
+(226,550): 1653,6603 *********************************** 
+(227,550): 1659,6614 *********************************** 
+(228,550): 1670,6622 *********************************** 
+(229,550): 1678,6631 *********************************** 
+(230,550): 1687,6635 *********************************** 
+(231,550): 1691,6644 *********************************** 
+(232,550): 1700,6657 *********************************** 
+(233,550): 1713,6666 *********************************** 
+(234,550): 1722,6671 *********************************** 
+(235,550): 1727,6678 *********************************** 
+(236,550): 1734,6681 *********************************** 
+(237,550): 1737,6692 *********************************** 
+(238,550): 1748,6693 *********************************** 
+(239,550): 1749,6701 *********************************** 
+(240,550): 1757,6712 *********************************** 
+(241,550): 1768,6720 *********************************** 
+(242,550): 1776,6724 *********************************** 
+(243,550): 1780,6730 *********************************** 
+(244,550): 1786,6736 *********************************** 
+(245,550): 1792,6746 *********************************** 
+(246,550): 1802,6751 *********************************** 
+(247,550): 1807,6762 *********************************** 
+(248,550): 1818,6771 *********************************** 
+(249,550): 1827,6779 *********************************** 
+(250,550): 1835,6789 *********************************** 
+(251,550): 1845,6801 *********************************** 
+(252,550): 1857,6809 *********************************** 
+(253,550): 1865,6817 *********************************** 
+(254,550): 1873,6822 *********************************** 
+(255,550): 1878,6826 *********************************** 
+(256,550): 1882,6831 *********************************** 
+(257,550): 1887,6838 *********************************** 
+(258,550): 1894,6839 *********************************** 
+(259,550): 1895,6849 *********************************** 
+(260,550): 1905,6855 *********************************** 
+(261,550): 1911,6858 *********************************** 
+(262,550): 1914,6860 *********************************** 
+(263,550): 1916,6874 *********************************** 
+(264,550): 1930,6884 *********************************** 
+(265,550): 1940,6886 *********************************** 
+(266,550): 1942,6896 *********************************** 
+(267,550): 1952,6902 *********************************** 
+(268,550): 1958,6910 *********************************** 
+(269,550): 1966,6911 *********************************** 
+(270,550): 1967,6917 *********************************** 
+(271,550): 1973,6928 *********************************** 
+(272,550): 1984,6929 *********************************** 
+(273,550): 1985,6935 *********************************** 
+(274,550): 1991,6941 *********************************** 
+(275,550): 1997,6948 *********************************** 
+(276,550): 2004,6954 *********************************** 
+(277,550): 2010,6964 *********************************** 
+(278,550): 2020,6972 *********************************** 
+(279,550): 2028,6978 *********************************** 
+(280,550): 2034,6989 *********************************** 
+(281,550): 2045,6990 *********************************** 
+(282,550): 2046,6997 *********************************** 
+(283,550): 2053,6998 *********************************** 
+(284,550): 2054,7003 *********************************** 
+(285,550): 2059,7011 *********************************** 
+(286,550): 2067,7016 *********************************** 
+(287,550): 2072,7022 *********************************** 
+(288,550): 2078,7028 *********************************** 
+(289,550): 2084,7038 *********************************** 
+(290,550): 2094,7045 *********************************** 
+(291,550): 2101,7046 *********************************** 
+(292,550): 2102,7047 *********************************** 
+(293,550): 2103,7054 *********************************** 
+(294,550): 2110,7055 *********************************** 
+(295,550): 2111,7057 *********************************** 
+(296,550): 2113,7059 *********************************** 
+(297,550): 2115,7063 *********************************** 
+(298,550): 2119,7068 *********************************** 
+(299,550): 2124,7074 *********************************** 
+(300,550): 2130,7076 *********************************** 
+(301,550): 2132,7081 *********************************** 
+(302,550): 2137,7084 *********************************** 
+(303,550): 2140,7093 *********************************** 
+(304,550): 2149,7100 *********************************** 
+(305,550): 2156,7107 *********************************** 
+(306,550): 2163,7119 *********************************** 
+(307,550): 2175,7124 *********************************** 
+(308,550): 2180,7133 *********************************** 
+(309,550): 2189,7141 *********************************** 
+(310,550): 2197,7148 *********************************** 
+(311,550): 2204,7157 *********************************** 
+(312,550): 2213,7161 *********************************** 
+(313,550): 2217,7171 *********************************** 
+(314,550): 2227,7176 *********************************** 
+(315,550): 2232,7191 *********************************** 
+(316,550): 2247,7195 *********************************** 
+(317,550): 2251,7208 *********************************** 
+(318,550): 2264,7215 *********************************** 
+(319,550): 2271,7216 *********************************** 
+(320,550): 2272,7229 *********************************** 
+(321,550): 2285,7231 *********************************** 
+(322,550): 2287,7241 *********************************** 
+(323,550): 2297,7249 *********************************** 
+(324,550): 2305,7252 *********************************** 
+(325,550): 2308,7261 *********************************** 
+(326,550): 2317,7269 *********************************** 
+(327,550): 2325,7278 *********************************** 
+(328,550): 2334,7289 *********************************** 
+(329,550): 2345,7300 *********************************** 
+(330,550): 2356,7301 *********************************** 
+(331,550): 2357,7310 *********************************** 
+(332,550): 2366,7320 *********************************** 
+(333,550): 2376,7326 *********************************** 
+(334,550): 2382,7334 *********************************** 
+(335,550): 2390,7336 *********************************** 
+(336,550): 2392,7337 *********************************** 
+(337,550): 2393,7339 *********************************** 
+(338,550): 2395,7342 *********************************** 
+(339,550): 2398,7345 *********************************** 
+(340,550): 2401,7347 *********************************** 
+(341,550): 2403,7357 *********************************** 
+(342,550): 2413,7362 *********************************** 
+(343,550): 2418,7366 *********************************** 
+(344,550): 2422,7373 *********************************** 
+(345,550): 2429,7377 *********************************** 
+(346,550): 2433,7381 *********************************** 
+(347,550): 2437,7384 *********************************** 
+(348,550): 2440,7388 *********************************** 
+(349,550): 2444,7391 *********************************** 
+(350,550): 2447,7399 *********************************** 
+(351,550): 2455,7403 *********************************** 
+(352,550): 2459,7407 *********************************** 
+(353,550): 2463,7416 *********************************** 
+(354,550): 2472,7420 *********************************** 
+(355,550): 2476,7431 *********************************** 
+(356,550): 2487,7438 *********************************** 
+(357,550): 2494,7447 *********************************** 
+(358,550): 2503,7463 *********************************** 
+(359,550): 2519,7470 *********************************** 
+(360,550): 2526,7475 *********************************** 
+(361,550): 2531,7485 *********************************** 
+(362,550): 2541,7496 *********************************** 
+(363,550): 2552,7502 *********************************** 
+(364,550): 2558,7512 *********************************** 
+(365,550): 2568,7518 *********************************** 
+(366,550): 2574,7530 *********************************** 
+(367,550): 2586,7537 *********************************** 
+(368,550): 2593,7541 *********************************** 
+(369,550): 2597,7549 *********************************** 
+(370,550): 2605,7550 *********************************** 
+(371,550): 2606,7551 *********************************** 
+(372,550): 2607,7553 *********************************** 
+(373,550): 2609,7559 *********************************** 
+(374,550): 2615,7567 *********************************** 
+(375,550): 2623,7576 *********************************** 
+(376,550): 2632,7583 *********************************** 
+(377,550): 2639,7589 *********************************** 
+(378,550): 2645,7597 *********************************** 
+(379,550): 2653,7610 *********************************** 
+(380,550): 2666,7621 *********************************** 
+(381,550): 2677,7630 *********************************** 
+(382,550): 2686,7638 *********************************** 
+(383,550): 2694,7644 *********************************** 
+(384,550): 2700,7646 *********************************** 
+(385,550): 2702,7653 *********************************** 
+(386,550): 2709,7664 *********************************** 
+(387,550): 2720,7673 *********************************** 
+(388,550): 2729,7678 *********************************** 
+(389,550): 2734,7682 *********************************** 
+(390,550): 2738,7690 *********************************** 
+(391,550): 2746,7693 *********************************** 
+(392,550): 2749,7698 *********************************** 
+(393,550): 2754,7712 *********************************** 
+(394,550): 2768,7722 *********************************** 
+(395,550): 2778,7725 *********************************** 
+(396,550): 2781,7738 *********************************** 
+(397,550): 2794,7744 *********************************** 
+(398,550): 2800,7748 *********************************** 
+(399,550): 2804,7756 *********************************** 
+(400,550): 2812,7760 *********************************** 
+(401,550): 2816,7765 *********************************** 
+(402,550): 2821,7772 *********************************** 
+(403,550): 2828,7782 *********************************** 
+(404,550): 2838,7786 *********************************** 
+(405,550): 2842,7792 *********************************** 
+(406,550): 2848,7803 *********************************** 
+(407,550): 2859,7818 *********************************** 
+(408,550): 2874,7830 *********************************** 
+(409,550): 2886,7838 *********************************** 
+(410,550): 2894,7842 *********************************** 
+(411,550): 2898,7850 *********************************** 
+(412,550): 2906,7855 *********************************** 
+(413,550): 2911,7857 *********************************** 
+(414,550): 2913,7861 *********************************** 
+(415,550): 2917,7868 *********************************** 
+(416,550): 2924,7871 *********************************** 
+(417,550): 2927,7872 *********************************** 
+(418,550): 2928,7878 *********************************** 
+(419,550): 2934,7885 *********************************** 
+(420,550): 2941,7891 *********************************** 
+(421,550): 2947,7897 *********************************** 
+(422,550): 2953,7907 *********************************** 
+(423,550): 2963,7915 *********************************** 
+(424,550): 2971,7918 *********************************** 
+(425,550): 2974,7922 *********************************** 
+(426,550): 2978,7926 *********************************** 
+(427,550): 2982,7934 *********************************** 
+(428,550): 2990,7942 *********************************** 
+(429,550): 2998,7952 *********************************** 
+(430,550): 3008,7959 *********************************** 
+(431,550): 3015,7968 *********************************** 
+(432,550): 3024,7970 *********************************** 
+(433,550): 3026,7972 *********************************** 
+(434,550): 3028,7975 *********************************** 
+(435,550): 3031,7983 *********************************** 
+(436,550): 3039,7995 *********************************** 
+(437,550): 3051,8001 *********************************** 
+(438,550): 3057,8013 *********************************** 
+(439,550): 3069,8019 *********************************** 
+(440,550): 3075,8025 *********************************** 
+(441,550): 3081,8032 *********************************** 
+(442,550): 3088,8038 *********************************** 
+(443,550): 3094,8041 *********************************** 
+(444,550): 3097,8044 *********************************** 
+(445,550): 3100,8051 *********************************** 
+(446,550): 3107,8066 *********************************** 
+(447,550): 3122,8078 *********************************** 
+(448,550): 3134,8090 *********************************** 
+(449,550): 3146,8095 *********************************** 
+(450,550): 3151,8104 *********************************** 
+(451,550): 3160,8110 *********************************** 
+(452,550): 3166,8114 *********************************** 
+(453,550): 3170,8116 *********************************** 
+(454,550): 3172,8120 *********************************** 
+(455,550): 3176,8125 *********************************** 
+(456,550): 3181,8127 *********************************** 
+(457,550): 3183,8133 *********************************** 
+(458,550): 3189,8145 *********************************** 
+(459,550): 3201,8146 *********************************** 
+(460,550): 3202,8153 *********************************** 
+(461,550): 3209,8164 *********************************** 
+(462,550): 3220,8169 *********************************** 
+(463,550): 3225,8182 *********************************** 
+(464,550): 3238,8190 *********************************** 
+(465,550): 3246,8195 *********************************** 
+(466,550): 3251,8208 *********************************** 
+(467,550): 3264,8218 *********************************** 
+(468,550): 3274,8227 *********************************** 
+(469,550): 3283,8235 *********************************** 
+(470,550): 3291,8236 *********************************** 
+(471,550): 3292,8240 *********************************** 
+(472,550): 3296,8244 *********************************** 
+(473,550): 3300,8245 *********************************** 
+(474,550): 3301,8250 *********************************** 
+(475,550): 3306,8260 *********************************** 
+(476,550): 3316,8265 *********************************** 
+(477,550): 3321,8273 *********************************** 
+(478,550): 3329,8284 *********************************** 
+(479,550): 3340,8290 *********************************** 
+(480,550): 3346,8296 *********************************** 
+(481,550): 3352,8306 *********************************** 
+(482,550): 3362,8315 *********************************** 
+(483,550): 3371,8321 *********************************** 
+(484,550): 3377,8329 *********************************** 
+(485,550): 3385,8338 *********************************** 
+(486,550): 3394,8349 *********************************** 
+(487,550): 3405,8355 *********************************** 
+(488,550): 3411,8362 *********************************** 
+(489,550): 3418,8370 *********************************** 
+(490,550): 3426,8379 *********************************** 
+(491,550): 3435,8388 *********************************** 
+(492,550): 3444,8393 *********************************** 
+(493,550): 3449,8398 *********************************** 
+(494,550): 3454,8404 *********************************** 
+(495,550): 3460,8409 *********************************** 
+(496,550): 3465,8413 *********************************** 
+(497,550): 3469,8418 *********************************** 
+(498,550): 3474,8429 *********************************** 
+(499,550): 3485,8437 *********************************** 
+(500,550): 3493,8441 *********************************** 
+(501,550): 3497,8451 *********************************** 
+(502,550): 3507,8460 *********************************** 
+(503,550): 3516,8463 *********************************** 
+(504,550): 3519,8471 *********************************** 
+(505,550): 3527,8482 *********************************** 
+(506,550): 3538,8483 *********************************** 
+(507,550): 3539,8502 *********************************** 
+(508,550): 3558,8510 *********************************** 
+(509,550): 3566,8514 *********************************** 
+(510,550): 3570,8529 *********************************** 
+(511,550): 3585,8534 *********************************** 
+(512,550): 3590,8539 *********************************** 
+(513,550): 3595,8542 *********************************** 
+(514,550): 3598,8550 *********************************** 
+(515,550): 3606,8559 *********************************** 
+(516,550): 3615,8562 *********************************** 
+(517,550): 3618,8569 *********************************** 
+(518,550): 3625,8570 *********************************** 
+(519,550): 3626,8577 *********************************** 
+(520,550): 3633,8582 *********************************** 
+(521,550): 3638,8589 *********************************** 
+(522,550): 3645,8591 *********************************** 
+(523,550): 3647,8599 *********************************** 
+(524,550): 3655,8603 *********************************** 
+(525,550): 3659,8614 *********************************** 
+(526,550): 3670,8621 *********************************** 
+(527,550): 3677,8626 *********************************** 
+(528,550): 3682,8632 *********************************** 
+(529,550): 3688,8643 *********************************** 
+(530,550): 3699,8646 *********************************** 
+(531,550): 3702,8651 *********************************** 
+(532,550): 3707,8653 *********************************** 
+(533,550): 3709,8655 *********************************** 
+(534,550): 3711,8665 *********************************** 
+(535,550): 3721,8669 *********************************** 
+(536,550): 3725,8670 *********************************** 
+(537,550): 3726,8671 *********************************** 
+(538,550): 3727,8672 *********************************** 
+(539,550): 3728,8674 *********************************** 
+(540,550): 3730,8678 *********************************** 
+(541,550): 3734,8681 *********************************** 
+(542,550): 3737,8695 *********************************** 
+(543,550): 3751,8705 *********************************** 
+(544,550): 3761,8712 *********************************** 
+(545,550): 3768,8715 *********************************** 
+(546,550): 3771,8726 *********************************** 
+(547,550): 3782,8735 *********************************** 
+(548,550): 3791,8744 *********************************** 
+(549,550): 3800,8751 *********************************** 
+Starting backward pass
+best score: 415.829
+0, 206 ... 207
+" save shelly " matched to " save shelly "
+1, 216 ... 216
+" save shelly " matched to " shelly "
+2, 269 ... 278
+" why who in the world let major briggs loose leo " matched to " why who in the world let major briggs loose leo "
+3, 279 ... 287
+" lt couldn t have been you could it " matched to " it could n t have been you could it "
+4, 294 ... 300
+" no no no punishment leo " matched to " comes earle no no punishment little leo "
+5, 301 ... 311
+" lt s too late for that to do us any harm " matched to " it s to late for that to do us any harm "
+6, 314 ... 319
+" and l have a new game for you " matched to " have a new game for you "
+7, 361 ... 372
+" well here s our contribution to the miss twin peaks gala buffet " matched to " norma here s our contribution to the miss twin peaks gala buffet "
+8, 373 ... 389
+" and l fully expect to see one of you up there in the winner s circle " matched to " and i fully expect to see one of you up there tonight in the winner s circle "
+9, 391 ... 396
+" dream on norma don t be so sure " matched to " dream on norma lrb continued rrb "
+10, 410 ... 421
+" this is the biggest day of the year for us " matched to " this is one of the biggest days of the year for us "
+11, 422 ... 427
+" and we have to have somebody up there " matched to " and we need somebody up there "
+12, 428 ... 431
+" who really deserves this title " matched to " who deserves that title "
+13, 432 ... 434
+" especially this year " matched to " especially this year "
+14, 436 ... 437
+" you mean laura palmer " matched to " laura palmer "
+15, 441 ... 446
+" lt would be a good day for healing " matched to " of healing and coming together shelly "
+16, 448 ... 453
+" l think we need more than a day " matched to " could use more than a day "
+17, 457 ... 466
+" so norma are they gonna honor you tonight " matched to " rrb norma is it true they re going to honor "
+18, 467 ... 473
+" on your 20th anniversary of winning miss twin peaks " matched to " you tonight twentieth anniversary of when you "
+19, 474 ... 475
+" don t remind me " matched to " won hush "
+20, 480 ... 486
+" come on if you entered today you d win " matched to " shelly if you entered you could win "
+21, 488 ... 495
+" look at you you re already working on the judge " matched to " norma listen to her working on the judge "
+22, 497 ... 501
+" well since you mentioned it " matched to " shelly since you brought it "
+23, 506 ... 512
+" who are you gonna vote for " matched to " who are you going to vote for "
+24, 532 ... 535
+" maybe you could split your vote " matched to " you split your vote "
+25, 745 ... 747
+" hi daddy audrey " matched to " hi daddy audrey "
+26, 762 ... 770
+" the most intelligent face that l ve seen all day " matched to " the most intelligent face i ve seen all day "
+27, 771 ... 779
+" you make the rest of us look like primates " matched to " you make the rest of us look like primates "
+28, 781 ... 786
+" what s with all the books " matched to " what s with all the books "
+29, 803 ... 804
+" yes the koran " matched to " the koran "
+30, 805 ... 809
+" the bhagavad gita the talmud " matched to " the bhagavad gita the talmud "
+31, 810 ... 813
+" the bible old and new testaments " matched to " the bible new and "
+32, 816 ... 819
+" the tao te ching " matched to " the tao te ching "
+33, 821 ... 827
+" audrey l hold in my hands those holy books " matched to " have in my arms those holy books "
+34, 829 ... 832
+" which constitute the fundamental framework " matched to " constitute the fundamental framework "
+35, 833 ... 838
+" of humanity s philosophy of good " matched to " of man s philosophies of good "
+36, 839 ... 845
+" somewhere in here are the answers that l seek " matched to " somewhere in here are the answers i "
+37, 846 ... 856
+" and l intend to read them from cover to cover until l find " matched to " seek i intend to read them cover to cover until find "
+38, 878 ... 882
+" listen to me prattling on " matched to " listen to me prattling on "
+39, 883 ... 889
+" lt s jack isn t it " matched to " it s jack is n t it "
+40, 891 ... 897
+" lt s only been a day " matched to " he s only been gone a day "
+41, 900 ... 909
+" l hope it doesn t hurt this much in a week " matched to " myself how much will it hurt next week ben let "
+42, 910 ... 917
+" honey may l give you a piece of ageless wisdom " matched to " me give you a piece of ageless wisdom "
+43, 918 ... 921
+" culled from these volumes " matched to " culled from these volumes "
+44, 922 ... 925
+" time heals all wounds " matched to " time heals all wounds "
+45, 933 ... 936
+" l know how it feels " matched to " know what it feels "
+46, 938 ... 939
+" believe me " matched to " believe me "
+47, 947 ... 952
+" we barely had time to know each other " matched to " we barely had time to realize "
+48, 957 ... 963
+" but the time that you had was highly concentrated " matched to " but what you had was highly concentrated "
+49, 965 ... 972
+" lt s the concentrate they make concentrate from " matched to " it s the concentrate they make concentrate from "
+50, 976 ... 984
+" l m afraid l ll never see him again " matched to " i m afraid i ll never see him again "
+51, 986 ... 990
+" jack is a man of his word " matched to " jack s a man of "
+52, 992 ... 1003
+" and if he said that he d be back then he will be back " matched to " word if he said he ll be back he ll be back "
+53, 1005 ... 1006
+" l promise you " matched to " promise you "
+54, 1012 ... 1020
+" daddy you can t promise me but thanks for wanting to " matched to " ca n t promise but thanks for wanting to "
+55, 1021 ... 1033
+" l actually came here to update you on my trip to seattle " matched to " i actually came in here to update you on my seattle trip ben "
+56, 1039 ... 1040
+" right update away " matched to " update away "
+57, 1054 ... 1054
+" okay " matched to " slowly "
+58, 1061 ... 1069
+" the packards are using twin peaks savings and loan " matched to " the packards are using twin peaks savings and loan "
+59, 1070 ... 1076
+" to funnel cash to the ghostwood project " matched to " to funnel cash for the ghostwood project "
+60, 1077 ... 1085
+" but the bank is keeping a very low profile " matched to " but the bank s keeping a very low profile "
+61, 1086 ... 1086
+" lt seems they don t want any bad publicity " matched to " they "
+62, 1088 ... 1089
+" oh they don t " matched to " n t "
+63, 1094 ... 1104
+" well bad publicity is exactly what they re gonna get " matched to " ben bad publicity is exactly what they re going to get "
+64, 1105 ... 1111
+" audrey have you given any more thought " matched to " audrey have you given any more thought "
+65, 1112 ... 1117
+" to the miss twin peaks pageant " matched to " to the miss twin peaks pageant "
+66, 1119 ... 1119
+" daddy " matched to " daddy "
+67, 1120 ... 1125
+" from the bottom of my heart " matched to " from the bottom of my heart "
+68, 1126 ... 1136
+" l don t wanna be the town bathing beauty " matched to " i do n t want to be the town bathing beauty "
+69, 1137 ... 1137
+" l understand " matched to " ben "
+70, 1139 ... 1145
+" but miss twin peaks is the ultimate local forum " matched to " miss twin peaks is the ultimate local "
+71, 1146 ... 1146
+" audrey " matched to " forum "
+72, 1148 ... 1150
+" lt would truly be inspirational " matched to " would be truly "
+73, 1152 ... 1159
+" to have a winner with a political sensibility " matched to " to have a winner with a political sensibility "
+74, 1160 ... 1164
+" that extends beyond makeup strategies " matched to " that extends beyond makeup strategies "
+75, 1165 ... 1172
+" and recipes for cherry pie huh " matched to " and recipes for cherry pie lrb the horne "
+76, 1176 ... 1178
+" now as you know " matched to " as you know "
+77, 1179 ... 1187
+" each contestant gives a speech to the assembled town " matched to " each contestant makes a speech to the asembled town "
+78, 1188 ... 1195
+" this year s theme concerns our immediate environment " matched to " this year s theme concerns our immediate environment "
+79, 1196 ... 1203
+" and what we must do to preserve it " matched to " and what we must do to preserve it "
+80, 1204 ... 1213
+" l know there s another way to do this daddy " matched to " hold on audrey for a beat considering brand new strategies "
+81, 1214 ... 1219
+" audrey make the speech " matched to " audrey maybe i d better take "
+82, 1228 ... 1232
+" help stop ghostwood " matched to " sheriff s station conference room "
+83, 1238 ... 1246
+" and take us to a better day " matched to " cave painting reproduced on the blackboard a cluttered concentration "
+84, 1288 ... 1295
+" has he taken his eyes off it yet " matched to " has he taken his eyes off it yet "
+85, 1297 ... 1298
+" not today " matched to " not today "
+86, 1300 ... 1301
+" and before you ask " matched to " andy s "
+87, 1306 ... 1317
+" we still got people out combing the woods for major briggs " matched to " we ve still got people out combing the forest for major briggs "
+88, 1326 ... 1334
+" harry considering our mutual connection to project blue book " matched to " harry given their mutual connection to the blue book "
+89, 1335 ... 1344
+" l believe that windom earle has targeted the major " matched to " project i m afraid earle may have targeted the major "
+90, 1346 ... 1347
+" what for lnteresting " matched to " what interesting "
+91, 1377 ... 1378
+" l don t know " matched to " t know "
+92, 1379 ... 1387
+" but with your permission l d like to speak out loud " matched to " yet all of this appears to be flowing together "
+93, 1388 ... 1396
+" windom earle has been seeking access to the black lodge " matched to " earle s been seeking access to the black lodge "
+94, 1397 ... 1401
+" as far back as 1 965 " matched to " as far back as 1965 "
+95, 1402 ... 1406
+" this chess game may involve " matched to " this chess game may involve "
+96, 1407 ... 1414
+" more pieces than we ve begun to imagine " matched to " more pieces than we d begun to imagine "
+97, 1416 ... 1421
+" then of course there s the mysterious circumstances " matched to " then there s the peculiar circumstances "
+98, 1423 ... 1427
+" surrounding josie s death to consider " matched to " josie s death to consider "
+99, 1428 ... 1431
+" what about them consider them how " matched to " truman consider them how "
+100, 1433 ... 1446
+" when she died l m sorry l didn t mention this before harry " matched to " when josie died i m sorry i have n t mentioned this before harry "
+101, 1447 ... 1456
+" but l had to take into account your mental state " matched to " but i had to take into account your mental state "
+102, 1457 ... 1459
+" what is it " matched to " what is it "
+103, 1462 ... 1466
+" she was trembling with fear " matched to " she was trembling with fear "
+104, 1467 ... 1467
+" l would go as far as to say quaking like an animal " matched to " quaking "
+105, 1473 ... 1485
+" l might venture a guess to say that it was the fear that killed her " matched to " even venture a guess to say that it was fear that killed her "
+106, 1488 ... 1492
+" at the moment of her death " matched to " the moment of her death "
+107, 1494 ... 1495
+" l saw bob " matched to " saw bob "
+108, 1496 ... 1506
+" as if he had slipped in through some crevice in time " matched to " as if he d slipped in through a crevice in time "
+109, 1507 ... 1514
+" upon reflection l believe there s a connection " matched to " upon reflection i believe there s a connection "
+110, 1515 ... 1521
+" between his appearance and josie s fear " matched to " between his appearance and josie s fear "
+111, 1522 ... 1526
+" as if he was attracted to it " matched to " he was attracted by it "
+112, 1530 ... 1533
+" feeding off it somehow " matched to " feed off it truman "
+113, 1534 ... 1543
+" you see a connection between bob and the black lodge " matched to " you see any connection between bob and the black lodge "
+114, 1546 ... 1552
+" harry l think it s where he comes from " matched to " think it s where he comes from "
+115, 1556 ... 1568
+" l think that the black lodge is what you have referred to in the past " matched to " black lodge is the source of what you ve traditionally referred to here "
+116, 1569 ... 1574
+" as the evil in these woods " matched to " as the evil in the woods "
+117, 1577 ... 1582
+" lf windom earle is seeking access to that " matched to " s what earle is seeking it "
+118, 1584 ... 1593
+" it is imperative that we find our way in before he does " matched to " imperative that we find our way in before he does "
+119, 1594 ... 1600
+" there s a source of great power there harry " matched to " there s a source of power in "
+120, 1603 ... 1608
+" far beyond our ability to comprehend " matched to " far beyond our ability to comprehend "
+121, 1642 ... 1642
+" eureka " matched to " eureka "
+122, 1645 ... 1650
+" dale l could kiss your pointy little head " matched to " could kiss your pointy little head "
+123, 1652 ... 1653
+" lt s fear " matched to " s fear "
+124, 1654 ... 1661
+" lt s fear leo that s the key " matched to " it s fear leo that s the key "
+125, 1671 ... 1674
+" my favorite emotional state " matched to " my favorite emotional state "
+126, 1675 ... 1686
+" and all this time it s been staring me right in the kisser " matched to " and all this time it s been staring me in the kisser "
+127, 1687 ... 1693
+" leo it s marvelous a perfect fit " matched to " leo it s marvelous a perfect fit "
+128, 1694 ... 1704
+" these night creatures that hover on the edge of our nightmares " matched to " these night creatures that hover on the edge of our nightmares "
+129, 1705 ... 1712
+" are drawn to us when we radiate fear " matched to " are drawn to us when we radiate fear "
+130, 1713 ... 1718
+" lt s their bread and butter " matched to " it s their bread and butter "
+131, 1719 ... 1721
+" a perfect symbiosis " matched to " a perfect symbiosis "
+132, 1736 ... 1742
+" oh nature perfect in design and aspects " matched to " oh nature perfect in design and aspect "
+133, 1743 ... 1746
+" you do not disappoint " matched to " you do not disappoint "
+134, 1747 ... 1749
+" leo look lively " matched to " leo look lively "
+135, 1750 ... 1753
+" victory is at hand " matched to " victory is at hand "
+136, 1754 ... 1765
+" we know where the entrance is we know when the lock appears " matched to " we know where the entrance is we know when the lock appears "
+137, 1767 ... 1774
+" now we hold the key in our hands " matched to " now we hold the key in our hands "
+138, 1793 ... 1798
+" forgive my hasty departure dear one " matched to " forgive my hasty departure dear one "
+139, 1800 ... 1808
+" the time has come to gather my beloved queen " matched to " the time has come to gather my beloved queen "
+140, 1809 ... 1814
+" and embark upon our dark honeymoon " matched to " and embark upon our dark honeymoon "
+141, 1815 ... 1827
+" l haven t been this excited since l punctured caroline s aorta " matched to " i have n t been this excited since i punctured caroline s aorta "
+142, 1831 ... 1837
+" leo we must share a final sentiment " matched to " leo we must share a final sentiment "
+143, 1845 ... 1852
+" during our time together in this verdant bower " matched to " during our time together in this verdant bower "
+144, 1853 ... 1864
+" l must confess l ve developed something of a fondness for you " matched to " i must confess i ve developed something of a fondness for you "
+145, 1865 ... 1867
+" sounding board companion " matched to " sounding board companion "
+146, 1868 ... 1871
+" ever obedient and faithful " matched to " ever obedient and faithful "
+147, 1872 ... 1878
+" an overall a for effort leo " matched to " an all around a for effort leo "
+148, 1881 ... 1891
+" but l m still a trifle miffed at your release of major briggs " matched to " m still a trifle miffed at your release of major briggs "
+149, 1892 ... 1907
+" but then you ll have plenty of time to reflect upon that won t you " matched to " but then you ll have plenty of time to reflect upon that wo n t you "
+150, 1908 ... 1909
+" goodbye leo " matched to " goodbye leo "
+151, 1910 ... 1912
+" and good luck " matched to " and good luck "
+152, 2059 ... 2067
+" one and two and three step four " matched to " one and two and three lrb doing the moves "
+153, 2074 ... 2080
+" and one and two let the mood carry you " matched to " and over and two the girls continue "
+154, 2081 ... 2089
+" don t be afraid of your vulnerability show me more leg " matched to " on their own as pinkle steps over to a "
+155, 2090 ... 2103
+" what kind of a dance is this supposed to be mr pinkle " matched to " table and takes a large pull off his submarine sandwich pinkle lrb through his "
+156, 2106 ... 2115
+" lt s a dance of nature my friend " matched to " let the mood carry you do n t be afraid "
+157, 2121 ... 2127
+" lt s a celebration all right girls " matched to " me just a little more leg lrb "
+158, 2129 ... 2132
+" now turn around and bend forward " matched to " rrb now bend forward "
+159, 2133 ... 2141
+" like a sapling a sapling in the wind " matched to " like sap in the er sapling in the wind "
+160, 2178 ... 2188
+" that s it a little bit more and hold it " matched to " stay with it i think i can make dancers out of "
+161, 2217 ... 2230
+" what exactly are we celebrating with us all bending over like this " matched to " audrey what are we celebrating when you have us all bending over pinkle do "
+162, 2232 ... 2238
+" don t ever question the vision of your choreographer " matched to " t question the vision of your choreographer "
+163, 2239 ... 2246
+" you are but a petal on my rose " matched to " you re but a petal on the rose "
+164, 2264 ... 2272
+" now please people on the count of one " matched to " be the pistils and the stamens lucy pistils and "
+165, 2339 ... 2347
+" one and two and three and four " matched to " over to a booth where the three judges norma "
+166, 2349 ... 2354
+" and one and two " matched to " and milford sit watching and discussing "
+167, 2380 ... 2386
+" and three and four l love a chorus line " matched to " entranced rrb i love a chorus line "
+168, 2397 ... 2403
+" lf we could just focus here for a second " matched to " we can focus here for a second "
+169, 2406 ... 2411
+" l ve gotta get back to the diner " matched to " to get back to the diner "
+170, 2420 ... 2431
+" now what qualities do we think best exemplify miss twin peaks " matched to " discussion rrb what qualities do we think best examplify miss twin peaks "
+171, 2433 ... 2435
+" beauty and power " matched to " beauty and power "
+172, 2441 ... 2446
+" that s the way l like them " matched to " that s how i like em "
+173, 2459 ... 2464
+" poise and god help us a sophistication " matched to " poise and god help us sophistication "
+174, 2465 ... 2466
+" and breeding " matched to " and breeding "
+175, 2469 ... 2475
+" well l think a major factor should be originality " matched to " think a major factor should be originality "
+176, 2479 ... 2483
+" well wouldn t that fall under talent " matched to " t that fall under talent "
+177, 2485 ... 2489
+" lt s always nice when it does " matched to " always nice when it does "
+178, 2493 ... 2498
+" personally l ve always been big on style " matched to " ve always been big on style "
+179, 2499 ... 2506
+" l think this is enough for me to work with " matched to " norma that should be enough to work with "
+180, 2517 ... 2529
+" so l m gonna go back and work up the scoresheets " matched to " ve really got to go terrific tremayne she goes milford eyes tremayne business "
+181, 2598 ... 2601
+" and l ll see you tonight " matched to " and will exercise with "
+182, 2616 ... 2616
+" terrific bye " matched to " been "
+183, 2654 ... 2655
+" and three and four " matched to " three hundred "
+184, 2677 ... 2683
+" okay that s a break team " matched to " over tremayne s shoulder lana lrb silkenly "
+185, 2686 ... 2690
+" hi dick we re on break " matched to " dick we re on break "
+186, 2692 ... 2693
+" hi lana " matched to " hi lana "
+187, 2696 ... 2708
+" would you mind helping me find something in the storage room " matched to " do you think you could help me find something in the storage room "
+188, 2711 ... 2712
+" storage room " matched to " storage room "
+189, 2714 ... 2720
+" we re missing a very important prop " matched to " we re missing a very important prop "
+190, 2736 ... 2737
+" come on " matched to " comes from "
+191, 2753 ... 2755
+" l m having trouble " matched to " m having trouble "
+192, 2756 ... 2758
+" well just flick it " matched to " just flick it "
+193, 2774 ... 2781
+" now what exactly did you need to find " matched to " now what exactly did you need to find "
+194, 2796 ... 2801
+" lana oh did l do that " matched to " lana oh did i do that "
+195, 2812 ... 2816
+" what are you looking for " matched to " what are we looking for "
+196, 2819 ... 2829
+" well now l don t know the exact technical name for it but " matched to " do n t know the exact technical name for it tremayne "
+197, 2831 ... 2837
+" does anything does anything in here look like it " matched to " does anything in here look like it "
+198, 2844 ... 2848
+" oh l think this might be it " matched to " think this might be it "
+199, 2850 ... 2858
+" oh by george l think you ve got it " matched to " oh by george i think you ve got it "
+200, 2911 ... 2920
+" diane it s 1 1 7 p m l have just concluded " matched to " diane it s 1 15 pm i ve just concluded "
+201, 2921 ... 2930
+" my second meditation of the day in lieu of sleep " matched to " my second meditations of the day in lieu of sleep "
+202, 2932 ... 2940
+" and l feel completely refreshed and struck again by the realization " matched to " am completely refreshed and struck again by the realization "
+203, 2941 ... 2941
+" that all of us on this great big planet earth " matched to " that "
+204, 2944 ... 2950
+" live at only a fraction of our potential " matched to " live at a fraction of our potential "
+205, 2951 ... 2961
+" we are working round the clock on the cave petroglyph " matched to " we ve been working round the clock on the cave hieroglyph "
+206, 2962 ... 2970
+" l am certain that the answers lie in this mysterious etching " matched to " i know the answer is in that crude etching "
+207, 2973 ... 2978
+" l am also convinced that windom earle " matched to " am now convinced that windom earle "
+208, 2979 ... 2986
+" is searching for exactly the same thing as we are " matched to " is searching for the same thing we are "
+209, 2988 ... 2991
+" for diametrically opposite reasons " matched to " for diametrically opposite reasons "
+210, 2994 ... 3005
+" lf l m correct in my assumptions about the power of this unholy place " matched to " m correct in my assumptions about the power of that unholy place "
+211, 3006 ... 3013
+" god help us if he gets there first " matched to " god help us if he gets there first "
+212, 3017 ... 3023
+" diane at this particular juncture " matched to " shaken by the implication then quietly cooper "
+213, 3025 ... 3032
+" l would like to make specific mention of annie blackburn " matched to " want to make specific mention of annie blackburne "
+214, 3034 ... 3040
+" she is a completely original human being " matched to " she is a completely original human being "
+215, 3057 ... 3063
+" her responses as pure as those of a child " matched to " responses are as pure as a child "
+216, 3065 ... 3078
+" l must be honest l haven t felt this way about a woman since caroline " matched to " to be honest i have n t felt this way about anyone since caroline "
+217, 3079 ... 3087
+" lt has taken meeting annie for me to realize " matched to " it s taken meeting someone like annie to realize "
+218, 3088 ... 3097
+" how gray my life has been since caroline s death " matched to " how gray my life has been since caroline s death "
+219, 3098 ... 3101
+" how cold and solitary " matched to " how cold and solitary "
+220, 3116 ... 3117
+" although occasionally " matched to " although occasionally "
+221, 3118 ... 3125
+" there is something to be said for solitude " matched to " there is something to be said for solitude "
+222, 3139 ... 3146
+" annie blackburn you have almost perfect timing " matched to " admits her cooper you have nearly perfect timing "
+223, 3148 ... 3154
+" that s not what our choreographer says " matched to " that s not what our choreographer says "
+224, 3156 ... 3161
+" what can l do for you " matched to " what can i do for you "
+225, 3165 ... 3172
+" well l need to give a speech in six hours " matched to " have to give a speech in six hours "
+226, 3176 ... 3179
+" l haven t written a word " matched to " t written a word "
+227, 3181 ... 3192
+" and l don t have any idea what l wanna say " matched to " i do n t have a thought in my hand i am "
+228, 3193 ... 3198
+" l m in a complete sweaty palmed panic " matched to " in a complete sweaty palmed panic "
+229, 3201 ... 3207
+" and l need to talk to someone namely you " matched to " needed to talk to someone namely you "
+230, 3209 ... 3212
+" what s your topic " matched to " what s the topic "
+231, 3214 ... 3222
+" what you can do to save our local forests " matched to " what you can do to save our local forests "
+232, 3227 ... 3237
+" l just don t wanna stand up there like some deranged barbie doll " matched to " supposed to do stand up there like a deranged barbie doll "
+233, 3238 ... 3244
+" saying things like make sure your campfires are out " matched to " make sure you re campfires are completely "
+234, 3246 ... 3250
+" kind of like my brain " matched to " kind of like my brain "
+235, 3252 ... 3259
+" you re terrified of public speaking yes " matched to " you re i terrified of public speaking yes "
+236, 3263 ... 3266
+" all right well " matched to " amused rrb our forests "
+237, 3267 ... 3275
+" our forests need saving because of the way people regard them " matched to " need saving because of the way people regard them "
+238, 3287 ... 3287
+" expendable " matched to " expendable "
+239, 3290 ... 3298
+" lf the ghostwood development cost thousands of lives " matched to " if the ghostwood development were going to cost thousands "
+240, 3299 ... 3310
+" do you think it would have a chance of going forward " matched to " of lives would it have even the slightest chance of going forward "
+241, 3311 ... 3319
+" well trees aren t the same as people " matched to " annie trees are n t the same as people "
+242, 3324 ... 3327
+" but they are alive " matched to " but they re alive "
+243, 3334 ... 3340
+" your forest is beautiful and peaceful " matched to " your forest is beautiful and very peaceful "
+244, 3342 ... 3347
+" part of it s been damaged " matched to " part of it s been damaged "
+245, 3348 ... 3357
+" l ve tried to replant but nothing s taken root " matched to " i ve tried to replant but nothing s taken root "
+246, 3360 ... 3366
+" every forest has its shadow " matched to " tentatively at first then with greater fervor "
+247, 3378 ... 3390
+" l can see half my life s history in your face " matched to " honest that s not really why i m here the speech cooper the "
+248, 3404 ... 3414
+" and l m not sure that l want to " matched to " mean usually i only ask because well actually i want to "
+249, 3459 ... 3468
+" l don t wanna talk about trees anymore " matched to " i do n t know what i know or do "
+250, 3476 ... 3487
+" all l know is l wanna make love with you " matched to " happily jumbled he sighs rrb i want to make love with you "
+251, 3606 ... 3617
+" and this is me with last year s regional champion from yakima " matched to " and this is me with last year s regional champion from yakima "
+252, 3618 ... 3625
+" he was cute but a little slow next " matched to " he was cute but a little slow next "
+253, 3692 ... 3698
+" oh and this is me with brock farmington " matched to " and this is me with brock farmington "
+254, 3699 ... 3703
+" triple a champion from spokane " matched to " triple a champion from spokane "
+255, 3709 ... 3712
+" superior upper body strength " matched to " superior upper body strength "
+256, 3714 ... 3716
+" and quads like bridge supports " matched to " like bridge supports "
+257, 3728 ... 3733
+" l pinned him in a minute five " matched to " pinned him in a minute five "
+258, 3734 ... 3734
+" next " matched to " next "
+259, 3743 ... 3754
+" oh this is me with all the stuff l won " matched to " trophies nadine and this is me with all the stuff i won "
+260, 3787 ... 3790
+" that s nice way to go " matched to " rrb way to go "
+261, 3792 ... 3792
+" thank you nadine " matched to " nadine "
+262, 3827 ... 3829
+" well now " matched to " all but to "
+263, 3833 ... 3846
+" l suppose all of you are wondering just why we ve gathered here today " matched to " rrb thank you nadine you re probably wondering why we re gathered here today "
+264, 3848 ... 3855
+" see l learned that when a couple is contemplating div " matched to " have found that when a couple contemplates divor "
+265, 3861 ... 3862
+" breaking up " matched to " breaking up "
+266, 3864 ... 3871
+" well sometimes it s easier to talk about our feelings " matched to " is sometimes easier to talk about our feelings "
+267, 3872 ... 3875
+" when we re around other people " matched to " in the company of "
+268, 3876 ... 3883
+" so nadine maybe you d like to begin " matched to " others nadine maybe you would like to begin "
+269, 3885 ... 3885
+" okay " matched to " okay "
+270, 3888 ... 3891
+" well l guess it all started " matched to " guess it all started "
+271, 3892 ... 3902
+" when l noticed mike s buns in the hall at school " matched to " when i noticed mike s buns in the hall at school "
+272, 3903 ... 3903
+" yes " matched to " jacoby "
+273, 3905 ... 3909
+" well how are you feeling now " matched to " how are you feeling now "
+274, 3921 ... 3926
+" well a little guilty l guess " matched to " well a little guilty i guess "
+275, 3928 ... 3933
+" l mean mike and l are hot " matched to " mean mike and i are hot "
+276, 3934 ... 3938
+" and miss twin peaks is tonight " matched to " miss twin peaks is tonight "
+277, 3939 ... 3948
+" and mr pinkle thinks l m a show business natural " matched to " and mr pinkle thinks i m a show business natural "
+278, 3950 ... 3955
+" well l mean because l m so happy " matched to " mean because i m so happy "
+279, 3957 ... 3961
+" l worry about ed being sad " matched to " worry about ed being sad "
+280, 4054 ... 4064
+" ed is there something that you d like to tell nadine " matched to " ed do you have something you would like to tell nadine "
+281, 4073 ... 4073
+" nadine " matched to " nadine "
+282, 4074 ... 4081
+" norma and l plan on getting married " matched to " norma and i are planning to get married "
+283, 4093 ... 4093
+" really " matched to " really "
+284, 4094 ... 4097
+" well that s wonderful eddie " matched to " that s wonderful eddie "
+285, 4098 ... 4105
+" because mike and me are getting married too " matched to " cause mike and me are getting married too "
+286, 4184 ... 4190
+" which way is the castle " matched to " him until we look out the windshield "
+287, 4286 ... 4292
+" l waited for you thanks harry " matched to " i waited for you cooper thanks harry "
+288, 4294 ... 4299
+" not that he s too talkative " matched to " not that he s too talkative "
+289, 4305 ... 4314
+" he checks out okay physically doc ran some blood tests " matched to " he checks out okay physically doc ran a blood test "
+290, 4316 ... 4322
+" he s been shot full of haloperidol " matched to " he s been shot up with haloperidol "
+291, 4323 ... 4323
+" right " matched to " right "
+292, 4326 ... 4326
+" garland " matched to " garland "
+293, 4327 ... 4333
+" did windom earle do this to you " matched to " did windom earle do this to you "
+294, 4335 ... 4335
+" garland " matched to " garland "
+295, 4338 ... 4339
+" odd name " matched to " odd name "
+296, 4340 ... 4341
+" judy garland " matched to " cooper was "
+297, 4342 ... 4344
+" was it windom earle " matched to " it windom earle "
+298, 4350 ... 4353
+" lt was god l suppose " matched to " was god i suppose "
+299, 4355 ... 4359
+" garland where did he take you " matched to " where did he take you "
+300, 4360 ... 4361
+" the woods " matched to " the woods "
+301, 4364 ... 4370
+" can you be more specific " matched to " can you be a little more specific "
+302, 4372 ... 4374
+" they were lovely " matched to " they were lovely "
+303, 4396 ... 4404
+" dark the king of romania was unable to attend " matched to " rrb the king of romania was unable to attend "
+304, 4412 ... 4416
+" harry this is gonna take some time " matched to " this might take awhile truman "
+305, 4417 ... 4424
+" how much time we got not enough " matched to " how much time have we got andy enters "
+306, 4442 ... 4454
+" let s leave him here with us maybe something will bubble up " matched to " let s leave him in here with us maybe something will bubble up "
+307, 4455 ... 4459
+" harry we re in trouble " matched to " harry we re in trouble "
+308, 4460 ... 4468
+" lf the door to the black lodge does exist " matched to " if the door to the black lodge does exist "
+309, 4469 ... 4474
+" it probably exists at a point in time " matched to " it probably exists only in time "
+310, 4475 ... 4479
+" now an object such as a door " matched to " an object like a door "
+311, 4480 ... 4486
+" normally exists at a point in time and space " matched to " normally exists at a point in space "
+312, 4489 ... 4492
+" by way of contrast " matched to " by way of contrast "
+313, 4493 ... 4503
+" a shooting star normally exists at a point in time " matched to " a shooting star exists for us at a point in time "
+314, 4504 ... 4508
+" over a continuum of space " matched to " over a continuim in space "
+315, 4509 ... 4525
+" but taken from the star s point of view it s a completely different experience " matched to " but looking at it from the star s point of view might be an entirely different experience "
+316, 4528 ... 4530
+" you just lost me " matched to " you lost me "
+317, 4532 ... 4544
+" lf we re not at the right place at exactly the right time " matched to " if we re not at the right place at exactly the right time "
+318, 4545 ... 4551
+" we won t find our way in " matched to " we ll never find the way in "
+319, 4552 ... 4552
+" sheriff " matched to " sheriff "
+320, 4567 ... 4577
+" could the four h club have anything to do with all of this " matched to " could the 4h club have anything to do with all this "
+321, 4579 ... 4580
+" doubtful andy " matched to " doubtful andy "
+322, 4859 ... 4868
+" this has to be the last box look at it " matched to " this has to be the last one look at it "
+323, 4873 ... 4878
+" l can t take any more of this " matched to " t take any more of this "
+324, 4879 ... 4881
+" boxes inside boxes " matched to " boxes inside boxes "
+325, 4882 ... 4890
+" whatever is in that better be worth a fortune " matched to " what s in there could be worth a fortune "
+326, 4892 ... 4899
+" maybe it s not a box at all " matched to " maybe it s not a box at all "
+327, 4900 ... 4908
+" maybe it s just a block of stainless steel " matched to " maybe it s just a block of stainless steel "
+328, 4912 ... 4921
+" eckhardt s last little joke lt d be a good one " matched to " eckhardt s last little joke pete be a good one "
+329, 4928 ... 4938
+" let s channel some of that high wit into the job " matched to " let s channel some of that high wit into the job "
+330, 4940 ... 4940
+" again " matched to " i "
+331, 4944 ... 4950
+" l can t believe a little crumb like that " matched to " t believe a little crumb like that "
+332, 4951 ... 4960
+" can stand up to this cram jack all duty vise " matched to " can stand up to this cram jack all duty vise "
+333, 5004 ... 5008
+" on three one two and three " matched to " on three one two three "
+334, 5120 ... 5129
+" l m sorry andrew that was my fault " matched to " will open by itself andrew do you have any better "
+335, 5150 ... 5150
+" dumb boxes " matched to " comes "
+336, 5160 ... 5160
+" andrew " matched to " andrew "
+337, 5236 ... 5236
+" darn boxes " matched to " box "
+338, 5241 ... 5241
+" nice shooting andrew " matched to " andrew "
+339, 5308 ... 5310
+" look at that " matched to " look at this "
+340, 5329 ... 5330
+" a key " matched to " a key "
+341, 5333 ... 5343
+" and where there s a key there s a lock " matched to " andrew catherine where there s a key there s a lock "
+342, 5346 ... 5349
+" lt should be kept safe " matched to " should be kept safe "
+343, 5360 ... 5362
+" yes in plain sight " matched to " in plain sight "
+344, 5364 ... 5371
+" you two don t trust each other " matched to " you two do n t trust each other "
+345, 5380 ... 5383
+" of course we do " matched to " of course we do "
+346, 5396 ... 5399
+" like brother like sister " matched to " like brother and sister "
+347, 5401 ... 5403
+" how about here " matched to " how about here "
+348, 5406 ... 5407
+" ln the cake saver " matched to " the desk "
+349, 5417 ... 5418
+" ln plain sight " matched to " plain sight "
+350, 5427 ... 5434
+" so we have a key yes we do " matched to " so we have a key yes we do "
+351, 5511 ... 5514
+" you look truly beautiful " matched to " you look truly beautiful "
+352, 5516 ... 5519
+" read us your speech " matched to " read us your speech "
+353, 5534 ... 5540
+" l d rather talk about the truth right now " matched to " prefer to talk about the truth eileen "
+354, 5541 ... 5544
+" what truth is that " matched to " what truth is there "
+355, 5546 ... 5554
+" l know something s going on with you and benjamin horne " matched to " something is going on between you and ben home "
+356, 5557 ... 5561
+" and l wanna know what it is " matched to " to know what it is "
+357, 5565 ... 5571
+" donna don t talk to your mother like that " matched to " n t talk to your mother that "
+358, 5573 ... 5589
+" you know l m really tired of you talking to me like l m a child " matched to " donna this is n t child parent this is eye to eye i want to know now "
+359, 5590 ... 5598
+" l wanna know what s going on " matched to " lrb continued rrb 2 021 24 16 continued eileen "
+360, 5599 ... 5602
+" donna l understand your feeling " matched to " donna i understand your "
+361, 5603 ... 5610
+" but there are some things you just have to trust " matched to " feelings there are things you have to trust "
+362, 5612 ... 5623
+" you re young and you don t know all the limitations " matched to " you re young and you do n t see any limitations donna "
+363, 5626 ... 5629
+" l know the limitations of lying " matched to " the limitations of lies "
+364, 5631 ... 5638
+" l know that you raised me to tell the truth " matched to " know you raised me to tell the truth "
+365, 5640 ... 5644
+" l expect the same from you " matched to " expect the same from you "
+366, 5655 ... 5666
+" lf you re not gonna tell me what l need to know " matched to " if you wo n t tell me i ll have to find "
+367, 5669 ... 5673
+" l ll find out from benjamin horne " matched to " i want from ben horne "
+368, 5674 ... 5677
+" no then tell me " matched to " no then tell me "
+369, 5686 ... 5691
+" all right this is your choice not mine " matched to " this is your choice not mine "
+370, 5707 ... 5707
+" donna " matched to " donna "
+371, 5744 ... 5744
+" donna " matched to " down "
+372, 5748 ... 5748
+" by heavens " matched to " even "
+373, 5768 ... 5773
+" andy take a look at this " matched to " andy take a look at this "
+374, 5776 ... 5782
+" what you mistook for the four h club " matched to " what you mistook for the 4h club "
+375, 5783 ... 5789
+" the four and the h are actually astrological symbols " matched to " the 4 and h are astrological symbols "
+376, 5791 ... 5795
+" you mean like planets why yes andy " matched to " you mean like planets lrb "
+377, 5809 ... 5812
+" they stand for jupiter and saturn " matched to " for jupiter and saturn "
+378, 5813 ... 5821
+" some of the others represent planets as well " matched to " some of these other symbols are planetary as well "
+379, 5822 ... 5836
+" but this particular part of the puzzle pertains to a precise planetary position " matched to " what this paticular part of the puzzle seems to signify is a specific planetary position "
+380, 5837 ... 5848
+" jupiter and saturn in conjunction what s that supposed to mean " matched to " jupiter and saturn in conjunction truman what s that supposed to mean "
+381, 5850 ... 5856
+" well historically harry when jupiter and saturn are conjunct " matched to " historically when jupiter and saturn are conjunct "
+382, 5858 ... 5863
+" there are enormous shifts in power and fortune " matched to " shifts occur in power and fortune "
+383, 5866 ... 5869
+" jupiter being expansive in its influence " matched to " expansive in its influence "
+384, 5870 ... 5871
+" saturn contractive " matched to " saturn contractive "
+385, 5872 ... 5877
+" conjunction suggests a state of intensification concentration " matched to " conjunction suggests a state of concentration "
+386, 5880 ... 5888
+" what this indicates to me is the potential for explosive change " matched to " we have indicated here is something potentially explosive lrb "
+387, 5891 ... 5900
+" good and bad so when s the next conjunction " matched to " rrb taking into account the earth s rotation planetary positions "
+388, 5902 ... 5907
+" well now let s see " matched to " specific down to the last second "
+389, 5914 ... 5917
+" according to the ephemeris " matched to " according to the ephemeris "
+390, 5936 ... 5941
+" the next conjunction is due january to june " matched to " the world his finger stops cooper "
+391, 5957 ... 5959
+" my god harry " matched to " my god harry "
+392, 5960 ... 5964
+" the door to the lodge " matched to " the door to the lodge "
+393, 5965 ... 5977
+" that s when it s open that s what the puzzle is telling us " matched to " that s when it opens that s what the puzzle s telling us "
+394, 5978 ... 5978
+" lt s telling us when it s gonna be open " matched to " briggs "
+395, 5979 ... 5981
+" protect the queen " matched to " protect the queen "
+396, 5985 ... 5999
+" lf it s telling us when then it must also tell us where " matched to " rrb if the door is open tonight then something else here must tell us where "
+397, 6018 ... 6023
+" fear and love open the doors " matched to " fear and love open the doors "
+398, 6027 ... 6028
+" what s he saying " matched to " he say "
+399, 6041 ... 6048
+" he said fear and love open the doors " matched to " he said fear and love open the doors "
+400, 6054 ... 6055
+" two doors two lodges " matched to " two lodges "
+401, 6058 ... 6062
+" fear opens one the black " matched to " fear opens one the black "
+402, 6063 ... 6070
+" love the other what s that mean " matched to " love the other truman what does that mean "
+403, 6075 ... 6082
+" l don t know exactly lt just came to me " matched to " t know exactly it just came to me "
+404, 6090 ... 6093
+" how does the queen " matched to " how does the queen "
+405, 6105 ... 6109
+" of course the queen of romania " matched to " of course the queen romania "
+406, 6112 ... 6121
+" no the chess game s final piece harry follow my logic " matched to " no the chess game s final piece follow my thinking "
+407, 6122 ... 6136
+" lf windom earle takes the queen game s not over till he takes the king " matched to " earle takes the queen truman the game s not over until you take the king "
+408, 6145 ... 6154
+" that depends maybe he takes her to the doorway when it opens " matched to " maybe he takes her to the doorway when it opens "
+409, 6156 ... 6161
+" which queen are we talking about agent cooper " matched to " which queen are we talking about "
+410, 6162 ... 6166
+" just a minute andy " matched to " andy as if psychically awakened "
+411, 6177 ... 6186
+" the queen the queen the crown the queen " matched to " the first time he looks away from the board over "
+412, 6191 ... 6193
+" harry the queen agent cooper " matched to " andy agent cooper "
+413, 6197 ... 6199
+" andy please " matched to " andy tonight the "
+414, 6222 ... 6224
+" harry miss twin peaks " matched to " miss twin peaks "
+415, 6230 ... 6236
+" holy smokes that s it yeah yeah " matched to " two of them spring from their seats "
+416, 6238 ... 6240
+" agent cooper please " matched to " agent cooper please "
+417, 6241 ... 6241
+" andy " matched to " andy "
+418, 6263 ... 6269
+" coop the plant s been bugged " matched to " discovers truman this plant has a bug "
+419, 6282 ... 6286
+" this bonsai isn t from josie harry " matched to " was n t from josie "
+420, 6287 ... 6290
+" this bonsai s from windom earle " matched to " it was from earle "
+421, 6295 ... 6300
+" he s way ahead of us " matched to " he s way ahead of us "
+422, 6302 ... 6311
+" and we ve been working for him from the beginning " matched to " and we ve been working for earle from the start "
+423, 6312 ... 6319
+" what time does that contest start any minute " matched to " what time does that conest start any minute "
+424, 6324 ... 6324
+" let s go " matched to " got "
+425, 6337 ... 6338
+" agent cooper agent cooper " matched to " agent cooper "
+426, 6427 ... 6428
+" welcome ladies and gentlemen " matched to " and the "
+427, 6508 ... 6516
+" l hope you ve had a good weekend " matched to " everyone hope you ve all had a good holiday "
+428, 6517 ... 6524
+" and welcome to the miss twin peaks pageant " matched to " and welcome to the miss twin peaks pageant "
+429, 6525 ... 6533
+" in which one of these lovely and talented young citizens " matched to " in which one of these lovely talented young citizens "
+430, 6534 ... 6539
+" will soon be crowned miss twin peaks " matched to " will be crowned miss twin peaks "
+431, 6542 ... 6550
+" and now commencing our talent section of the show " matched to " rrb now commencing the talent segment of the show "
+432, 6552 ... 6553
+" lucy moran " matched to " lucy moran "
+433, 6651 ... 6651
+" come on " matched to " on "
+434, 6716 ... 6716
+" small town man " matched to " can "
+435, 6740 ... 6749
+" so what did you bring your whole family " matched to " doc our next entry is lana budding milford who will "
+436, 6795 ... 6806
+" we re pulling in deputies from all over to surround the place " matched to " we re pulling in deputies from all over to surround the place "
+437, 6807 ... 6812
+" they should be here any time " matched to " they should be here within the "
+438, 6813 ... 6826
+" harry it is essential whoever wins this contest receive 24 hour guard " matched to " hour cooper it s essential that whoever wins this contest receive full police protection "
+439, 6830 ... 6833
+" house security l want the works " matched to " house surveillance everything truman "
+440, 6834 ... 6838
+" as soon as she s announced " matched to " soon as she s announced "
+441, 6855 ... 6863
+" our next entry is lana budding milford " matched to " cooper 21 stage cut to as lana swings into "
+442, 6878 ... 6881
+" who will perform a dance of " matched to " stand in awe of "
+443, 6883 ... 6883
+" contortionistic jazz exotica " matched to " exhibition "
+444, 6887 ... 6890
+" lana agent coop " matched to " lana s movement their "
+445, 6924 ... 6928
+" there my friend is a real artist " matched to " my friend is an artist "
+446, 6993 ... 7007
+" there is only one way to save a forest an idea or anything of value " matched to " there is only one way to save a forest an idea or anything of value "
+447, 7008 ... 7019
+" and that is by refusing to stand by and watch it die " matched to " and that is by refusing to stand by and watch it die "
+448, 7020 ... 7031
+" there is a law of nature which is more fundamental to life " matched to " there is a law of nature which is more fundamental to life "
+449, 7032 ... 7036
+" than the laws of man " matched to " than the laws of man "
+450, 7037 ... 7045
+" and when something you care about is in danger " matched to " and when something you care about is in danger "
+451, 7046 ... 7051
+" you must fight to save it " matched to " you must act to save it "
+452, 7052 ... 7055
+" or lose it forever " matched to " or lose it forever "
+453, 7066 ... 7068
+" thank you " matched to " twin peaks or "
+454, 7070 ... 7071
+" thank you audrey horne " matched to " audrey horne "
+455, 7085 ... 7091
+" now a brief musical interlude " matched to " cooper happens upon the still disguised earle "
+456, 7092 ... 7092
+" thanks daddy " matched to " andy "
+457, 7093 ... 7099
+" l m gonna go out there " matched to " hello miss log lady no reply earle "
+458, 7100 ... 7100
+" l wanna know what s going on with you and my mother " matched to " is "
+459, 7102 ... 7102
+" donna " matched to " hoping "
+460, 7103 ... 7107
+" l think the wisest course would be " matched to " he ll go away andy "
+461, 7108 ... 7119
+" first of all just to get together and talk about this " matched to " have you or your log seen agent cooper i ve got to "
+462, 7120 ... 7122
+" l don t think so " matched to " find him no "
+463, 7126 ... 7140
+" donna l really don t think this is the time or the place " matched to " earle rrb lrb murmurs rrb andy what was that lrb continued rrb 2 021 revised "
+464, 7150 ... 7159
+" old pictures horne bearer bonds in the attic " matched to " lady lrb earle rrb lrb hoarsely rrb andy oh sorry "
+465, 7165 ... 7170
+" love letters to my mom " matched to " ve got to find agent cooper "
+466, 7174 ... 7188
+" l want to tell the truth l want to do the right thing " matched to " possible maybe you could ask your log to be extra on guard the log lady "
+467, 7192 ... 7201
+" a birth certificate with no father s name on it " matched to " andy looks after puzzled frustrated something s not quite right "
+468, 7211 ... 7221
+" what the hell s going on here mr horne " matched to " to the races rrb agent cooper andy races off camera remains "
+469, 7222 ... 7229
+" why won t anyone tell me the truth " matched to " and reveals what andy just missed a siren "
+470, 7230 ... 7230
+" donna " matched to " horn "
+471, 7232 ... 7235
+" your mother and l " matched to " to the backstage wall "
+472, 7249 ... 7250
+" you re my father " matched to " stage later "
+473, 7251 ... 7251
+" donna " matched to " annie "
+474, 7256 ... 7260
+" and to illustrate my point " matched to " and to illustrate my point "
+475, 7261 ... 7270
+" l d like to quote these words from chief seattle " matched to " i d like to read these words from chief seattle "
+476, 7271 ... 7275
+" leader of the suquamish tribe " matched to " leader of the suquamish tribe "
+477, 7276 ... 7283
+" your dead are soon forgotten and never return " matched to " your dead are soon forgotten and never return "
+478, 7284 ... 7294
+" our dead never forget the beautiful world that gave them being " matched to " our dead never forget the beautiful world that gave them being "
+479, 7295 ... 7300
+" they still love its verdant valleys " matched to " they still love its verdant valleys "
+480, 7301 ... 7306
+" its murmuring rivers its majestic mountains " matched to " its murmuring rivers its magnificent mountains "
+481, 7322 ... 7332
+" when the last red man has vanished from this earth " matched to " over the lonely hearted living and often return from the happy "
+482, 7343 ... 7353
+" these forests and shores will still hold their spirits " matched to " hush has fallen over the crowd she folds up her paper "
+483, 7362 ... 7368
+" for the lndians love the earth " matched to " along the catwalk overhead he attaches another "
+484, 7370 ... 7379
+" as a newborn loves its mother s heartbeat " matched to " to a sandbag line sets the timer that s when "
+485, 7405 ... 7413
+" why have we all lost touch with this beauty " matched to " why have we all lost touch with this beauty "
+486, 7439 ... 7447
+" maybe saving a forest starts with preserving some of the feelings " matched to " maybe saving a forest starts with preserving the little "
+487, 7449 ... 7454
+" that die inside us every day " matched to " that die inside us every day "
+488, 7455 ... 7459
+" those parts of ourselves that we deny " matched to " those parts of ourselves we "
+489, 7460 ... 7465
+" for if we cannot respect that interior land " matched to " deny because if that interior land "
+490, 7469 ... 7477
+" then neither can we respect the land we walk " matched to " then neither will we honor the land we walk "
+491, 7479 ... 7487
+" so let us in walking gently upon the earth " matched to " you very much she walks off to a salvo "
+492, 7498 ... 7500
+" leave behind a simple legacy " matched to " with a deputy "
+493, 7520 ... 7525
+" that we re new warriors " matched to " the catwalks above intercut 29 earle "
+494, 7528 ... 7534
+" mystic warriors who love the earth " matched to " his careful psychopathic eye scans the row "
+495, 7548 ... 7554
+" and tried to save it " matched to " pan over to and hold on annie "
+496, 7556 ... 7559
+" thank you very much " matched to " back to scene doc "
+497, 7567 ... 7570
+" thanks to all our contestants " matched to " thanks to our contestants "
+498, 7572 ... 7582
+" balloting will now commence and we will then announce our winner " matched to " balloting will now commence and we will then announce our winner "
+499, 7597 ... 7604
+" have you both forgotten what day this is " matched to " have you both forgotten what day this is "
+500, 7618 ... 7621
+" miss twin peaks day " matched to " miss twin peaks day "
+501, 7623 ... 7632
+" today is the day my unborn child receives a dad " matched to " today is the day my unborn child receives a father "
+502, 7634 ... 7642
+" lt was right on the tip of my tongue " matched to " it was right on the tip of my tongue "
+503, 7645 ... 7646
+" l have decided " matched to " have decided "
+504, 7647 ... 7654
+" that regardless of which individual is biologically responsible " matched to " that regardless of which individual is biologically responsible "
+505, 7680 ... 7690
+" that l want andy to be the father of my child " matched to " that i want andy to be the father of my child "
+506, 7701 ... 7701
+" really " matched to " really "
+507, 7705 ... 7721
+" l m sorry dick but l just have to do what s best for little what s his name " matched to " m sorry dick but i have to do what s best for little what s his name "
+508, 7723 ... 7728
+" oh no not at all a sound choice " matched to " not at all a sound choice "
+509, 7729 ... 7731
+" heartiest congratulations dearest andrew " matched to " heartiest congratulations andrew "
+510, 7732 ... 7745
+" now if you ll both excuse me l do have a vote to cast myself " matched to " now if you ll excuse me i do have a vote to cast myself "
+511, 7751 ... 7755
+" here s to the children " matched to " here s to the children "
+512, 7769 ... 7774
+" don t sound so disappointed " matched to " do n t sound so disappointed "
+513, 7779 ... 7781
+" my god lucy " matched to " my god lucy "
+514, 7784 ... 7789
+" l m so honored you made this decision " matched to " so honored you made this decision "
+515, 7790 ... 7798
+" and l promise l ll be a great father " matched to " and i promise i will be a great father "
+516, 7799 ... 7801
+" but right now " matched to " but right now "
+517, 7803 ... 7807
+" l ve got to find agent cooper " matched to " have to find agent cooper "
+518, 7815 ... 7815
+" men " matched to " men "
+519, 8037 ... 8041
+" lt is time to make the announcement " matched to " time to make the announcement "
+520, 8042 ... 8046
+" the winner of the contest " matched to " the winner of the contest "
+521, 8047 ... 8053
+" and our new miss twin peaks is " matched to " and our new miss twin peaks is "
+522, 8061 ... 8062
+" annie blackburn " matched to " annie blackburne "
+523, 8084 ... 8093
+" ladies and gentlemen your new miss twin peaks " matched to " freezes understands the danger she is in alert he looks "
+524, 8145 ... 8148
+" this is an outrage " matched to " this is an outrage "
+525, 8149 ... 8159
+" she s been living in this town about 1 5 minutes " matched to " she s been living in this town for about fifteen minutes "
+526, 8164 ... 8169
+" and what the hell got into you " matched to " what the hell got into you "
+527, 8176 ... 8180
+" she gave a beautiful speech " matched to " she gave a beautiful speech "
+528, 8181 ... 8186
+" lnherent in her message were words " matched to " inherent in her message were words "
+529, 8187 ... 8197
+" even the most craven of us can ill afford to ignore " matched to " even the most craven among us can ill afford to ignore "
+530, 8287 ... 8291
+" what s happening " matched to " at earle s chest looking "
+531, 8314 ... 8320
+" everybody please please stay calm " matched to " you are if nothing else consistent as "
+532, 8425 ... 8425
+" good lord " matched to " colored "
+533, 8440 ... 8442
+" this way " matched to " then starts wailing "
+534, 8448 ... 8459
+" settle down everybody settle down don t panic this way " matched to " in concordance people are now scurrying about in panic on the catwalk "
+535, 8523 ... 8524
+" l will help you " matched to " help you "
+536, 8531 ... 8531
+" annie " matched to " annie "
+537, 8539 ... 8539
+" annie " matched to " annie "
+538, 8551 ... 8551
+" annie " matched to " annie "
+539, 8555 ... 8556
+" harry what " matched to " earle whips "
+540, 8620 ... 8623
+" he took annie what " matched to " he took annie he "
+541, 8625 ... 8625
+" he got annie " matched to " annie "
+542, 8633 ... 8648
+" bastard he won t get half a mile from here we ll get him " matched to " bastard wo n t get half a mile from here truman moves off purposefully cooper continues "
+543, 8659 ... 8668
+" agent cooper l ve been looking all over for you " matched to " agent cooper i ve been looking all over for you "
+544, 8670 ... 8677
+" andy they re gonna need you outside " matched to " andy they re going to need you outside "
+545, 8679 ... 8681
+" this is important " matched to " this is important "
+546, 8682 ... 8692
+" that cave painting in the office l finally figured it out " matched to " that cave painting in the office i finally figured it out "
+547, 8710 ... 8716
+" what l knew l d seen it someplace before " matched to " knew i d seen it someplace before "
+548, 8718 ... 8725
+" l know where it s telling us to go " matched to " know where it s telling us to go "
+549, 8726 ... 8732
+" lt s not a puzzle at all " matched to " it s not a puzzle at all "

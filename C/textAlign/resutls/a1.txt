@@ -1,0 +1,55 @@
+1:0:49
+00:00:30,319 --> 00:00:31,631:1:48
+Murder.:2:77
+:2:13
+blah1:0
+<1> : murder. 
+2:0:50
+00:00:32,098 --> 00:00:33,608:1:48
+Mystery.:2:77
+:2:13
+blah2:0
+<2> : mystery. 
+3:0:51
+00:00:35,910 --> 00:00:37,734:1:48
+The macabre.:2:84
+:2:13
+blah3:0
+<3> : the macabre. 
+4:0:52
+00:41:56,110 --> 00:41:57,623:1:48
+a=====:2:97
+:2:13
+blah4:0
+<4> : a===== 
+5:0:53
+00:41:58,604 --> 00:42:01,372:1:48
+<font color="#ffff00">welcome to www.1000fr.com</font>:2:60
+:2:13
+blah5:0
+<5> : 
+9999:0:57
+00:00:0,500 --> 00:00:2,00:1:48
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>:2:60
+:2:0
+blah9999:1
+<9999> : 
+computing mathcing limits for each sentence ...
+Starting forward pass ... 
+(0,5): 0,76 *********************************** 
+(1,5): 1,77 *********************************** 
+(2,5): 2,79 *********************************** 
+(3,5): 4,80 *********************************** 
+(4,5): 5,80 *********************************** 
+Starting backward pass
+best score: 4
+0, 3 ... 3
+" murder " matched to " murder "
+1, 13 ... 13
+" mystery " matched to " mystery "
+2, 21 ... 22
+" the macabre " matched to " the macabre "
+3, 28 ... 28
+" a " matched to " a "
+4, 29 ... 29
+" " matched to " hard "

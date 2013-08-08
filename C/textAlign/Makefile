@@ -1,12 +1,12 @@
 CC=g++ -g
 CFLAGS=-c -Wall
 BOOST_DIR=/scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/
-IFLAGS=-I $(BOOST_DIR)
+IFLAGS=-I $(BOOST_DIR) -I ./include/
 #LDFLAGS=-L ./3rd_party/lib -L ./3rd_party/lib/vl_objs/ -L ./3rd_party/lib/opencv -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_flann -lavcodec -lavformat -lswscale -lboost_filesystem-mt -lboost_system-mt -lavutil -lpthread -lvl
 
 
-SOURCES=main2.cpp
-EXECFILES=align2
+SOURCES=textAlign.cpp main.cpp
+EXECFILES=align
 
 OBJDIR=objs
 BINDIR=bin
@@ -29,4 +29,4 @@ $(OBJDIR)/%.o : %.cpp
 
 clean:
 	  rm $(OBJDIR)/*.o
-		  rm $(BINDIR)/$(EXECFILES)
+		rm $(BINDIR)/$(EXECFILES)
