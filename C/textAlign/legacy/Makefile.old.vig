@@ -1,0 +1,31 @@
+CC=g++ -g
+CFLAGS=-c -w
+BOOST_DIR=/scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/
+IFLAGS=-I ./include/ -I $(BOOST_DIR)
+#LDFLAGS=-L ./3rd_party/lib -L ./3rd_party/lib/vl_objs/ -L ./3rd_party/lib/opencv -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_flann -lavcodec -lavformat -lswscale -lboost_filesystem-mt -lboost_system-mt -lavutil -lpthread -lvl
+
+
+SOURCES=textAlign.cpp main.cpp
+EXECFILES=align
+
+OBJDIR=objs
+BINDIR=bin
+
+#LINEAROBJ=blas/blas.a
+
+OBJECTS=$(SOURCES:.cpp=.o) #$(LINEAROBJ)
+	OBJECTS_FULLPATH := $(addprefix $(OBJDIR)/, $(OBJECTS))
+	EXECUTABLE := $(addprefix $(BINDIR)/, $(EXECFILES))
+
+
+all: $(SOURCES) $(EXECUTABLE)
+
+$(EXECUTABLE): $(OBJECTS_FULLPATH)
+	    $(CC) $(LDFLAGS) $(IFLAGS) $(OBJECTS_FULLPATH) -o $@
+
+$(OBJDIR)/%.o : %.cpp
+	  $(CC) $(CFLAGS) $(IFLAGS) $< -o $@
+
+clean:
+	  rm $(OBJDIR)/*.o
+		rm $(BINDIR)/$(EXECFILES)

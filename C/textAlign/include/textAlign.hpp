@@ -387,7 +387,7 @@ namespace alignment
       // reduce the allowed drift
       allowed_drift -= drift;
       tsd = tsd + minDist;
-      last_match = matchId;
+      last_match = (int)(matchId);
     }
     tsd = tsd/(N2); // normalize so that value is in [0,1]
     alignment.first = last_match;

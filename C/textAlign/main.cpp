@@ -50,14 +50,14 @@ int main(int argc, char* argv[])
 
   // Now tokenize each dialogue, and insert the words to a vector of words
   vector <vector <string> > subWordTokens;
-
   for (int i = 0; i < srt_parser._dialogues.size(); i++)
   {
     WordTokenizer dialogueWords(srt_parser._dialogues[i]);
     subWordTokens.push_back(dialogueWords._wordTokens);
   }
   
-  // match the words
+  // the double ended queue to store the matching index pair
+  // <subtitle index, <matching begining in script, matching end in script> >
   deque < pair <int, pair<int, int> > > finalWordAlignment;
 
   /**************************************
@@ -76,6 +76,8 @@ int main(int argc, char* argv[])
     getTimeSynchDistance(subWordTokens, scriptWords._wordTokens, timeSynchDistanceWithAlignment, finalWordAlignment, true);
   */
   
+  // OPTION 3 - faster but slightly less accurate, uses a greedy scheme for string matchin when comparing
+  // subtitle string to a sub-segment of the script
   getTimeSynchDistance(subWordTokens, scriptWords._wordTokens, greedyTimeSynchDist, finalWordAlignment, true);
   
   

@@ -1,0 +1,2 @@
+/usr/bin/ar cr lib/libTextAlign.a  CMakeFiles/TextAlign.dir/textAlign.cpp.o
+/usr/bin/ranlib lib/libTextAlign.a

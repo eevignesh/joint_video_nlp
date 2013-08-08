@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++     -fPIC CMakeFiles/align.dir/main.cpp.o  -o bin/align -rdynamic lib/libTextAlign.a 
