@@ -53,45 +53,45 @@ CMAKE_SOURCE_DIR = /scail/u/vigneshr/CVPR2014/codes/C/textAlign
 CMAKE_BINARY_DIR = /scail/u/vigneshr/CVPR2014/codes/C/textAlign/build
 
 #=============================================================================
-# Target rules for target CMakeFiles/TextAlign.dir
+# Target rules for target CMakeFiles/TvParser.dir
 
 # All Build rule for target.
-CMakeFiles/TextAlign.dir/all:
-	$(MAKE) -f CMakeFiles/TextAlign.dir/build.make CMakeFiles/TextAlign.dir/depend
-	$(MAKE) -f CMakeFiles/TextAlign.dir/build.make CMakeFiles/TextAlign.dir/build
+CMakeFiles/TvParser.dir/all:
+	$(MAKE) -f CMakeFiles/TvParser.dir/build.make CMakeFiles/TvParser.dir/depend
+	$(MAKE) -f CMakeFiles/TvParser.dir/build.make CMakeFiles/TvParser.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /scail/u/vigneshr/CVPR2014/codes/C/textAlign/build/CMakeFiles  1
-	@echo "Built target TextAlign"
-.PHONY : CMakeFiles/TextAlign.dir/all
+	@echo "Built target TvParser"
+.PHONY : CMakeFiles/TvParser.dir/all
 
 # Include target in all.
-all: CMakeFiles/TextAlign.dir/all
+all: CMakeFiles/TvParser.dir/all
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/TextAlign.dir/rule: cmake_check_build_system
+CMakeFiles/TvParser.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /scail/u/vigneshr/CVPR2014/codes/C/textAlign/build/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/TextAlign.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/TvParser.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /scail/u/vigneshr/CVPR2014/codes/C/textAlign/build/CMakeFiles 0
-.PHONY : CMakeFiles/TextAlign.dir/rule
+.PHONY : CMakeFiles/TvParser.dir/rule
 
 # Convenience name for target.
-TextAlign: CMakeFiles/TextAlign.dir/rule
-.PHONY : TextAlign
+TvParser: CMakeFiles/TvParser.dir/rule
+.PHONY : TvParser
 
 # clean rule for target.
-CMakeFiles/TextAlign.dir/clean:
-	$(MAKE) -f CMakeFiles/TextAlign.dir/build.make CMakeFiles/TextAlign.dir/clean
-.PHONY : CMakeFiles/TextAlign.dir/clean
+CMakeFiles/TvParser.dir/clean:
+	$(MAKE) -f CMakeFiles/TvParser.dir/build.make CMakeFiles/TvParser.dir/clean
+.PHONY : CMakeFiles/TvParser.dir/clean
 
 # clean rule for target.
-clean: CMakeFiles/TextAlign.dir/clean
+clean: CMakeFiles/TvParser.dir/clean
 .PHONY : clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/align.dir
 
 # All Build rule for target.
-CMakeFiles/align.dir/all: CMakeFiles/TextAlign.dir/all
+CMakeFiles/align.dir/all: CMakeFiles/TvParser.dir/all
 	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/depend
 	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /scail/u/vigneshr/CVPR2014/codes/C/textAlign/build/CMakeFiles  2

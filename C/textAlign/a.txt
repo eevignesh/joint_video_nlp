@@ -1,0 +1,1303 @@
+processsing 1/49 ...
+processsing 2/49 ...
+processsing 3/49 ...
+processsing 4/49 ...
+processsing 5/49 ...
+processsing 6/49 ...
+processsing 7/49 ...
+processsing 8/49 ...
+processsing 9/49 ...
+processsing 10/49 ...
+processsing 11/49 ...
+processsing 12/49 ...
+processsing 13/49 ...
+processsing 14/49 ...
+processsing 15/49 ...
+processsing 16/49 ...
+processsing 17/49 ...
+processsing 18/49 ...
+processsing 19/49 ...
+processsing 20/49 ...
+processsing 21/49 ...
+processsing 22/49 ...
+processsing 23/49 ...
+processsing 24/49 ...
+processsing 25/49 ...
+processsing 26/49 ...
+processsing 27/49 ...
+processsing 28/49 ...
+processsing 29/49 ...
+processsing 30/49 ...
+processsing 31/49 ...
+processsing 32/49 ...
+processsing 33/49 ...
+processsing 34/49 ...
+processsing 35/49 ...
+processsing 36/49 ...
+processsing 37/49 ...
+processsing 38/49 ...
+processsing 39/49 ...
+processsing 40/49 ...
+processsing 41/49 ...
+processsing 42/49 ...
+processsing 43/49 ...
+processsing 44/49 ...
+processsing 45/49 ...
+processsing 46/49 ...
+processsing 47/49 ...
+processsing 48/49 ...
+processsing 49/49 ...
+ =============================================================== 
+(1138,1343)FRASIER
+(1035,1443)"The Good Son"
+(1098,1386)#60181-O98
+(1147,1311)PILDT
+(921,1583)Created and Wriften by
+(1075,1427)David Angell
+(1245,1265)&
+(1095,1418)Peter Casey
+(1250,1269)&
+(1128,1391)David Lee
+(1102,1426)Directed by
+(1070,1457)James Burrows
+(1755,2332)REVISED FINAL DRAFT
+(1756,2177)April 29, 1993
+(1146,1351)FRASIER
+(1044,1453)"The Good Son"
+(1105,1394)#60181-098 
+CAST
+(429,2121)FRASIER CRANE . . . . . . . . . . . . . . . . . . . . . . . . . . . ..KELSEY GRAMMER
+(427,2059)MARTIN CRANE . . . . . ... . . . . . . . . . . . . . . . .......JOHN MAHONEY
+(431,2028)DAPHNE MOON . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..JANE LEEVES
+(430,2213)NILES CRANE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..DAVID HYDE PIERCE
+(431,2032)ROZ DOYLE. . . . . . . . ... . . . . . . ... . . . . ... . . . . ..PERI GILPIN
+(434,1850)EDDIE . . . . . ... . . . . . . . . . . . . ... . . . . . . . . . . . . ..MOOSE
+(433,2157)RUSSELL (V.O.)............................JEREMY LAWRENCE
+(434,2069)WAITRESS . . . . . . ... . . . . . . . . . . . . . . . . . . . . .....GINA RAVARRA
+(439,2099)DELIVERYMAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..CLETO AUGUSTO
+(439,2038)CLAIRE (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . . . ..MIMI SAVAGE
+(443,702)ZNQ UEII:
+(440,1697)MAN #1 (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+(442,1699)WOMAN #1 (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . ..
+(443,1701)MAN #2 (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+(444,1702)WOMAN #2 (v 0.) . . . . . . . . . . . . . . . . . . . . . . . . . ..
+(447,1703)WOMAN #3 (v.o.). . . . . . . . . . . . . . . . . . . . . . . . . ..
+(437,948)LEI. RADIO STQDIO
+(436,947)LEI. COEEEE HOUSE
+(1169,1372)FRASIER
+(1067,1474)“The Good Son"
+(1125,1413)#60181-O98
+(435,1159)I . SI ’S LIV G O
+(532,1459). WA 0 F SIER’S NG
+(462,695)N U :
+(429,675)IE!‘-__QA&
+(434,794)INT. KITCHEN
+(431,704)332. BARK
+(432,856)EXT. NEWSSTAND
+(431,1006)EXT. SEATTLE STREET
+(412,1487)FRASIER - "The Good Son" #60181-098
+(410,622)ACT ONE
+(412,1543)Scene A (1)
+(411,1614)TO BE SHOT AT A LATER DATE DAY/1
+(416,832)** 2ND UNIT **
+(423,854)(Man #1 (V.O.))
+(415,834)INT. CAB - DAY
+(423,915)(Woman #1 (V.O.))
+(416,955)INT. KITCHEN - DAY
+(424,855)(Man #2 (V.O.))
+(415,866)EXT. PARK - DAY
+(424,917)(Woman #2 (V.O.))
+(415,1016)EXT. NEWSSTAND - DAY
+(425,917)(Woman #3 (V.O.))
+(417,1547)Scene B (3)
+(419,1618)INT. RADIO STUDIO - DAY DAY/1
+(426,1306)(Frasier, Roz, Russell (V.O.))
+(418,1549)scene C (8)
+(418,1620)EXT. SEATTLE STREET — DAY DAY/1
+(421,837)** 2ND UNIT **
+(427,829)(Niles (V.O.))
+(421,1551)INT. COFFEE HOUSE - CONTINUOUS (9)
+(429,1622)(Niles, Frasier, Waitress, DAY/1
+(450,650)Extras)
+(421,1582)Scene D (14)
+(423,1620)INT. FRASIER’S LIVING ROOM - DAY DAY/2
+(431,1135)(Frasier, Niles, Martin,
+(454,803)Deliveryman)
+(424,1584)Scene E (21)
+(426,1684)INT. FRASIER’S LIVING NIGHT/2
+(484,846)ROOM - NIGHT
+(434,1136)(Martin, Frasier, Eddie)
+(426,846)END OF ACT ONE
+(405,2220)FRASIER - "The Good Son" #60181—098 Page Two
+(402,614)ACT TWO
+(403,1569)Scene H (22)
+(405,1607)INT. COFFEE HOUSE - DAY DAY/3
+(414,1116)(Niles, Frasier, Extras)
+(403,612)Scene J
+(401,1568)MONTAGE (25)
+(404,1606)INT. HALLWAY OF FRASIER’S DAY/4
+(495,914)BUILDING - DAY
+(411,902)(Frasier, Extras)
+(400,662)RESET TO:
+(403,1567)INT. HALLWAY - MOMENTS LATER (25)
+(411,1605)(Frasier, Extras) DAY/4
+(400,662)RESET To:
+(404,1568)INT. FRASIER’S LIVING (26)
+(463,1605)ROOM - DAY DAY/4
+(412,1115)(Frasier, Martin, Eddie,
+(433,632)Daphne)
+(401,1568)Scene K (37)
+(403,1605)INT. RADIO STUDIO - LATER DAY/4
+(461,701)THAT DAY
+(410,1267)(Frasier, Roz, Martin (V.O.),
+(431,840)Claire (V.O.))
+(401,1569)Scene L (44)
+(404,1666)INT. FRASIER’S LIVING NIGHT/4
+(461,1155)ROOM - LATER THAT NIGHT
+(411,1116)(Frasier, Martin, Eddie,
+(433,631)Daphne)
+(402,822)END OF ACT TWO
+(1158,1364)FRASIER
+(1055,1463)"The Good Son"
+(1116,1406)#60181-098
+(1159,1337)ACT ON
+(1250,1279)I3’
+(878,1655)TO BE SHOT AT A LATER DATE
+(1129,1405)(2nd Unit)
+(441,2002)A BLACK SCREEN. IN WHITE LETTERS APPEARS "THE JOB."
+(1167,1543)MAN #1 (v.o.)
+(752,1826)I&#39;m a long time listener, first time
+(751,1788)caller. My problem began when I...
+(448,679)FADE IN:
+(445,1228)MONTAGE - (V.O.’S) - DAY/1
+(549,869). C - Y
+(448,1491)A CABBIE IS LISTENING TO HIS RADIO.
+(1175,1611)WOMAN #1 (v.o.)
+(759,1833)I don&#39;t know him anymore. It&#39;s like
+(760,1624)living with a stranger. Take
+(758,1105)yesterday...
+(1662,2071)CROSS FADE TO:
+(2231,2277)2.
+(2208,2276)(A)
+(420,951)INT. KITCHEN - DA!
+(416,2229)A MESSY KITCHEN, A FRAZZLED HOUSEWIFE AND A SCREAMING INFANT
+(420,1396)IN A HIGHCHAIR. THE RADIO IS ON.
+(1139,1516)MAN #2 (v.o.)
+(721,1712)At least I thought I had a normal
+(724,1653)childhood. Aw, hell, who knows
+(722,2039)what&#39;s normal anymore. I... 
+CROSS FADE TO:
+(421,870)EXT. PARK - DAY
+(422,2071)A MAN JOGS IN THE PARK. HE&#39;S LISTENING TO HIS WALKMAN.
+(1145,1584)WOMAN #2 (V.O.)
+(737,1807)(BLUBBERING) I&#39;m sorry, I thought I
+(728,1772)had this under control. I, I, I...
+(729,1228)Give me a minute.
+(426,2048)THE JOGGER ROLLS HIS EYES. 
+CROSS FADE TO:
+(531,1027). N SS D - DAY
+(429,2120)A NEWSSTAND, FEATURING A PORTABLE RADIO NEXT TO THE CASH
+(430,1838)REGISTER. A COAT HANGAR IS USED AS AN ANTENNA.
+(1154,1593)WOMAN #3 (v.o.)
+(746,1848)(THICK MIDDLE EASTERN ACCENT) I tell
+(738,1851)him, "I&#39;m a human being. I&#39;m a human
+(738,1731)being. You can&#39;t treat me like a
+(739,1936)dog." You&#39;ve got to help me, Dr. Crane.
+(1647,2059)CROSS FADE TO:
+(1249,1277)Iu:
+(438,1364)LEI, RADIO STUDIO - DA! - Qﬁxﬁl
+(445,1325)(Frasier, Roz, Russell (V.o.))
+(436,2274)KACL - A TYPICAL RADIO STUDIO: TWO ROOMS SEPARATED BY A GLASS
+(437,2307)PARTITION AND A DOOR. ON ONE SIDE, EBA§1EB_§BAﬂ§ IS SEATED AT
+(435,2277)A DESK WITH A MULTI-LINE PHONE AND MICROPHONE. HE IS WEARING
+(437,2389)HEADPHONES. ON THE OTHER SIDE OF THE GLASS IS HIS CALL SCREENER,
+(435,2369)BQZ DOYLE. ANOTHER GLASS PARTITION IN THE STUDIO LOOKS OUT INTO
+(437,2309)THE HALLWAY. THE LIGHTS ARE LOW. FRASIER IS IN THE MIDDLE OF
+(437,1001)ANSWERING A CALLER.
+(1167,1370)FRASIER
+(751,1734)(FIRMLY, WITH CONCERN) Listen to
+(740,1734)yourself, Bob. You follow her to
+(740,1756)work. You eavesdrop on her calls.
+(742,1766)You open her mail. The minute you
+(744,1676)started doing those things, the
+(745,1858)relationship was over. Thank you for
+(743,1035)your call.
+(443,1484)HE PUNCHES A BUTTON ON THE CONSOLE.
+(1172,1636)FRASIER (CONT’D)
+(745,1767)Roz, do we have time for one more?
+(2232,2302)(Bi
+(442,2160)ROZ SPEAKS INTO THE MICROPHONE IN THE BOOTH IN A SOOTHING
+(441,793)RADIO VOICE.
+(1164,1247)ROZ
+(746,1855)Yes, Dr. Crane. on line four we have
+(745,1854)Russell from Kirkland. He feels like
+(746,1360)he&#39;s caught in a rut.
+(444,1541)FRASIER PUSHES A BUTTON ON THE PHONE.
+(1168,1371)FRASIER
+(746,1764)This is Doctor Frasier Crane. I&#39;m
+(749,1571)listening. 
+RUSSELL (v.o.)
+(746,1856)well, I&#39;ve been feeling, sort of, you
+(747,1420)know, depressed lately.
+(1169,1372)FRASIER
+(749,1571)For how long? 
+RUSSELL (v.o.)
+(748,1756)Oh, the last seven or eight years.
+(1169,1372)FRASIER
+(748,1573)Go on. 
+RUSSELL (v.o.)
+(751,1736)I don&#39;t know, my life&#39;s not going
+(750,1758)anywhere. It&#39;s not that it&#39;s bad.
+(751,1859)It&#39;s just the same old apartment, the
+(751,1759)same old job, the same old people,
+(749,1789)day after day. Sometimes I just...
+(449,2167)ROZ SIGNALS FROM THE BOOTH THAT TIME IS RUNNING SHORT AND
+(451,1273)FRASIER HAS TO WRAP THIS UP.
+(1149,1354)FRASIER
+(725,1843)Russell, we&#39;re nearing the end of our
+(725,1842)hour. Let me see if I can cut to the
+(727,1803)chase by using myself as an example.
+(728,1631)Six months ago I was living in
+(729,1782)Boston. My wife had left me, which
+(728,1835)was very painful, then she came back,
+(728,1813)which was excruciating. I thought I
+(731,1755)could forgive her indiscretion but
+(732,1848)there was this nagging little hint of
+(734,1666)resentment, this minute lack of
+(733,1757)trust, this overwhelming desire to
+(737,1791)shove a grapefruit in her face. on
+(736,1761)top of that, my practice had grown
+(738,1853)stagnant and my social life consisted
+(739,1794)of hanging around a bar night after
+(740,1732)night. Suddenly I realized I was
+(741,1644)clinging to a life that wasn&#39;t
+(740,1828)working anymore. I knew I had to do
+(745,1860)something, anything. So I put an end
+(745,1892)to the marriage and moved back here to
+(745,1853)my hometown of Seattle. Go Seahawks!
+(750,1917)I took action, Russell and you can too.
+(747,1896)Move, change, do something. If it&#39;s a
+(749,1867)mistake, do something else. Will you
+(751,1895)do that, Russell? will you? Russell?
+(763,1891)(TURNING TO ROZ) I think we lost him.
+(2238,2284)5.
+(2215,2282)(3)
+(2256,2302)6.
+(2233,2302)(B)
+(1166,1251)ROZ
+(746,1793)No, we cut to the news about thirty
+(748,1096)seconds ago.
+(446,2218)FRASIER TAKES OFF HIS HEADSET, GETS UP AND HEADS INTO ROZ’S
+(445,826)CONTROL ROOM.
+(1169,1371)FRASIER
+(747,1794)oh, for crying out loud. I finally
+(746,1764)bare my soul to all of Seattle and
+(746,1823)they&#39;re listening to "Chopper Dave&#39;s
+(746,1733)Rush-Hour Roundup"? At least the
+(749,1753)rest of the show was good. (THEN)
+(750,1640)It was a good show, wasn&#39;t it?
+(1167,1252)ROZ
+(747,1754)Here. (HANDS HIM A SLIP OF PAPER)
+(749,1333)Your brother called.
+(1171,1374)FRASIER
+(748,1827)You know, in the trade, we call that
+(750,1849)avoidance. Don&#39;t change the subject.
+(748,1311)What did you think?
+(445,1218)SHE POINTS TO HER CONSOLE.
+(1171,1255)ROZ
+(751,1829)Did I ever show you what this button
+(751,895)does?
+(1174,1377)FRASIER
+(753,1770)I&#39;m not a piece of Lalique. I can
+(751,1798)handle criticism. How was I today?
+(1160,1244)ROZ
+(743,1548)Let&#39;s see. You dropped two
+(743,1701)commercials, you left a total of
+(743,1855)twenty-eight seconds of dead air, you
+(743,1671)scrambled the call letters, you
+(743,1792)spilled yogurt on the control board
+(743,1824)and you kept referring to Jerry with
+(742,1637)the identity crisis as "Jeff."
+(1163,1370)FRASIER
+(753,1784)(PAUSE) You say my brother called.
+(1647,1846)CUT TO:
+(2232,2300)(B)
+(1248,1277)IO
+(432,2115)A BLACK SCREEN. IN WHITE LETTERS APPEARS "THE BROTHER."
+(1160,1506)NILES (v.o.)
+(738,1787)So I said to the gardner, "Yoshi, I
+(737,1640)do not need a Zen garden in my
+(737,998)backyard.
+(437,666)FADE IN:
+(588,1761)S - Y - DAY - NIT
+(445,846)(Niles (V.O.))
+(434,2277)A CITY BUS IS STOPPED, PICKING UP PASSENGERS. ON THE SIDE OF
+(434,2277)THE BUS IS A LARGE ADVERTISEMENT. ON IT IS FRASIER’S SMILING
+(437,2336)FACE AND THE WORDS "DR. FRASIER CRANE. HE LISTENS. KACL - 780
+(435,2155)AM." THE BUS PULLS AWAY TO REVEAL "CAFE NERVOSA," ONE OF
+(436,1390)SEATTLE’S POPULAR COFFEE HOUSES.
+(1163,1782)NILES (V.O.) (CONT’D)
+(741,1762)If I want to rake gravel every ten
+(739,1843)minutes to maintain my inner harmony,
+(742,1425)I&#39;ll move to Yokohama."
+(1649,1845)CUT TO:
+(2274,2321)9.
+(2252,2319)(C)
+(562,1415). O OUS - INUOUS -
+(471,1466)(Niles, Frasier, Waitress, Extras)
+(463,2352)FRASIER AND HIS BROTHER, QB, NILES CRANE, STAND AT THE COUNTER.
+(463,1378)FRASIER HAS HIS NOSE IN A MENU.
+(1183,1588)NILES (CONT’D)
+(762,1810)Well, this offends him so he starts
+(763,1872)pulling up Maris’ prized camellias by
+(763,1783)the handful. I couldn&#39;t stand for
+(763,1751)that, so I marched right into the
+(761,1722)morning room and locked the door
+(763,1782)until he cooled down. Tell me you
+(762,1773)would have handled it differently,
+(764,990)Frasier.
+(459,1378)AFTER A BEAT, FRASIER LOOKS UP.
+(1183,1389)FRASIER
+(763,1661)Oh, I&#39;m sorry, Niles, I didn&#39;t
+(764,1652)realize you&#39;d stopped talking.
+(1183,1325)NILES
+(764,1895)You haven&#39;t listened to a word I said.
+(1185,1391)FRASIER
+(763,1784)Niles, you&#39;re a psychiatrist. You
+(764,1723)know what it&#39;s like to listen to
+(764,1815)people prattling on endlessly about
+(764,1350)their mundane lives.
+(1184,1327)NILES
+(764,1877)Touche. And on that subject, I heard
+(765,1232)your show today.
+(2208,2283)10. 
+(C)
+(1153,1359)FRASIER
+(729,1297)And? 
+NILES
+(731,2017)You know what I think about pop psychiatry.
+(1154,1360)FRASIER
+(732,1847)Yes, yes; I know what you think about
+(733,1787)everything. when was the last time
+(733,1665)you had an unexpressed thought?
+(1155,1301)NILES
+(737,1295)I&#39;m having one now.
+(431,2143)THEY BOTH CHUCKLE GOOD-NATUREDLY. A WAITRESS APPROACHES.
+(1157,1393)WAITRESS
+(738,1367)You guys ready? 
+FRASIER
+(748,1904)(TO WAITRESS) Two cafe latte supremos.
+(436,2097)NILES MOVES TO A CHAIR AND BEGINS TO DUST IT OFF WITH A
+(437,1603)HANDKERCHIEF. HE OFFERS IT TO FRASIER.
+(1164,1634)FRASIER (CONT’D)
+(741,1151)No, thank you.
+(1164,1310)NILES
+(745,1739)So, Frasier, how are you doing on
+(744,1009)your own?
+(1169,1376)FRASIER
+(749,1894)I&#39;m fine. I love my new life. I love
+(748,1955)the solitude. I miss Frederick like the
+(749,1886)dickens, of course. He&#39;s quite a boy.
+(750,1988)He&#39;s playing goalie on the pee wee soccer
+(752,1979)team now. He&#39;s a chip off the old block.
+(2237,2312)11. 
+(C)
+(1181,1320)NILES
+(756,1383)You hated sports. 
+FRASIER
+(753,1803)And so does he, but the fresh air’s
+(754,1136)good for him.
+(451,1319)THEY BOTH LAUGH AT THIS. 
+NILES
+(754,1774)This has been fun, Frasier, but we
+(753,1864)have a problem. That&#39;s why I thought
+(753,1381)we should talk. 
+FRASIER
+(754,1319)our Dad? 
+NILES
+(756,1653)I&#39;m afraid so. one of his old
+(753,1834)buddies from the police force called
+(753,1773)this morning. He went over to see
+(753,1886)him. Found him on the bathroom floor.
+(1180,1382)FRASIER
+(754,1318)oh my God. 
+NILES
+(754,1492)No, it&#39;s okay, he&#39;s fine.
+(1181,1382)FRASIER
+(754,1173)His hip again?
+(451,1320)NILES NODS. 
+NILES
+(757,1774)Frasier, I don&#39;t think he can live
+(756,1167)alone anymore.
+(2209,2285)12. 
+(C)
+(1151,1355)FRASIER
+(728,1291)What can we do? 
+NILES
+(729,1782)Well, I know this isn&#39;t going to be
+(732,1719)anyone’s favorite solution, but I
+(732,1752)took the liberty of checking out a
+(735,1653)few convalescent homes for him.
+(430,2414)HE REACHES INTO HIS BRIEFCASE AND TAKES OUT A PILE OF PAMPHLETS. *
+(1154,1358)FRASIER
+(731,1684)A home? He&#39;s still a young man.
+(1153,1295)NILES
+(733,1786)well, you certainly can&#39;t take care
+(736,1849)of him. You&#39;re just getting your new
+(737,1143)life together.
+(1157,2419)FRASIER *
+(735,1729)Absolutely. Besides, we&#39;ve never
+(736,1848)been sympatico. When I was a child I
+(739,1762)once rode in the car with him from
+(739,1852)Seattle to Spokane and the only thing
+(739,1852)he said to me was, "I think we&#39;ve got
+(741,1849)a problem with your brother Frasier."
+(1161,1303)NILES
+(743,1765)Yes, well, and, of course, I can&#39;t
+(743,1370)take care of him. 
+FRASIER
+(744,1944)Yes, of course, of course. (BEAT) Why?
+(1171,1313)NILES
+(749,1729)Dad doesn&#39;t get along with Maris.
+(746,1015)who does?
+(749,1137)I thought you
+(749,1137)I do. I like
+(748,1138)You know, the
+(746,1138)Maris is like
+(1173,1378)FRASIER
+(1171,1314)NILES
+(1173,1518)liked Maris.
+(1172,1377)FRASIER
+(1171,1759)her from a distance.
+(1171,1790)way you like the sun.
+(1172,1679)the sun... except
+(746,1307)without the warmth.
+(446,1670)NILES PICKS UP A PAMPHLET FROM THE TABLE.
+(758,1009)(READING)
+(748,1140)golf carts on
+(759,1039)(RESIGNED)
+(749,1071)guest room.
+(751,1140)You&#39;re a good
+(749,1131)Oh God, I am,
+(451,1143)FRASIER BURIES HIS HEAD
+(1087,1519)"Golden Acres".
+(1112,1339)Alright,
+(1171,1860)NILES 
+People in
+(1173,1822)their way to oblivion.
+(1174,1380)FRASIER
+(1384,1861)I&#39;ll make up the
+(1174,1552)NILES 
+son, Frasier.
+(1176,1381)FRASIER
+(1176,1436)aren&#39;t I?
+(1178,2218)IN HIS HANDS AS NILES COMFORTS HIM.
+(1659,1856)CUT TO:
+(2229,2306)13. 
+(C)
+(2219,2295)14.
+(1243,1273)It!
+(429,2087)A BLACK SCREEN. IN WHITE LETTERS APPEARS "THE FATHER."
+(433,663)FADE IN:
+(675,1513)S ’ LIVING - D Y - D
+(442,1532)(Frasier, Niles, Martin, Deliveryman)
+(434,2091)IT&#39;S A SMART, CLEAN, METICULOUSLY DECORATED CONDO. THE
+(434,2183)FURNISHINGS LEAN TOWARD THE CONTEMPORARY, WITH WELL CHOSEN
+(434,2275)PIECES OF ART AND SCULPTURE. CENTER IS A VIEW OF THE SEATTLE
+(433,2123)SKYLINE. THERE IS A KNQCK AT THE DOOR. FRASIER, AT THE
+(433,2153)PIANO, GOES TO THE DOOR. HE STEELS HIMSELF AND OPENS THE
+(432,2181)DOOR. NILES IS STANDING THERE WITH A FEW SUITCASES IN HIS
+(430,1298)HAND. 
+NILES
+(735,1291)We finally made it.
+(430,2298)NILE§ ENTERS FOLLOWED BY THEIR FATHER, ﬂgﬂilﬂ, USING A WALKER.
+(1158,1363)FRASIER
+(734,1748)Ah, Dad, welcome to your new home.
+(736,1173)You look great.
+(2209,2285)15. 
+(D)
+(1148,1326)MARTIN
+(727,1804)Don&#39;t B.S. me. I do not look great.
+(727,1834)I spent Monday on the bathroom floor.
+(725,1783)You can still see the tile marks on
+(725,957)my face.
+(1150,1295)NILES
+(736,1752)(SOTTO TO FRASIER) Gives you some
+(731,1806)idea about the ride over in the car.
+(427,2148)FRASIER CLAPS HIS HANDS AND RUBS THEM TOGETHER, TRYING TO
+(427,990)LIGHTEN THE MOMENT.
+(1154,1361)FRASIER
+(728,1756)well, here we are. Now, Dad, rest
+(731,1788)assured the refrigerator is stocked
+(729,1840)with your favorite beer, Ballantines,
+(731,1850)and we&#39;ve got plenty of hot links and
+(731,1789)cole slaw. I even rented a Charles
+(734,1447)Bronson movie for later.
+(1157,1335)MARTIN
+(735,1701)You can cut the "Welcome to Camp
+(736,1794)Crane" speech. We all know why I&#39;m
+(737,1826)here. Your old man can&#39;t be trusted
+(738,1795)to be alone for ten minutes without
+(741,1796)falling on his ass, and Frasier got
+(741,1734)stuck with me. Isn&#39;t that right?
+(439,1545)FRASIER AND NILES LOOK AT EACH OTHER.
+(1168,1552)FRASIER/NILES
+(741,1062)No, no, no.
+(2227,2305)16. 
+(D)
+(1172,1636)FRASIER (CONT’D)
+(749,1828)I want you here. It will give us an
+(747,1698)opportunity to get reacquainted.
+(1168,1344)MARTIN
+(745,1766)That implies we were acquainted at
+(746,1310)one point. 
+NILES
+(746,1855)Listen, why don&#39;t I take Dad&#39;s things
+(747,1796)into his new "bachelor quarters" so
+(743,1703)you two scoundrels can plan some
+(743,949)hijinx?
+(441,2182)NILES EXITS WITH THE BAGS DOWN THE HALLWAY TO THE BEDROOM.
+(1165,1341)MARTIN
+(745,1764)I think that wife of his is making
+(741,1372)him nutso. 
+FRASIER
+(742,1794)Yes, we Crane boys sure know how to
+(740,1854)marry, don&#39;t we? (THEN) Dad, let me
+(740,1182)get you a beer.
+(439,2305)FRASIER CROSSES TO THE KITCHEN. MARTIN LOOKS AROUND THE ROOM.
+(1167,1631)FRASIER (CONT’D)
+(742,1793)So, do you like what I&#39;ve done with
+(741,1855)the place? Every piece was carefully
+(740,1825)chosen. The lamp, Corbu. The chair
+(740,1702)by Eames. This sofa is an exact
+(742,1855)replica of the one Coco Chanel had in
+(740,1269)her Paris atelier.
+(2210,2287)17. 
+(D)
+(1144,1321)MARTIN
+(725,1194)Nothing matches.
+(1147,1353)FRASIER
+(727,1718)It&#39;s a style of decorating. It&#39;s
+(725,1780)called eclectic. The theory behind
+(728,1749)it is, if you have great pieces of
+(727,1811)furniture, it doesn&#39;t matter if they
+(722,1555)match. They&#39;ll go together.
+(1143,1321)MARTIN
+(726,1193)It&#39;s your money.
+(419,2135)MARTIN WALKS OVER TO THE WINDOW AND GAZES AT THE SKYLINE.
+(417,1163)§EK;__IHE_DQQB§§LL_ElE§§-
+(1147,1352)FRASIER
+(733,1840)(INDICATING) That&#39;s the Space Needle
+(725,1041)over there.
+(1145,1323)MARTIN
+(724,1681)Thank you for pointing that out.
+(727,1782)Being born and raised here, I never
+(724,1374)would have known that.
+(421,2299)AS NILES RE-ENTERS FROM THE OTHER ROOM, FRASIER CROSSES TO THE
+(424,1588)DOOR AND OPENS IT. IT&#39;S A DELIVERYMAN.
+(1149,1475)DELIVERYMAN
+(728,1497)Delivery for Martin Crane.
+(1147,1324)MARTIN
+(730,955)In here.
+(1152,1477)DELIVERYMAN
+(729,1167)Coming through.
+(430,2295)FRASIER STEPS BACK. THE DELIVERYMAN BRINGS IN A BARCALOUNGER.
+(2209,2288)18. 
+(D)
+(1155,1362)FRASIER
+(732,1835)Excuse me, excuse me. Wait a minute.
+(1156,1481)DELIVERYMAN
+(731,1358)Where do you want it?
+(1153,1331)MARTIN
+(732,1364)Where&#39;s the TV? 
+FRASIER
+(745,1844)(INDICATING) In that credenza. Why?
+(1156,1333)MARTIN
+(739,1416)Point it at that thing.
+(1161,1485)DELIVERYMAN
+(737,1393)What about this chair?
+(1161,1304)NILES
+(739,1812)Here. Let me get it out of the way.
+(434,2096)NILES PICKS UP THE CHAIR AND MOVES IT. THE DELIVERYMAN
+(434,1600)REPLACES IT WITH MARTIN&#39;S BARCALOUNGER.
+(1166,1372)FRASIER
+(743,1723)Careful. That&#39;s a Wassily. (RE:
+(745,1765)LOUNGER) Dad, Dad, as dear as I&#39;m
+(747,1766)sure this piece is to you, I don&#39;t
+(745,1736)think it quite goes with anything
+(747,886)here.
+(1170,1346)MARTIN
+(752,1428)I know. It&#39;s eclectic.
+(441,1610)MARTIN PAYS THE DELIVERYMAN. HE EXITS.
+(1175,1382)FRASIER
+(751,1461)Niles, help me out here.
+(2207,2282)19. 
+(D)
+(1146,1289)NILES
+(729,1015)I like it.
+(424,2012)FRASIER GRABS NILES BY THE SHIRT AND PULLS HIM ASIDE.
+(1149,1352)FRASIER
+(731,1687)I see right through you. You&#39;re
+(730,1717)agreeing with the old man because
+(729,1748)you&#39;re afraid he might ask to live
+(729,1293)with you and Maris. 
+NILES
+(741,1812)(RE: SHIRT) Please, Frasier, you&#39;re
+(734,1591)scrunching my Tommy Hilfiger.
+(1154,1358)FRASIER
+(735,1501)Listen, you little twit...
+(1154,1330)MARTIN
+(736,1636)You&#39;re going to have to run an
+(737,1726)extension cord over here so I can
+(736,1535)plug in the vibrating part.
+(1160,1364)FRASIER
+(749,1820)(BEATEN) Yes, yes, that will be the
+(741,1305)crowning touch. 
+NILES
+(741,1855)Now that you two are settled in, I&#39;ve
+(743,1582)got to run. I&#39;m late for my
+(743,1605)dysfunctional family seminar.
+(440,1574)AS HE HEADS FOR THE DOOR: 
+NILES (CONT’D)
+(749,1766)Dad, have you mentioned Eddie yet?
+(2213,2289)20. 
+(D)
+(430,1361)FRASIER TURNS TO MARTIN. 
+FRASIER
+(740,1297)(PANICKED) Eddie? 
+NILES
+(730,898)Ta ta.
+(424,1361)ElL§§_E3lI_~ 
+FRASIER
+(729,1439)Oh, Dad, no. Not Eddie.
+(1153,1329)MARTIN
+(730,1695)He&#39;s my best friend. Hand me my
+(729,1361)beer. 
+FRASIER
+(732,1694)But he&#39;s weird. He gives me the
+(731,1806)creeps. All he does is stare at me.
+(1155,1331)MARTIN
+(734,1382)It&#39;s your imagination. 
+FRASIER
+(732,1698)No, Dad, no. I&#39;m sorry, but I&#39;m
+(732,1759)putting my foot down. Eddie&#39;s 39;
+(732,1175)moving in here.
+(1642,1840)CUT TO:
+(2227,2304)21.
+(1256,1284)IF]
+(443,2248)A BLACK SCREEN. IN WHITE LETTERS APPEARS THE WORD, "EDDIE."
+(1650,2059)CROSS FADE TO:
+(815,1646)&#39;s - -G
+(456,1155)(Martin, Frasier, Eddie)
+(444,2190)MARTIN IS SITTING IN HIS BARCALOUNGER WATCHING THE CHARLES
+(448,2284)BRONSON MOVIE. WE PAN OVER TO FRASIER ON HIS COCO COUCH. WE
+(447,2256)CONTINUE THE PAN. SITTING NEXT TO FRASIER IS EDDIE, A SMALL
+(448,2215)LONG-HAIRED JACK RUSSELL TERRIER. EDDIE STARES AT FRASIER.
+(1652,1910)FADE OUT.
+(1184,1450)OF A ON
+(2197,2273)22.
+(1141,1347)ACT TWO
+(1233,1264)IE
+(427,656)FADE IN:
+(972,1239)- - D
+(437,1137)(Niles, Frasier, Extras)
+(428,1439)NILES IS THERE, ERASIEB EUSﬂE§ IE.
+(1155,1361)FRASIER
+(731,1820)Oh, Niles, there you are. Sorry I&#39;m
+(736,1730)late. Just as I was leaving, Dad
+(736,1791)started a small kitchen fire in the
+(737,1087)living room.
+(1160,1302)NILES
+(737,1215)The living room?
+(1165,1369)FRASIER
+(742,1770)Don&#39;t ask. (BEAT) This last week
+(741,1697)with Dad has been a living hell.
+(742,1647)When I&#39;m there, I feel like my
+(1178,1333)(MORE)
+(2219,2296)23. 
+(H)
+(1162,1626)FRASIER (CONT’D)
+(737,1818)territory is being violated and when
+(739,1818)I&#39;m away, I worry about what he&#39;s up
+(735,1777)to. My nerves are completely shot.
+(737,1697)I&#39;ve got to do something to calm
+(734,1573)down. (TO WAITRESS) Double
+(735,1754)espresso, please. (TO NILES) You
+(733,1786)don&#39;t still have the brochures from
+(734,1480)those rest homes, do you?
+(1156,1298)NILES
+(733,1754)of course I do. You&#39;re forgetting
+(731,1806)Maris is five years older than I am.
+(734,1633)But do you really think that&#39;s
+(733,1029)necessary?
+(1157,1362)FRASIER
+(732,1663)Yes, I do. I don&#39;t have a life
+(733,1634)anymore. Tuesday I gave up my
+(732,1774)tickets to the theatre. Wednesday,
+(735,1321)it was the symphony.
+(1155,1298)NILES
+(731,1845)That reminds me, weren&#39;t you going to
+(732,1327)the opera on Friday?
+(430,1745)FRASIER TAKES TWO TICKETS OUT OF HIS POCKET.
+(1157,1362)FRASIER
+(732,1052)Yes. Here.
+(2200,2279)24 .
+(2207,2293)(HY
+(1143,2430)NILES _y - ‘iv
+(721,2366)Thank you. (moxmc; AT TICKETS) Die ��
+(723,1774)Fledermaus. (THEN) You know, have
+(720,2358)you ever considered hiring a home >"§;:.
+(722,1806)care worker? Someone who cooks, and
+(723,1713)cleans, who can help him with his
+(723,950)therapy.
+(1145,2246)FRASIER < ~"
+(724,1623)Look, the last thing I need is
+(725,1432)someone else under foot.
+(1144,1288)NILES
+(724,1745)No, no, someone part—time. That&#39;s
+(725,1747)the beauty of it. They&#39;ll only be
+(725,1373)there when you&#39;re not.
+(1147,1354)PRASIER
+(724,1289)These angels exist?
+(1147,1290)NILES
+(730,2170)I know an agency in town who has good ‘
+(727,1814)people. Let me arrange to have them
+(731,1559)send a few over to meet you.
+(1152,2417)FRASIER ‘T �n� *
+(732,1784)I don&#39;t know how to thank you. I&#39;m
+(731,1725)going to have my life again. I&#39;m
+(731,1788)going to have my sanity again. I&#39;m
+(731,1624)going to Die Fledermaus again.
+(432,1686)FRASIER SNAPS THE TICKETS AWAY FROM NILES.
+(1640,1839)CUT TO:
+(2227,2303)25.
+(1252,1281)IC-4
+(438,2190)A BLACK SCREEN. IN WHITE LETTERS APPEARS "THE HEALTH CARE
+(438,674)WORKER."
+(442,669)FADE IN:
+(437,647)MONTAGE
+(709,1705)W O S R’ U NG - -
+(449,939)(Frasier, Extras)
+(438,2221)A QUICK SEQUENCE OF FRASIER BIDDING FAREWELL TO A NUMBER OF
+(438,2217)APPLICANTS WITH PLEASANTRIES SUCH AS "THANK YOU VERY MUCH,"
+(444,2005)"YOU&#39;LL BE HEARING FROM US," "IT&#39;S BEEN A PLEASURE."
+(1650,1909)RESET TO:
+(499,1518)T. W - T TE - AY 4
+(448,938)(Frasier, Extras)
+(436,2273)ANOTHER APPLICANT. SHE APPEARS ROBUST, KIND, NEATLY DRESSED:
+(437,1213)THE EPITOME OF COMPETENCE.
+(1168,1373)FRASIER
+(744,1801)I&#39;ve never been more impressed with
+(743,1761)any human being in my entire life.
+(744,1909)It has truly been an honor to meet you.
+(2216,2294)26. 
+(J)
+(431,1834)FRASIER CLOSES THE DOOR. 
+FRASIER (CONT’D) (o.s.)
+(744,1845)(BLOWING UP) Now what was wrong with
+(734,1055)that one?!!
+(429,1379)THE WOMAN REACTS AND WALKS AWAY.
+(1636,1897)RESET TO:
+(803,1448)‘S V G ROO - D -
+(439,1379)(Frasier, Martin, Eddie, Daphne)
+(1156,1331)MARTIN
+(735,1472)She was casing the joint.
+(1159,1363)FRASIER
+(735,1695)Casing the joint? She spent two
+(734,1473)years with Mother Teresa.
+(1157,1332)MARTIN
+(733,1756)Well, if I were Mother Teresa, I&#39;d
+(737,1353)check my jewelry box.
+(431,1365)§§x; gun QQOBBELL RINGS. 
+FRASIER
+(736,1728)This is the last one. Can you at
+(741,1665)least try to keep an open mind?
+(1161,1336)MARTIN
+(742,1690)I hate this whole stinking idea.
+(1164,1367)FRASIER
+(739,1606)There, was that so difficult?
+(439,2128)FRASIER OPENS THE DOOR TO REVEAL DAPHNE MOON, AN ENGLISH
+(436,2156)WORKING CLASS WOMAN IN HER MID TO LATE TWENTIES. AT THIS
+(437,2302)MOMENT, SHE IS REACHING INTO HER BLOUSE AND ADJUSTING HER BRA.
+(2210,2285)27. 
+(J)
+(1150,1322)DAPHNE
+(727,1813)Oh hello. Caught me with my hand in
+(729,1694)the biscuit tin. (EXTENDING HER
+(729,1685)HAND) I&#39;m Daphne. Daphne Moon.
+(1154,1359)FRASIER
+(740,1786)(THEY SHAKE) Frasier Crane. Won&#39;t
+(731,1329)you come in? 
+DAPHNE
+(733,1023)Thank you.
+(432,1365)sag ENTERS. 
+FRASIER
+(736,1692)This is my father, Martin Crane.
+(739,1479)Dad, this is Daphne Moon.
+(437,1713)THEY EXCHANGE GREETINGS. 
+DAPHNE -
+(751,1794)(RE: EDDIE) And who would this be?
+(1167,1373)FRASIER
+(744,1343)That is Eddie. 
+MARTIN
+(749,1551)I call him Eddie Spaghetti.
+(1172,1345)DAPHNE
+(749,1348)Oh, he likes pasta? 
+MARTIN
+(751,1383)No, he has worms. 
+FRASIER
+(753,1558)Uh, have a seat, Miss Moon.
+(2202,2280)28. 
+(J)
+(1146,1319)DAPHNE
+(723,1460)Daphne. Thank you. (RE:
+(723,1772)BARCALOUNGER) Oh, will you look at
+(722,1739)that. What a comfy chair. Like I
+(723,1772)always say, start with a good piece
+(723,1683)and replace the rest (INDICATING
+(725,1713)FRASIER’S FURNITURE) when you can
+(725,1013)afford it.
+(420,1587)SHE SMILES AT FRASIER. S0 DOES MARTIN.
+(1150,1357)FRASIER
+(725,1837)Uh, yes, well, um, Miss Moon, tell us
+(727,1557)a little bit about yourself.
+(1151,1325)DAPHNE
+(726,1829)Well, I&#39;m originally from Manchester,
+(728,957)England.
+(1153,1359)FRASIER
+(729,1777)Oh really. Did you hear that, Dad?
+(1152,1329)MARTIN
+(734,1843)I&#39;m three feet away. There&#39;s nothing
+(731,1382)wrong with my hearing.
+(1158,1332)DAPHNE
+(737,1817)I&#39;ve only been in the U.S. for a few
+(734,1816)months but I have quite an extensive
+(735,1817)background in home care and physical
+(736,1669)therapy, as you can see from my
+(739,1268)resume. I also...
+(435,1027)SHE LOOKS AT MARTIN.
+(2206,2281)29. 
+(J)
+(1149,1582)DAPHNE (CONT’D)
+(725,1743)You were a policeman, weren&#39;t you?
+(1144,1319)MARTIN
+(725,1437)Yeah. How did you know?
+(1147,1319)DAPHNE
+(727,1737)I must confess, I&#39;m a bit psychic.
+(725,1744)Nothing big. Just little things I
+(727,1805)sense about people. It&#39;s not like I
+(726,1806)can pick the lottery. If I could, I
+(725,1778)wouldn&#39;t be talking to the likes of
+(726,1349)you two, now would I?
+(426,1587)SHE LAUGHS. MARTIN FINDS THAT AMUSING.
+(1152,1355)FRASIER
+(730,1810)Perhaps I should describe the duties
+(730,1506)around here. You would be
+(730,1325)responsible for... 
+DAPHNE
+(741,1694)(T0 FRASIER) Wait a minute, I&#39;m
+(731,1784)getting something on you. You&#39;re a
+(736,1361)florist. 
+FRASIER
+(734,1411)No, I&#39;m a psychiatrist. 
+DAPHNE
+(735,1729)Well, it comes and goes. Usually
+(741,1821)it&#39;s strongest during my time of the
+(736,1667)month. Oh, I guess I let out a
+(741,1636)little secret there, didn&#39;t I?
+(1131,1336)FRASIER
+(709,1779)It&#39;s safe with us. (CHECKING WATCH)
+(706,1517)Well, I think we&#39;ve learned
+(709,1812)everything we need to know about you.
+(707,1701)And a dash extra. Thank you very
+(708,1449)much. We&#39;ll be in touch.
+(1135,1307)DAPHNE
+(720,1764)(TO MARTIN) You must be very proud
+(712,1575)of your son the psychiatrist.
+(1134,1310)MARTIN
+(714,1796)Sons. Two sons. Two shrinks. They
+(714,1707)took after their mother, rest her
+(717,1829)soul. She was one too. It was quite
+(717,1678)a household. I couldn&#39;t scratch
+(715,1611)myself without being analyzed.
+(1143,1316)DAPHNE
+(718,1624)We Brits don&#39;t believe much in
+(720,1805)psychiatry. I mean, isn&#39;t that what
+(724,1199)friends are for?
+(1149,1353)FRASIER
+(723,1284)That&#39;s very quaint.
+(1151,1324)DAPHNE
+(735,1837)(TO EDDIE) You&#39;re a dog, aren&#39;t you?
+(1153,1358)FRASIER
+(727,1692)well, we&#39;ll be calling you, Miss
+(728,866)MOON .
+(2186,2261)30. 
+(J)
+(2209,2286)31. 
+(J)
+(1148,1324)MARTIN
+(726,1435)why wait? You&#39;re hired.
+(1151,1323)DAPHNE
+(726,1356)Oh wonderful! 
+FRASIER
+(728,1778)Excuse me. Aren&#39;t we getting ahead
+(728,1659)of ourselves, here? I think we
+(730,1680)should discuss this. Privately.
+(1153,1325)DAPHNE
+(729,1566)Oh, of course you should. I
+(729,1842)completely understand. I&#39;ll just pop
+(733,1842)into the loo. You do have one, don&#39;t
+(729,1359)you? 
+FRASIER
+(740,1328)(INDICATING) Yes. 
+DAPHNE
+(734,1172)I love America.
+(432,1363)DAEHEE E311 . 
+FRASIER
+(736,1815)Dad, what do you think you&#39;re doing?
+(1157,1332)MARTIN
+(736,1850)You wanted me to pick one... I picked
+(737,1366)one. 
+FRASIER
+(739,1810)But she&#39;s a kook. I don&#39;t like her.
+(2206,2283)32. 
+(J)
+(1145,1322)MARTIN
+(722,1686)What does it matter? She&#39;s only
+(722,1706)going to be here when you&#39;re not.
+(1145,1353)FRASIER
+(721,1734)Then what&#39;s my problem? (CALLING)
+(723,921)Daphne.
+(416,921)2A£EEE_B§:EHI§B§-
+(1144,1612)FRASIER (CONT’D)
+(721,1341)You&#39;ve been retained.
+(1144,1318)DAPHNE
+(720,1835)Oh, wonderful. I had a premonition I
+(719,1624)would. I&#39;ll move my things in
+(721,981)tomorrow.
+(1145,1353)FRASIER
+(720,1807)wait a minute. Move in? There must
+(720,1838)be some misunderstanding. This isn&#39;t
+(722,1281)a live-in position.
+(1147,1321)DAPHNE
+(722,1687)Oh dear. The lady at the agency
+(725,922)said...
+(1148,1354)FRASIER
+(722,1686)Well, the lady at the agency was
+(721,1831)wrong. This is a part-time position.
+(723,1812)What a shame. We were getting along
+(725,954)so well.
+(425,1375)FRASIER STARTS TO USHER HER OUT.
+(2205,2280)33. 
+(J)
+(1145,1322)MARTIN
+(723,1747)Wait a minute, Frasier. I want to
+(725,1356)talk about this. 
+FRASIER
+(728,1679)Dad, there&#39;s nothing to discuss.
+(1152,1326)DAPHNE
+(730,1812)I&#39;ll just pop back in here and enjoy
+(730,1835)some more of your African erotic art.
+(425,1329)DAPHNE HEADS FOR THE BATHROOM. 
+MARTIN
+(732,1691)Check out the one over the towel
+(734,1694)rack. You gotta be young to try
+(733,1365)that. 
+FRASIER
+(737,1659)Perhaps it&#39;s best if you leave.
+(1162,1336)DAPHNE
+(737,1371)Well, all right. 
+FRASIER
+(739,1613)We&#39;ll contact you. If not by
+(741,1816)telephone, then through the toaster.
+(437,1376)SHE EKITS. 
+FRASIER
+(749,1860)I am not having another person living
+(750,1348)in this house. 
+MARTIN
+(749,1582)Give me one good reason why.
+(1140,1346)FRASIER
+(716,1773)Well, for one thing there&#39;s no room
+(721,945)for her.
+(1137,1313)MARTIN
+(716,1768)What about the room across the hall
+(720,1012)from mine?
+(1138,1344)FRASIER
+(715,1802)My study?! You expect me to give up
+(715,1771)my study? Where I read, where I do
+(715,1491)my most profound thinking?
+(1137,1313)MARTIN
+(716,1680)Use the can like the rest of the
+(716,1607)world. (THEN) You&#39;ll adjust.
+(1140,1345)FRASIER
+(719,1741)I don&#39;t want to adjust. I&#39;ve done
+(719,1824)enough adjusting. I&#39;m in a new city,
+(720,1587)I have a new job, I&#39;m freshly
+(718,1742)divorced and now my father and his
+(719,1684)dog are living with me. I think
+(720,1836)that&#39;s enough on my plate. The whole
+(723,1774)idea of getting someone in here was
+(721,1837)to help ease my burden, not to add to
+(723,797)it.
+(1141,1317)MARTIN
+(723,1746)Did you hear that, Eddie? We&#39;re a
+(721,920)burden.
+(2201,2279)34. 
+(J)
+(1142,1347)FRASIER
+(721,1707)Dad, you&#39;re twisting my words. I
+(717,1709)meant burden in its most positive
+(720,885)sense.
+(1140,1317)MARTIN
+(719,1826)Oh, as in "gee what a lovely burden?"
+(1144,1349)FRASIER
+(721,1460)Something like that, yes.
+(1142,1318)MARTIN
+(722,1805)Hey, you&#39;re not the only one getting
+(725,1685)screwed here. Two years ago I&#39;m
+(725,1746)sailing toward retirement and some
+(724,1835)punk robbing a convenience store puts
+(726,1778)a bullet in my hip. Next thing you
+(725,1748)know, I&#39;m trading my golf clubs in
+(729,1779)for one of these. (HE HOLDS UP THE
+(726,1741)WALKER) I had a lot of plans too,
+(728,1690)you know, and this may come as a
+(731,1723)shock, Sonny Boy, but one of them
+(729,1410)wasn&#39;t living with you.
+(1155,1362)FRASIER
+(735,1845)I&#39;m just trying to do the right thing
+(733,1686)here, trying to be the good son.
+(1157,1334)MARTIN
+(735,1819)Oh, don&#39;t worry, after I&#39;m gone, you
+(736,1699)can live guilt-free knowing that
+(737,1661)you&#39;ve done right by your papa.
+(2197,2274)35. 
+(J)
+(2212,2290)36. 
+(J)
+(1155,1359)FRASIER
+(733,1719)That&#39;s what you think this is all
+(734,1116)about, guilt?
+(1151,1326)MARTIN
+(735,997)Isn&#39;t it?
+(1153,1356)FRASIER
+(731,1837)of course it is! But the point is, I
+(731,1840)did it. I took you in. And I&#39;ve got
+(732,1771)news for you... I wanted to do it.
+(732,1749)Because you&#39;re my father. And you
+(731,1748)know how you repay me? Ever since
+(730,1808)you moved in here, it&#39;s been a snide
+(731,1808)comment about this or a smart little
+(730,1839)put-down about that. Well, I&#39;ve done
+(729,1749)my best to make a new home for you
+(730,1749)here and once, just once, would it
+(731,1716)have killed you to say thank you?
+(731,1321)one lousy thank you?
+(427,1324)THERE&#39;S A PAUSE. 
+MARTIN
+(732,1810)C&#39;mon, Eddie. It&#39;s past your dinner
+(731,869)time.
+(426,2137)HE AND EDDIE EXIT TO THE KITCHEN. FRASIER ANGRILY Eﬁliﬁ,
+(427,1285)SLAMMING THE DOOR BEHIND HIM.
+(1635,1833)CUT TO:
+(2201,2276)37.
+(1229,1259)IN
+(417,2075)A BLACK SCREEN. IN WHITE LETTERS APPEARS "LUPE VELEZ."
+(420,648)FADE IN:
+(689,1683)0 STUDIO - T AT - 4
+(428,1736)(Frasier, Roz, Martin (V.O.), Claire (V.O.))
+(419,1586)§3§1§g COMES BLASTING LE TO HIS BOOTH.
+(1148,1353)FRASIER
+(721,1751)They have got to move the bathroom
+(723,1342)closer to the studio!
+(420,2228)HE FLINGS HIMSELF INTO THE CHAIR AND PUTS ON HIS HEADPHONES.
+(420,1923)ROZ POINTS TO HIM. HE SPEAKS INTO THE MICROPHONE.
+(1151,1619)FRASIER (CONT’D)
+(727,1631)I&#39;ll be right back after these
+(724,987)messages.
+(425,1469)HE PUNCHES A BUTTON ON THE CONSOLE.
+(1149,1611)FRASIER (CONT’D)
+(736,1803)(TO Roz, IRRITATED) Could I perhaps
+(725,1231)put that on tape?
+(1146,1231)ROZ
+(724,1260)What&#39;s eating you?
+(1149,1354)FRASIER
+(726,1743)This thing with my father and this
+(727,1836)person he wants to hire... I thought
+(731,1745)I was starting my life over with a
+(729,1776)clean slate. I had this picture of
+(729,1776)the way things were going to be and
+(729,1346)then, I don&#39;t know...
+(1150,1235)ROZ
+(731,1472)Ever heard of Lupe Velez?
+(1154,1359)FRASIER
+(730,846)Who?
+(1154,1238)ROZ
+(735,1750)Lupe Velez. The movie star in the
+(735,1844)thirties. The Mexican Spitfire. Her
+(736,1783)career hit the skids so she decided
+(736,1481)to take one final stab at
+(740,1694)immortality. She figured if she
+(737,1635)couldn&#39;t be remembered for her
+(737,1786)movies, she&#39;d be remembered for the
+(1171,1323)(MORE)
+(2202,2281)33. 
+(K)
+(1125,1471)ROZ (CONT’D)
+(704,1728)way she died. And all Lupe wanted
+(704,1758)was to be remembered. So she plans
+(705,1595)this lavish suicide. Flowers,
+(707,1697)candles, silk sheets, white satin
+(706,1666)gown, full hair and make-up, the
+(704,1667)works. She takes an overdose of
+(706,1760)pills, lays on the bed and imagines
+(707,1792)how beautiful she&#39;s going to look on
+(707,1545)the front page of tomorrow&#39;s
+(708,1792)newspaper. Unfortunately, the pills
+(708,1731)didn&#39;t set well with the enchilada
+(710,1733)combo plate she sadly chose as her
+(711,1763)last meal. She stumbles toward the
+(709,1795)bathroom, trips and falls head first
+(714,1826)into the toilet. And that&#39;s how they
+(716,1340)found her. 
+FRASIER
+(715,1768)Is there a reason you&#39;re telling me
+(714,1220)this? 
+ROZ
+(716,1709)Yeah. Even though things may not
+(716,1833)happen like we planned, they can work
+(718,1035)out anyway.
+(2190,2266)39. 
+(K)
+(2207,2286)40. 
+(K)
+(1153,1359)FRASIER
+(728,1721)Remind me again how it worked for
+(729,1811)Lupe, last seen with her head in the
+(727,934)toilet?
+(1150,1235)ROZ
+(727,1801)All she wanted was to be remembered.
+(738,1721)(BEAT) Will you egg; forget that
+(731,905)story?
+(424,2298)ROZ GOES BACK INTO HER BOOTH, LOOKS AT THE CLOCK AND POINTS AT
+(427,656)FRASIER.
+(1155,1360)FRASIER
+(729,1754)Welcome back. Roz, who&#39;s our next
+(731,1239)caller? 
+ROZ
+(730,1723)We have Martin on line one. He&#39;s
+(731,1624)having a problem with his son.
+(1158,1364)FRASIER
+(733,1627)Hello, Martin. I&#39;m listening.
+(1157,1536)MARTIN (v.o.)
+(737,1447)I&#39;m a first time caller.
+(434,1369)FRASIER STIFFENS. 
+FRASIER
+(736,1759)Welcome to the program. How can I
+(738,1541)help you? 
+MARTIN (v.o.)
+(742,1815)I just moved in with my son and, uh,
+(744,1794)it ain&#39;t working. There&#39;s a lot of
+(741,1302)tension between us.
+(1149,1352)FRASIER
+(728,1686)I can imagine. Why do you think
+(726,1020)that&#39;s so?
+(1145,1519)MARTIN (v.o.)
+(728,1774)I guess maybe I didn&#39;t see he had a
+(726,1836)nice new life planned out for himself
+(726,1582)and I kind of got in the way.
+(1148,1352)FRASIER
+(726,1775)You know these things are a two way
+(727,1684)street. Perhaps your son wasn&#39;t
+(727,1836)sensitive enough to see how your life
+(725,1105)was changing.
+(1146,1521)MARTIN (V.O.)
+(727,1626)You got that right. I&#39;ve been
+(727,1716)telling him that ever since I got
+(727,896)there.
+(1151,1355)FRASIER
+(731,1799)I&#39;m sure he appreciated your candor.
+(1149,1524)MARTIN (v.o.)
+(731,1841)But maybe sometimes I&#39;ve got to learn
+(729,1346)to keep my trap shut.
+(1154,1358)FRASIER
+(731,1621)That&#39;s good advice for us all.
+(730,1147)Anything else?
+(2205,2283)41. 
+(K)
+(1130,1509)MARTIN (v.o.)
+(711,1795)I&#39;m worried my son doesn&#39;t know that
+(711,1733)I really appreciate what he&#39;s done
+(712,907)for me.
+(1135,1342)FRASIER
+(709,1398)Why don&#39;t you tell him?
+(1133,1512)MARTIN (v.o.)
+(712,1768)You know how it is with fathers and
+(713,849)SOUS.
+(921,1706)We always have a hard time
+(715,1245)saying that stuff.
+(712,851)Well,
+(1138,1345)FRASIER
+(898,1831)if it helps, I suspect your son
+(715,1517)already knows how you feel.
+(412,913)THERE IS A PAUSE.
+(1141,1608)FRASIER (CONT’D)
+(719,1074)Is that all?
+(721,1251)I guess that&#39;s it.
+(721,888)Crane.
+(1141,1518)MARTIN (V.O.)
+(1323,1838)Thank you, Doctor
+(1147,1353)FRASIER
+(721,1314)My pleasure, Martin.
+(725,1472)Did you hear what I said?
+(1146,1524)MARTIN (v.o.)
+(1543,1740)I said,
+(724,1015)thank you.
+(727,834)Yes,
+(425,898)MARTIN HANGS UP.
+(426,687)ANYTHING.
+(1153,1359)FRASIER
+(882,1108)I heard.
+(973,2118)FRASIER JUST SITS THERE WITHOUT SAYING
+(760,1202)ROZ INTERRUPTS.
+(2192,2269)42. 
+(K)
+(2197,2276)43. 
+(K)
+(1140,1225)ROZ
+(717,1799)Uh, Doctor Crane? We have Claire on
+(721,1679)line four. She&#39;s having trouble
+(719,1426)getting over a break up.
+(1143,1347)FRASIER
+(719,1611)Hello, Claire. I&#39;m listening.
+(1143,1517)CLAIRE (V.O.)
+(722,1710)I&#39;m, uh, well, I&#39;m a mess. Eight
+(720,1802)months ago, my boyfriend and I broke
+(721,1832)up and I can&#39;t get over it. The pain
+(726,1773)isn&#39;t going away. It&#39;s almost like
+(725,1193)I&#39;m in mourning.
+(1147,1352)FRASIER
+(724,1715)Claire, you ggg in mourning. But
+(723,1806)you&#39;re not mourning the loss of your
+(725,1076)boyfriend...
+(419,2043)AS FRASIER CONTINUES THE CALL, WE: 
+CROSS FADE TO:
+(2171,2266)473%-
+(1200,1229)It“
+(633,1894)S ’S V G ROOM - LA T AT NIG - NI
+(401,1335)(Frasier, Martin, Eddie, Daphne)
+(391,2019)WE PAN ACROSS THE APARTMENT TO SEE FRASIER AND HIS NEW
+(396,2222)"FAMILY" WATCHING TV. MARTIN IS SITTING IN HIS BARCALOUNGER.
+(393,1918)EDDIE, FRASIER AND DAPHNE ARE SITTING ON THE COUCH.
+(1116,1518)FRASIER (v.o.)
+(693,1809)You&#39;re mourning what you thought your
+(695,1676)life was going to be. Let it go.
+(691,1716)Things don&#39;t always happen how you
+(692,1777)plan. It&#39;s not necessarily bad. It
+(692,1716)doesn&#39;t mean things won&#39;t work out
+(694,891)anyway.
+(392,1460)EDDIE PUTS ONE PAW ON FRASIER’S LEG.
+(1120,1800)FRASIER (CONT’D) (V.O.)
+(694,1715)Have you ever heard of Lupe Velez?
+(1602,1861)FADE OUT.
+(1015,1426)END OF ACT TWO

@@ -1,0 +1,2 @@
+/usr/bin/ar cr lib/libTvParser.a  CMakeFiles/TvParser.dir/tvParser.cpp.o
+/usr/bin/ranlib lib/libTvParser.a

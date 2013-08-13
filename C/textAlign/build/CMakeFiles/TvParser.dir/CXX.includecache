@@ -6,7 +6,29 @@
 
 #IncludeRegexTransform: 
 
-../include/textAlign.hpp
+../include/hocr.hpp
+string.h
+-
+dirent.h
+-
+sys/stat.h
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+cmath
+-
+cctype
+-
+sstream
+-
+vector
+-
+
+../include/tvParser.hpp
 stdio.h
 -
 stdlib.h
@@ -19,18 +41,16 @@ string
 -
 vector
 -
-deque
--
 algorithm
 -
+hocr.hpp
+../include/hocr.hpp
 boost/tokenizer.hpp
 -
-cmath
--
 
-/scail/u/vigneshr/CVPR2014/codes/C/textAlign/textAlign.cpp
-textAlign.hpp
-/scail/u/vigneshr/CVPR2014/codes/C/textAlign/textAlign.hpp
+/scail/u/vigneshr/CVPR2014/codes/C/textAlign/tvParser.cpp
+tvParser.hpp
+/scail/u/vigneshr/CVPR2014/codes/C/textAlign/tvParser.hpp
 
 /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/assert.hpp
 boost/current_function.hpp

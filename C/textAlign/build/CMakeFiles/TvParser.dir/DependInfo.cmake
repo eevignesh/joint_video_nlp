@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/scail/u/vigneshr/CVPR2014/codes/C/textAlign/align.cpp" "/scail/u/vigneshr/CVPR2014/codes/C/textAlign/build/CMakeFiles/align.dir/align.cpp.o"
+  "/scail/u/vigneshr/CVPR2014/codes/C/textAlign/tvParser.cpp" "/scail/u/vigneshr/CVPR2014/codes/C/textAlign/build/CMakeFiles/TvParser.dir/tvParser.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -15,5 +15,4 @@ SET(CMAKE_TARGET_DEFINITIONS
 
 # Targets to which this target links.
 SET(CMAKE_TARGET_LINKED_INFO_FILES
-  "/scail/u/vigneshr/CVPR2014/codes/C/textAlign/build/CMakeFiles/TvParser.dir/DependInfo.cmake"
   )

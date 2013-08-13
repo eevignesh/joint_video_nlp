@@ -1,1 +1,1 @@
-/usr/lib64/ccache/c++     -fPIC CMakeFiles/align.dir/main.cpp.o  -o bin/align -rdynamic lib/libTextAlign.a 
+/usr/lib64/ccache/c++     -fPIC CMakeFiles/align.dir/align.cpp.o  -o bin/align -rdynamic lib/libTvParser.a /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/stage/lib/libboost_regex.so -Wl,-rpath,/scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/stage/lib 

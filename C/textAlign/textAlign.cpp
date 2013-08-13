@@ -115,6 +115,7 @@ namespace alignment
   _WordTokenizer::_WordTokenizer(vector <string> sentences)
   {
     int wordIndex = 0;
+    _sentenceToWordIndex = new int[sentences.size()];
     //vector <string> wordsInSentence;
 
     for(int i = 0; i < sentences.size(); i++)
@@ -139,7 +140,8 @@ namespace alignment
 
     boost::tokenizer<> sentenceTokenizer(sentence);
     _wordTokens.insert(_wordTokens.begin(), sentenceTokenizer.begin(), sentenceTokenizer.end());
-    _sentenceToWordIndex[0] = wordIndex;      
+    _sentenceToWordIndex = new int[1];
+    _sentenceToWordIndex[0] = wordIndex;
   }
 
 

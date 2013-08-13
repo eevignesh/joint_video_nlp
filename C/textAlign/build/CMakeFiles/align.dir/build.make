@@ -49,39 +49,40 @@ include CMakeFiles/align.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/align.dir/flags.make
 
-CMakeFiles/align.dir/main.cpp.o: CMakeFiles/align.dir/flags.make
-CMakeFiles/align.dir/main.cpp.o: ../main.cpp
+CMakeFiles/align.dir/align.cpp.o: CMakeFiles/align.dir/flags.make
+CMakeFiles/align.dir/align.cpp.o: ../align.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /scail/u/vigneshr/CVPR2014/codes/C/textAlign/build/CMakeFiles $(CMAKE_PROGRESS_1)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/align.dir/main.cpp.o"
-	/usr/lib64/ccache/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/align.dir/main.cpp.o -c /scail/u/vigneshr/CVPR2014/codes/C/textAlign/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/align.dir/align.cpp.o"
+	/usr/lib64/ccache/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/align.dir/align.cpp.o -c /scail/u/vigneshr/CVPR2014/codes/C/textAlign/align.cpp
 
-CMakeFiles/align.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/align.dir/main.cpp.i"
-	/usr/lib64/ccache/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /scail/u/vigneshr/CVPR2014/codes/C/textAlign/main.cpp > CMakeFiles/align.dir/main.cpp.i
+CMakeFiles/align.dir/align.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/align.dir/align.cpp.i"
+	/usr/lib64/ccache/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /scail/u/vigneshr/CVPR2014/codes/C/textAlign/align.cpp > CMakeFiles/align.dir/align.cpp.i
 
-CMakeFiles/align.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/align.dir/main.cpp.s"
-	/usr/lib64/ccache/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /scail/u/vigneshr/CVPR2014/codes/C/textAlign/main.cpp -o CMakeFiles/align.dir/main.cpp.s
+CMakeFiles/align.dir/align.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/align.dir/align.cpp.s"
+	/usr/lib64/ccache/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /scail/u/vigneshr/CVPR2014/codes/C/textAlign/align.cpp -o CMakeFiles/align.dir/align.cpp.s
 
-CMakeFiles/align.dir/main.cpp.o.requires:
-.PHONY : CMakeFiles/align.dir/main.cpp.o.requires
+CMakeFiles/align.dir/align.cpp.o.requires:
+.PHONY : CMakeFiles/align.dir/align.cpp.o.requires
 
-CMakeFiles/align.dir/main.cpp.o.provides: CMakeFiles/align.dir/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/main.cpp.o.provides.build
-.PHONY : CMakeFiles/align.dir/main.cpp.o.provides
+CMakeFiles/align.dir/align.cpp.o.provides: CMakeFiles/align.dir/align.cpp.o.requires
+	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/align.cpp.o.provides.build
+.PHONY : CMakeFiles/align.dir/align.cpp.o.provides
 
-CMakeFiles/align.dir/main.cpp.o.provides.build: CMakeFiles/align.dir/main.cpp.o
-.PHONY : CMakeFiles/align.dir/main.cpp.o.provides.build
+CMakeFiles/align.dir/align.cpp.o.provides.build: CMakeFiles/align.dir/align.cpp.o
+.PHONY : CMakeFiles/align.dir/align.cpp.o.provides.build
 
 # Object files for target align
 align_OBJECTS = \
-"CMakeFiles/align.dir/main.cpp.o"
+"CMakeFiles/align.dir/align.cpp.o"
 
 # External object files for target align
 align_EXTERNAL_OBJECTS =
 
-bin/align: CMakeFiles/align.dir/main.cpp.o
-bin/align: lib/libTextAlign.a
+bin/align: CMakeFiles/align.dir/align.cpp.o
+bin/align: lib/libTvParser.a
+bin/align: /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/stage/lib/libboost_regex.so
 bin/align: CMakeFiles/align.dir/build.make
 bin/align: CMakeFiles/align.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable bin/align"
@@ -91,7 +92,7 @@ bin/align: CMakeFiles/align.dir/link.txt
 CMakeFiles/align.dir/build: bin/align
 .PHONY : CMakeFiles/align.dir/build
 
-CMakeFiles/align.dir/requires: CMakeFiles/align.dir/main.cpp.o.requires
+CMakeFiles/align.dir/requires: CMakeFiles/align.dir/align.cpp.o.requires
 .PHONY : CMakeFiles/align.dir/requires
 
 CMakeFiles/align.dir/clean:

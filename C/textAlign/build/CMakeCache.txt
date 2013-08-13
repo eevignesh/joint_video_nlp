@@ -14,6 +14,21 @@
 # EXTERNAL cache entries
 ########################
 
+//Path to a file.
+Boost_INCLUDE_DIR:PATH=/scail/u/vigneshr/utilities/C_libraries/boost_1_46_1
+
+//Boost library directory
+Boost_LIBRARY_DIRS:FILEPATH=/scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/stage/lib
+
+//The Boost REGEX library
+Boost_REGEX_LIBRARY:FILEPATH=/scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/stage/lib/libboost_regex.so
+
+//Path to a library.
+Boost_REGEX_LIBRARY_DEBUG:FILEPATH=Boost_REGEX_LIBRARY_DEBUG-NOTFOUND
+
+//Path to a library.
+Boost_REGEX_LIBRARY_RELEASE:FILEPATH=/scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/stage/lib/libboost_regex.so
+
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar
 
@@ -145,20 +160,36 @@ CMAKE_USE_RELATIVE_PATHS:BOOL=OFF
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
-//Dependencies for target
-TextAlign_LIB_DEPENDS:STATIC=
-
 //Value Computed by CMake
 TextAlignment_BINARY_DIR:STATIC=/scail/u/vigneshr/CVPR2014/codes/C/textAlign/build
 
 //Value Computed by CMake
 TextAlignment_SOURCE_DIR:STATIC=/scail/u/vigneshr/CVPR2014/codes/C/textAlign
 
+//Dependencies for target
+TvParser_LIB_DEPENDS:STATIC=
+
 
 ########################
 # INTERNAL cache entries
 ########################
 
+//Advanced flag for variable: Boost_INCLUDE_DIR
+Boost_INCLUDE_DIR-ADVANCED:INTERNAL=1
+//Advanced flag for variable: Boost_LIBRARY_DIRS
+Boost_LIBRARY_DIRS-ADVANCED:INTERNAL=1
+//The library version string for boost libraries
+Boost_LIB_VERSION:INTERNAL=1_46_1
+//Whether the Boost REGEX library found
+Boost_REGEX_FOUND:INTERNAL=ON
+//Advanced flag for variable: Boost_REGEX_LIBRARY
+Boost_REGEX_LIBRARY-ADVANCED:INTERNAL=1
+//Advanced flag for variable: Boost_REGEX_LIBRARY_DEBUG
+Boost_REGEX_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
+//Advanced flag for variable: Boost_REGEX_LIBRARY_RELEASE
+Boost_REGEX_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
+//The version number for boost libraries
+Boost_VERSION:INTERNAL=104601
 //Advanced flag for variable: CMAKE_AR
 CMAKE_AR-ADVANCED:INTERNAL=1
 //Advanced flag for variable: CMAKE_BUILD_TOOL

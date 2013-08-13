@@ -99,17 +99,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named TextAlign
+# Target rules for targets named TvParser
 
 # Build rule for target.
-TextAlign: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 TextAlign
-.PHONY : TextAlign
+TvParser: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TvParser
+.PHONY : TvParser
 
 # fast build rule for target.
-TextAlign/fast:
-	$(MAKE) -f CMakeFiles/TextAlign.dir/build.make CMakeFiles/TextAlign.dir/build
-.PHONY : TextAlign/fast
+TvParser/fast:
+	$(MAKE) -f CMakeFiles/TvParser.dir/build.make CMakeFiles/TvParser.dir/build
+.PHONY : TvParser/fast
 
 #=============================================================================
 # Target rules for targets named align
@@ -124,53 +124,53 @@ align/fast:
 	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/build
 .PHONY : align/fast
 
-main.o: main.cpp.o
-.PHONY : main.o
+align.o: align.cpp.o
+.PHONY : align.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/main.cpp.o
-.PHONY : main.cpp.o
+align.cpp.o:
+	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/align.cpp.o
+.PHONY : align.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+align.i: align.cpp.i
+.PHONY : align.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/main.cpp.i
-.PHONY : main.cpp.i
+align.cpp.i:
+	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/align.cpp.i
+.PHONY : align.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+align.s: align.cpp.s
+.PHONY : align.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/main.cpp.s
-.PHONY : main.cpp.s
+align.cpp.s:
+	$(MAKE) -f CMakeFiles/align.dir/build.make CMakeFiles/align.dir/align.cpp.s
+.PHONY : align.cpp.s
 
-textAlign.o: textAlign.cpp.o
-.PHONY : textAlign.o
+tvParser.o: tvParser.cpp.o
+.PHONY : tvParser.o
 
 # target to build an object file
-textAlign.cpp.o:
-	$(MAKE) -f CMakeFiles/TextAlign.dir/build.make CMakeFiles/TextAlign.dir/textAlign.cpp.o
-.PHONY : textAlign.cpp.o
+tvParser.cpp.o:
+	$(MAKE) -f CMakeFiles/TvParser.dir/build.make CMakeFiles/TvParser.dir/tvParser.cpp.o
+.PHONY : tvParser.cpp.o
 
-textAlign.i: textAlign.cpp.i
-.PHONY : textAlign.i
+tvParser.i: tvParser.cpp.i
+.PHONY : tvParser.i
 
 # target to preprocess a source file
-textAlign.cpp.i:
-	$(MAKE) -f CMakeFiles/TextAlign.dir/build.make CMakeFiles/TextAlign.dir/textAlign.cpp.i
-.PHONY : textAlign.cpp.i
+tvParser.cpp.i:
+	$(MAKE) -f CMakeFiles/TvParser.dir/build.make CMakeFiles/TvParser.dir/tvParser.cpp.i
+.PHONY : tvParser.cpp.i
 
-textAlign.s: textAlign.cpp.s
-.PHONY : textAlign.s
+tvParser.s: tvParser.cpp.s
+.PHONY : tvParser.s
 
 # target to generate assembly for a file
-textAlign.cpp.s:
-	$(MAKE) -f CMakeFiles/TextAlign.dir/build.make CMakeFiles/TextAlign.dir/textAlign.cpp.s
-.PHONY : textAlign.cpp.s
+tvParser.cpp.s:
+	$(MAKE) -f CMakeFiles/TvParser.dir/build.make CMakeFiles/TvParser.dir/tvParser.cpp.s
+.PHONY : tvParser.cpp.s
 
 # Help Target
 help:
@@ -178,16 +178,16 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... TextAlign"
+	@echo "... TvParser"
 	@echo "... align"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... textAlign.o"
-	@echo "... textAlign.i"
-	@echo "... textAlign.s"
+	@echo "... align.o"
+	@echo "... align.i"
+	@echo "... align.s"
+	@echo "... tvParser.o"
+	@echo "... tvParser.i"
+	@echo "... tvParser.s"
 .PHONY : help
 
 

@@ -14,16 +14,17 @@
 #include <string>
 #include <vector>
 #include <deque>
-#include <map>
 #include <algorithm> 
 #include <boost/tokenizer.hpp>
 #include <cmath>
 
 #define DEBUG
-#define MAX_SRT_LINES 9999
 #define DRIFT_ALLOWED 2
-#define LAMBDA 1.0
+#define LAMBDA 0.9
 #define GAMMA 3.0
+#define MAX_DRIFT(X) (X/2)
+#define MIN_SUBLENGTH_FOR_DRIFT 10
+#define SCORE_THRESH 0.5
 
 using namespace std; 
 
@@ -271,6 +272,21 @@ namespace alignment
 
     deque <pair<int, int> > dummyQueue;
 
+    /*
+    cout << "\" ";
+    for (int i = 0; i<tokens_sub.size(); i++)
+    {
+      cout << tokens_sub[i] << " ";
+    }
+
+    cout << "\" compared to \" " ;
+
+    for (int i = 0; i < tokens_script.size(); i++)
+    {
+      cout << tokens_script[i] << " ";
+    }
+    cout << "\"" << endl;*/
+
     // time synch. distance which gives the levenstein distance based quality measure of matching
     float tsd = getTimeSynchDistance(tokens_sub, tokens_script, normalized_levenshtein_distance, dummyQueue, false);
 
@@ -285,12 +301,12 @@ namespace alignment
       endMatch = dummyQueue[N2-1].second;
       beginMatch = dummyQueue[0].second;
       float matchedExtent = (endMatch - beginMatch + 1);
-      //cout << "me = " << matchedExtent << endl;
-      space_separation = tokens_sub.size() - matchedExtent;
+      space_separation =  matchedExtent - tokens_sub.size();
+      //cout << "me = " << space_separation << endl;
     }
     else
     {
-      endMatch = (dummyQueue.begin())->second;
+      endMatch = dummyQueue[0].second;
       beginMatch = endMatch;
       space_separation = 0;
     }
@@ -422,7 +438,7 @@ namespace alignment
 
   static float getTimeSynchDistance(vector< vector<string> > sub, vector<string> scriptWords, 
       float (*distFunction)(vector <string>, vector <string>, pair <int, int>&), 
-      deque< pair<int, pair<int,int> > > &subchain, bool isVerbose = true)
+      deque< pair<int, pair<int,int> > > &subchain, deque <float> &matchScores, bool isVerbose = true)
   {
 
     // compute the distances (not required)
@@ -434,6 +450,7 @@ namespace alignment
 
     float **cumdists = new float*[N2];
     int **ancestors = new int*[N2];
+    float **scores = new float*[N2];
     pair <int, int> **matchIds = new pair <int, int> *[N2];
     for(int i = 0; i<N2; i++)
     {
@@ -441,6 +458,7 @@ namespace alignment
       cumdists[i] = new float[N1];
       ancestors[i] = new int[N1];
       matchIds[i] = new pair <int, int> [N1];
+      scores[i] = new float[N1];
     }
     
 #ifdef DEBUG
@@ -483,11 +501,13 @@ namespace alignment
       // for all elements below the lower limit, set the distance matrix values to zero, and ancestors to -1
       for(int n1 = 0; n1 < subMatchLimits[n2].first; n1++)
       {
+        scores[n2][n1] = 0;
         cumdists[n2][n1] = 0;
         ancestors[n2][n1] = -1;
         matchIds[n2][n1] = make_pair(-1,-1);
       }
 
+      float maxScore = 0;
       float maxcumdist = 0;
       int ancestor = -1;
       pair <int,int> matchIdLocal = make_pair(-1,-1);
@@ -498,7 +518,6 @@ namespace alignment
 
         float tempDist;
         pair <int, int> matchId;
-
         
         // try to match the subtitle[n2] to the script such that the last word of the subtitle matches before n1, 
         // and store the maximum score of this match in cumdists [n2][n1]
@@ -507,19 +526,28 @@ namespace alignment
           if(n11<0)
             continue;
           
-          // extract a subsegment of the script fromm starting from n11 to n1         
+          // extract a subsegment of the script fromm starting from n11 to n1                   
           vector <string> tempVector;
           for(int k = n11; k <= n1; k++)
           {
             tempVector.push_back(scriptWords[k]);
+            //cout << scriptWords[k] << " ";
           }
+          
+          /*cout << " \" compared to the sub: \" ";
+
+          for(int k = 0; k < sub[n2].size(); k++)
+          {
+            cout << sub[n2][k] << " ";
+          }
+          cout << endl;*/
          
           // compute the matching score between the subtitle and the sub-segment of the script
           if(sub[n2].size() <= tempVector.size())
           {
             tempDist = 1 - (*distFunction)(sub[n2], tempVector, matchId);
           }
-          else if(sub[n2].size() <= (tempVector.size() + 2)) 
+          else if(sub[n2].size() <= (tempVector.size() + MAX_DRIFT(sub[n2].size())) && sub[n2].size() > MIN_SUBLENGTH_FOR_DRIFT) 
             // allowing for the fact that the subtitle string can sometime miss few words
           {
             tempDist = 1 - (*distFunction)(tempVector, sub[n2], matchId) - 0.1; // the 0.1 is a slight penalty for this mismatch
@@ -530,7 +558,10 @@ namespace alignment
             tempDist = 0;
             matchId.first = 0; matchId.second = 0;
           }
-        
+          //cout << tempDist;
+          
+
+          
           // the score at a match is the tempDist + score of matching the previous subtitle before n11
 
           if (n2 > 0)
@@ -543,6 +574,7 @@ namespace alignment
                 ancestor = n11-1;
                 // matchIds keep track of the poisitions of matching the script statement to the subtitle
                 matchIdLocal = make_pair(matchId.first + n11, matchId.second + n11);
+                maxScore = tempDist;
               }
             }
           }
@@ -554,7 +586,7 @@ namespace alignment
               maxcumdist = tempDist;
               ancestor = -1;
               matchIdLocal = make_pair(matchId.first + n11, matchId.second + n11);
-              
+              maxScore = tempDist;
             }
           }
 
@@ -563,6 +595,8 @@ namespace alignment
         cumdists[n2][n1] = maxcumdist;
         ancestors[n2][n1] = ancestor;
         matchIds[n2][n1] = matchIdLocal;
+        scores[n2][n1] = maxScore;
+
       }
 
       // for all the elements outside the range, set the value to the maxvalue till now
@@ -571,6 +605,7 @@ namespace alignment
         cumdists[n2][n1] = maxcumdist;
         ancestors[n2][n1] = ancestor;
         matchIds[n2][n1] = matchIdLocal;
+        scores[n2][n1] = maxScore;
       }
 
     }
@@ -579,6 +614,7 @@ namespace alignment
     {
       cout << "Starting backward pass" << endl;
     }
+
     // backward pass: find best sub chain
     int n2 = N2-1, nb1 = -1;
     float maxcumdist = 0;
@@ -592,26 +628,42 @@ namespace alignment
 
     if (isVerbose)
     {
-      cout << "best score: "<< maxcumdist << endl;
+      cout << "Best Score: "<< maxcumdist << endl;
     }
+
+    // Push the score of the best match for each sentence
+    matchScores.push_front(scores[n2][nb1]);
+
 
     // compute best pair of matches
     while( nb1 != -1)
     {
-      //cout << "(" << n2 << "," << nb1 << ")" << endl;
+      cout << "(" << n2 << "," << nb1 << ")" << endl;
       pair <int, int> temp = make_pair(matchIds[n2][nb1].first, matchIds[n2][nb1].second);
       subchain.push_front(make_pair(n2,temp));
+      matchScores.push_front(scores[n2][nb1]); //score for best match
       nb1 = ancestors[n2][nb1];
       n2 = n2 - 1;
     }
+    
+    /*
+    n2++;
+    while(n2 >= 0)
+    {
+      pair <int, int> temp = make_pair(0,0);
+      subchain.push_front(make_pair(n2, temp));
+      n2--;
+    }*/
 
     // print results:
     
     if (isVerbose)
     {
+      int scoreCtr = 0;
       for (deque< pair<int, pair<int, int> > >::iterator it = subchain.begin(); it != subchain.end(); ++it)
       {
-        cout << it->first << ", "<< (it->second).first << " ... " << (it -> second).second << endl;
+        cout << it->first << ", "<< (it->second).first << " ... " << (it -> second).second << " score = " 
+          << matchScores[scoreCtr++] << " " <<  endl;
         cout << "\" ";
         for (vector <string>::iterator it2 = sub[it -> first].begin(); it2 != sub[it -> first].end(); it2++)
         {
@@ -627,76 +679,21 @@ namespace alignment
     }
 
     // release the memory allocated
-    for(int i = 0; i<N2; i++)
+    for(int i = 0; i < N2; i++)
     {      
       delete[] cumdists[i];
       delete[] ancestors[i];
       delete[] matchIds[i];
+      delete[] scores[i];
     }
     delete[] cumdists;
     delete[] ancestors;
     delete[] matchIds;
+    delete[] scores;
 
     // note that this is the matching distance, hence -score
     return ((N2 - maxcumdist)/N2);
   }
-
-
-  /*
-   * @brief: class to parse an srt file
-   *
-   * @members:
-   * _timeStamps - string vector of time stamps from srt file
-   * _dialogues - string vector of dialogues
-   *
-   * */
-
-  typedef class _SrtParser
-  {
-    public:
-      vector <string> _timeStamps;
-      vector <string> _dialogues;
-
-      /*
-       * @brief: function to extract the timestamps and dialogues
-       *
-       * @paramters:
-       * srtFilename - string filename of the srt file
-       * */
-      void parseFile(string srtFilename);
-  }SrtParser;
-
-  /*
-   * @brief: class to read a vector of sentences and tokenize them to vector of words
-   *
-   * @members:
-   * _sentences - vector of sentence strings
-   * _wordTokes - vector of words
-   * _sentenceToWordIndex - a map which gives the index of the first word for each word as indexed by _wordTokens
-   * */
-  typedef class _WordTokenizer
-  {
-    public:
-      vector <string> _wordTokens;
-      std::map<int,int> _sentenceToWordIndex;
-      
-      /*
-       * @brief: initializes with a vector of sentences, tokenizes and cretes the indexing
-       *
-       * @paramters:
-       * sentences - the input vector of sentences to tokenize
-       * */
-      _WordTokenizer(vector <string> sentences);
-
-      /*
-       * @brief: initializes with a single sentence, tokenizes and cretes dummy index (should depricate)
-       *
-       * @paramters:
-       * sentence - the input sentence to tokenize
-       * */
-
-      _WordTokenizer(string sentence);
-  } WordTokenizer;
 
 }
 

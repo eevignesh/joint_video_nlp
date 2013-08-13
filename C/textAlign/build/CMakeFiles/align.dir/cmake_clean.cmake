@@ -1,5 +1,5 @@
 FILE(REMOVE_RECURSE
-  "CMakeFiles/align.dir/main.cpp.o"
+  "CMakeFiles/align.dir/align.cpp.o"
   "bin/align.pdb"
   "bin/align"
 )
