@@ -1,5010 +1,0 @@
-1:0:49
-00:00:09,801 --> 00:00:11,951:1:48
-Listen to yourself, Bob.:2:76
-:2:13
-blah1:0
-2:0:50
-00:00:12,220 --> 00:00:16,338:1:48
-You follow her to work. You eavesdrop:2:89
-on her calls. You open her mail.:2:111
-:2:13
-blah2:0
-3:0:51
-00:00:16,683 --> 00:00:20,119:1:48
-When you started doing these things,:2:87
-the relationship was over.:2:116
-:2:13
-blah3:0
-4:0:52
-00:00:20,437 --> 00:00:23,315:1:48
-Thank you for your call.:2:84
-:2:13
-blah4:0
-5:0:53
-00:00:23,606 --> 00:00:25,881:1:48
-Roz, we have time for one more.:2:82
-:2:13
-blah5:0
-6:0:54
-00:00:26,151 --> 00:00:29,587:1:48
-Yes. On line four,:2:89
-we have Russell from Kirkland.:2:119
-:2:13
-blah6:0
-7:0:55
-00:00:30,864 --> 00:00:34,300:1:48
-Hello, Russell, this is Dr Frasier Crane.:2:72
-I'm listening.:2:73
-:2:13
-blah7:0
-8:0:56
-00:00:34,617 --> 00:00:39,532:1:48
-'I've been feeling sort of,:2:39
-you know, depressed lately.:2:121
-:2:13
-blah8:0
-9:0:57
-00:00:39,914 --> 00:00:43,384:1:48
-'My life's not going anywhere.:2:39
-It's not that bad.:2:73
-:2:13
-blah9:0
-10:0:49
-00:00:43,710 --> 00:00:48,261:1:48
-'It's just, same old apartment,:2:39
-same old job. Sometimes...':2:115
-:2:13
-blah10:0
-11:0:49
-00:00:48,631 --> 00:00:50,587:1:48
-We're at the end of our hour.:2:87
-:2:13
-blah11:0
-12:0:49
-00:00:50,842 --> 00:00:54,517:1:48
-I'll cut to the chase:2:73
-by using myself as an example.:2:98
-:2:13
-blah12:0
-13:0:49
-00:00:54,846 --> 00:00:58,441:1:48
-Six months ago, I was living in Boston.:2:83
-:2:13
-blah13:0
-14:0:49
-00:00:58,767 --> 00:01:02,203:1:48
-My wife had left me, which was:2:77
-very painful.:2:118
-:2:13
-blah14:0
-15:0:49
-00:01:02,520 --> 00:01:06,479:1:48
-Then she came back to me,:2:84
-which was excruciating.:2:119
-:2:13
-blah15:0
-16:0:49
-00:01:10,487 --> 00:01:14,275:1:48
-On top of that,:2:79
-my practice had grown stagnant:2:109
-:2:13
-blah16:0
-17:0:49
-00:01:14,616 --> 00:01:19,565:1:48
-and my social life consisted:2:97
-of hanging around a bar every night.:2:111
-:2:13
-blah17:0
-18:0:49
-00:01:20,872 --> 00:01:23,909:1:48
-I was clinging to a life:2:73
-that wasn't working.:2:116
-:2:13
-blah18:0
-19:0:49
-00:01:24,209 --> 00:01:26,598:1:48
-I knew I had to do something, anything.:2:73
-:2:13
-blah19:0
-20:0:50
-00:01:26,878 --> 00:01:31,668:1:48
-So I ended the marriage and moved:2:83
-back here to my hometown of Seattle.:2:98
-:2:13
-blah20:0
-21:0:50
-00:01:32,050 --> 00:01:34,200:1:48
-Go, Seahawks!:2:71
-:2:13
-blah21:0
-22:0:50
-00:01:34,469 --> 00:01:37,381:1:48
-I took action, Russell, and you can too.:2:73
-:2:13
-blah22:0
-23:0:50
-00:01:37,681 --> 00:01:42,311:1:48
-Move, change, do something.:2:77
-If it's a mistake, do something else.:2:73
-:2:13
-blah23:0
-24:0:50
-00:01:42,686 --> 00:01:44,995:1:48
-Will you do that, Russell?:2:87
-:2:13
-blah24:0
-25:0:50
-00:01:45,855 --> 00:01:47,686:1:48
-Will you?:2:87
-:2:13
-blah25:0
-26:0:50
-00:01:47,941 --> 00:01:50,409:1:48
-Russell? I think we lost him.:2:82
-:2:13
-blah26:0
-27:0:50
-00:01:50,694 --> 00:01:53,413:1:48
-No, we cut to the news:2:78
-30 seconds ago.:2:51
-:2:13
-blah27:0
-28:0:50
-00:01:56,991 --> 00:01:59,186:1:48
-Oh, for crying out loud!:2:79
-:2:13
-blah28:0
-29:0:50
-00:01:59,452 --> 00:02:01,408:1:48
-I bare my soul to Seattle.:2:73
-:2:13
-blah29:0
-30:0:51
-00:02:01,663 --> 00:02:04,939:1:48
-They're listening to:2:84
-Chopper Dave's Rush Hour Roundup!:2:67
-:2:13
-blah30:0
-31:0:51
-00:02:06,710 --> 00:02:11,386:1:48
-The rest of the show was pretty good.:2:84
-It was a good show, wasn't it?:2:73
-:2:13
-blah31:0
-32:0:51
-00:02:11,756 --> 00:02:13,712:1:48
-Your brother called.:2:89
-:2:13
-blah32:0
-33:0:51
-00:02:13,967 --> 00:02:17,926:1:48
-We call that "avoidance". Don't change:2:87
-the subject. Tell me what you think.:2:116
-:2:13
-blah33:0
-34:0:51
-00:02:18,263 --> 00:02:20,697:1:48
-Did I ever tell you:2:68
-what this button does?:2:119
-:2:13
-blah34:0
-35:0:51
-00:02:20,974 --> 00:02:22,930:1:48
-I am not a piece of Lalique.:2:73
-:2:13
-blah35:0
-36:0:51
-00:02:23,184 --> 00:02:26,654:1:48
-I can handle criticism.:2:73
-How was I today?:2:72
-:2:13
-blah36:0
-37:0:51
-00:02:26,980 --> 00:02:31,292:1:48
-You dropped two commercials,:2:89
-left a total of 28 seconds of dead air,:2:108
-:2:13
-blah37:0
-38:0:51
-00:02:31,651 --> 00:02:34,563:1:48
-scrambled the call letters,:2:115
-spilt yoghurt on the control board,:2:115
-:2:13
-blah38:0
-39:0:51
-00:02:34,863 --> 00:02:38,617:1:48
-and you kept referring to Jerry,:2:97
-with the identity crisis, as "Jeff".:2:119
-:2:13
-blah39:0
-40:0:52
-00:02:44,706 --> 00:02:46,936:1:48
-You say my brother called?:2:89
-:2:13
-blah40:0
-41:0:52
-00:02:51,421 --> 00:02:55,573:1:48
-So I said to the gardener,:2:83
-"Yoshi, I do not want a Zen garden.:2:34
-:2:13
-blah41:0
-42:0:52
-00:02:55,925 --> 00:02:58,883:1:48
-"lf I want to rake gravel:2:34
-every ten minutes for inner harmony,:2:101
-:2:13
-blah42:0
-43:0:52
-00:02:59,179 --> 00:03:01,329:1:48
-"I'll move to Yokohama.":2:34
-:2:13
-blah43:0
-44:0:52
-00:03:01,598 --> 00:03:05,477:1:48
-This offends him, so he starts:2:84
-pulling up Maris' prized camellias.:2:112
-:2:13
-blah44:0
-45:0:52
-00:03:05,810 --> 00:03:07,846:1:48
-I couldn't stand for that.:2:73
-:2:13
-blah45:0
-46:0:52
-00:03:08,104 --> 00:03:12,256:1:48
-I marched inside and locked the door:2:73
-until he cooled down.:2:117
-:2:13
-blah46:0
-47:0:52
-00:03:13,860 --> 00:03:16,897:1:48
-Would you have handled it differently?:2:87
-:2:13
-blah47:0
-48:0:52
-00:03:17,197 --> 00:03:20,348:1:48
-Sorry, Niles.:2:83
-I didn't realise you'd stopped talking.:2:73
-:2:13
-blah48:0
-49:0:52
-00:03:20,658 --> 00:03:22,535:1:48
-You haven't heard a word!:2:89
-:2:13
-blah49:0
-50:0:53
-00:03:22,786 --> 00:03:24,742:1:48
-You're a shrink. You know how it is:2:89
-:2:13
-blah50:0
-51:0:53
-00:03:24,996 --> 00:03:27,590:1:48
-when people go on:2:119
-about their mundane lives.:2:97
-:2:13
-blah51:0
-52:0:53
-00:03:27,874 --> 00:03:32,106:1:48
-TouchÃ©. And on that subject,:2:84
-I heard your show today.:2:73
-:2:13
-blah52:0
-53:0:53
-00:03:38,301 --> 00:03:40,735:1:48
-- And?:2:45
-- You know my view of pop psychiatry.:2:45
-:2:13
-blah53:0
-54:0:53
-00:03:41,012 --> 00:03:45,642:1:48
-And everything. When was the last:2:65
-time you had an unexpressed thought?:2:116
-:2:13
-blah54:0
-55:0:53
-00:03:46,017 --> 00:03:48,485:1:48
-I'm having one now.:2:73
-:2:13
-blah55:0
-56:0:53
-00:03:49,479 --> 00:03:53,028:1:48
-- You guys ready?:2:45
-- Two cafelatte supremos.:2:45
-:2:13
-blah56:0
-57:0:53
-00:04:01,032 --> 00:04:02,988:1:48
-No, thank you.:2:78
-:2:13
-blah57:0
-58:0:53
-00:04:04,452 --> 00:04:07,888:1:48
-So, Frasier,:2:83
-how are you doing on your own?:2:104
-:2:13
-blah58:0
-59:0:53
-00:04:08,206 --> 00:04:11,039:1:48
-I'm fine. I love my new life.:2:73
-:2:13
-blah59:0
-60:0:54
-00:04:11,334 --> 00:04:15,122:1:48
-I love the solitude.:2:73
-I miss Frederick, of course.:2:73
-:2:13
-blah60:0
-61:0:54
-00:04:15,463 --> 00:04:21,413:1:48
-He's playing goalie on the pee-wee:2:72
-soccer team. Chip off the old block.:2:115
-:2:13
-blah61:0
-62:0:54
-00:04:21,845 --> 00:04:24,678:1:48
-- You hated sports.:2:45
-- So does he!:2:45
-:2:13
-blah62:0
-63:0:54
-00:04:26,558 --> 00:04:29,356:1:48
-The fresh air's good for him.:2:84
-:2:13
-blah63:0
-64:0:54
-00:04:29,644 --> 00:04:31,760:1:48
-Well, this has been fun.:2:87
-:2:13
-blah64:0
-65:0:54
-00:04:32,022 --> 00:04:36,698:1:48
-- There's a problem we should discuss.:2:45
-- Is it Dad?:2:45
-:2:13
-blah65:0
-66:0:54
-00:04:37,068 --> 00:04:39,502:1:48
-One of his old police buddies called.:2:79
-:2:13
-blah66:0
-67:0:54
-00:04:39,779 --> 00:04:43,294:1:48
-He went to see him:2:72
-and found him on the bathroom floor.:2:97
-:2:13
-blah67:0
-68:0:54
-00:04:43,616 --> 00:04:45,686:1:48
-- Oh, my God!:2:45
-- He's fine.:2:45
-:2:13
-blah68:0
-69:0:54
-00:04:45,952 --> 00:04:50,867:1:48
-- Is it his hip again?:2:45
-- I don't think he can live alone now.:2:45
-:2:13
-blah69:0
-70:0:55
-00:04:51,249 --> 00:04:53,558:1:48
-What can we do?:2:87
-:2:13
-blah70:0
-71:0:55
-00:04:53,835 --> 00:04:57,145:1:48
-This won't be anyone's:2:84
-favourite solution,:2:102
-:2:13
-blah71:0
-72:0:55
-00:04:57,464 --> 00:05:01,457:1:48
-but I took the liberty of checking out:2:98
-a few convalescent homes for him.:2:97
-:2:13
-blah72:0
-73:0:55
-00:05:01,801 --> 00:05:04,076:1:48
-A home? He's still a young man.:2:65
-:2:13
-blah73:0
-74:0:55
-00:05:04,346 --> 00:05:08,624:1:48
-You can't take care of him.:2:89
-You're getting your new life together.:2:89
-:2:13
-blah74:0
-75:0:55
-00:05:08,975 --> 00:05:11,364:1:48
-<i>We were never simpatico.</i>:2:60
-:2:13
-blah75:0
-76:0:55
-00:05:11,644 --> 00:05:13,874:1:48
-Of course, I can't take care of him.:2:79
-:2:13
-blah76:0
-77:0:55
-00:05:14,147 --> 00:05:17,583:1:48
-Oh, yes, of course. Why?:2:79
-:2:13
-blah77:0
-78:0:55
-00:05:17,901 --> 00:05:20,813:1:48
-- Dad doesn't get along with Maris.:2:45
-- Who does?:2:45
-:2:13
-blah78:0
-79:0:55
-00:05:21,112 --> 00:05:23,751:1:48
-I thought you liked my Maris.:2:73
-:2:13
-blah79:0
-80:0:56
-00:05:24,032 --> 00:05:27,388:1:48
-I do. I like her from a distance.:2:73
-:2:13
-blah80:0
-81:0:56
-00:05:27,702 --> 00:05:31,217:1:48
-You know, the way you like the sun.:2:89
-Maris is like the sun,:2:77
-:2:13
-blah81:0
-82:0:56
-00:05:31,539 --> 00:05:33,848:1:48
-except without the warmth.:2:101
-:2:13
-blah82:0
-83:0:56
-00:05:37,545 --> 00:05:41,379:1:48
-Well, then, we're agreed:2:87
-about what to do with Dad.:2:97
-:2:13
-blah83:0
-84:0:56
-00:05:41,716 --> 00:05:45,629:1:48
-"Golden Acres.:2:34
-We care so you don't have to.":2:87
-:2:13
-blah84:0
-85:0:56
-00:05:51,184 --> 00:05:54,142:1:48
-- It says that?:2:45
-- It might as well.:2:45
-:2:13
-blah85:0
-86:0:56
-00:05:56,022 --> 00:05:58,297:1:48
-OK, I'll make up the spare bedroom.:2:79
-:2:13
-blah86:0
-87:0:56
-00:05:58,566 --> 00:06:02,923:1:48
-- You're a good son, Frasier.:2:45
-- Oh, God, I am, aren't l?:2:45
-:2:13
-blah87:0
-88:0:56
-00:06:03,279 --> 00:06:05,509:1:48
-Two cafe supremos. Anything to eat?:2:84
-:2:13
-blah88:0
-89:0:56
-00:06:05,782 --> 00:06:08,580:1:48
-No, I seem to have lost my appetite.:2:78
-:2:13
-blah89:0
-90:0:57
-00:06:08,868 --> 00:06:10,938:1:48
-I'll have a large piece of cheesecake.:2:73
-:2:13
-blah90:0
-91:0:57
-00:06:19,838 --> 00:06:23,148:1:48
-(He plays passionately):2:40
-:2:13
-blah91:0
-92:0:57
-00:06:23,466 --> 00:06:25,422:1:48
-(Doorbell):2:40
-:2:13
-blah92:0
-93:0:57
-00:06:45,363 --> 00:06:48,719:1:48
-- Hi!:2:45
-- We finally made it.:2:45
-:2:13
-blah93:0
-94:0:57
-00:06:49,034 --> 00:06:51,468:1:48
-Dad, welcome to your new home.:2:68
-:2:13
-blah94:0
-95:0:57
-00:06:51,745 --> 00:06:54,543:1:48
-Gee, you look great.:2:71
-:2:13
-blah95:0
-96:0:57
-00:06:54,831 --> 00:06:57,299:1:48
-Don't BS me.:2:68
-I do not look great.:2:73
-:2:13
-blah96:0
-97:0:57
-00:06:57,584 --> 00:06:59,540:1:48
-I spent Monday on the bathroom floor.:2:73
-:2:13
-blah97:0
-98:0:57
-00:06:59,794 --> 00:07:02,467:1:48
-You can still see:2:89
-the tile marks on my face.:2:116
-:2:13
-blah98:0
-99:0:57
-00:07:03,715 --> 00:07:06,946:1:48
-Gives you some idea:2:71
-about the ride over here.:2:97
-:2:13
-blah99:0
-100:0:49
-00:07:07,260 --> 00:07:08,534:1:48
-Here we are.:2:72
-:2:13
-blah100:0
-101:0:49
-00:07:11,306 --> 00:07:15,857:1:48
-Rest assured. The refrigerator:2:82
-is stocked with your favourite beer.:2:105
-:2:13
-blah101:0
-102:0:49
-00:07:16,227 --> 00:07:20,186:1:48
-We've got hot links and coleslaw:2:87
-and I rented a Charles Bronson movie.:2:97
-:2:13
-blah102:0
-103:0:49
-00:07:20,523 --> 00:07:23,356:1:48
-Cut the speech.:2:67
-We all know why I'm here.:2:87
-:2:13
-blah103:0
-104:0:49
-00:07:23,651 --> 00:07:28,281:1:48
-I can't be alone without falling:2:73
-on my ass and you're stuck with me.:2:111
-:2:13
-blah104:0
-105:0:49
-00:07:29,783 --> 00:07:32,172:1:48
-No, no!:2:78
-:2:13
-blah105:0
-106:0:49
-00:07:33,286 --> 00:07:36,039:1:48
-We have a chance to get reacquainted.:2:87
-:2:13
-blah106:0
-107:0:49
-00:07:36,331 --> 00:07:39,243:1:48
-That implies we were acquainted:2:84
-at one point.:2:97
-:2:13
-blah107:0
-108:0:49
-00:07:45,006 --> 00:07:48,760:1:48
-Why don't I take Dad's things:2:87
-into his new bachelor quarters:2:105
-:2:13
-blah108:0
-109:0:49
-00:07:49,094 --> 00:07:52,052:1:48
-so you scoundrels:2:115
-can plan some high jinks?:2:99
-:2:13
-blah109:0
-110:0:49
-00:07:53,723 --> 00:07:56,362:1:48
-That wife of his is driving him nutso.:2:84
-:2:13
-blah110:0
-111:0:49
-00:07:56,643 --> 00:08:01,319:1:48
-Yes, we Crane boys:2:89
-sure know how to marry.:2:115
-:2:13
-blah111:0
-112:0:49
-00:08:05,276 --> 00:08:07,506:1:48
-Let me get you a beer, Dad.:2:76
-:2:13
-blah112:0
-113:0:49
-00:08:07,779 --> 00:08:11,135:1:48
-What do you think:2:87
-of what I've done with the place?:2:111
-:2:13
-blah113:0
-114:0:49
-00:08:11,449 --> 00:08:16,569:1:48
-Every item was carefully selected.:2:69
-This lamp by Corbu, chair by Eames.:2:84
-:2:13
-blah114:0
-115:0:49
-00:08:16,955 --> 00:08:21,824:1:48
-This couch is a replica of the one:2:84
-Coco Chanel had in her Paris atelier.:2:67
-:2:13
-blah115:0
-116:0:49
-00:08:22,210 --> 00:08:26,203:1:48
-- Nothing matches.:2:45
-- It's a style of decorating. It's eclectic.:2:45
-:2:13
-blah116:0
-117:0:49
-00:08:28,091 --> 00:08:31,322:1:48
-If you've got:2:73
-really fine pieces of furniture,:2:114
-:2:13
-blah117:0
-118:0:49
-00:08:31,636 --> 00:08:35,072:1:48
-it doesn't matter if they match.:2:105
-They will go together.:2:84
-:2:13
-blah118:0
-119:0:49
-00:08:35,390 --> 00:08:37,620:1:48
-It's your money.:2:73
-:2:13
-blah119:0
-120:0:49
-00:08:39,436 --> 00:08:40,869:1:48
-(Doorbell):2:40
-:2:13
-blah120:0
-121:0:49
-00:08:41,104 --> 00:08:43,823:1:48
-Hey, that's the Space Needle there.:2:72
-:2:13
-blah121:0
-122:0:49
-00:08:44,107 --> 00:08:48,498:1:48
-Thanks for pointing that out. Being born:2:84
-and raised here, I never woulda known.:2:97
-:2:13
-blah122:0
-123:0:49
-00:08:51,406 --> 00:08:54,239:1:48
-- Delivery for Martin Crane.:2:45
-- In here.:2:45
-:2:13
-blah123:0
-124:0:49
-00:08:54,534 --> 00:08:56,843:1:48
-Excuse me! Wait a minute!:2:69
-:2:13
-blah124:0
-125:0:49
-00:08:57,120 --> 00:08:59,350:1:48
-- Where do you want it?:2:45
-- Where's the TV?:2:45
-:2:13
-blah125:0
-126:0:49
-00:08:59,622 --> 00:09:01,977:1:48
-- In that credenza.:2:45
-- Point it at that.:2:45
-:2:13
-blah126:0
-127:0:49
-00:09:02,250 --> 00:09:05,287:1:48
-- What about this chair?:2:45
-- I'll move it.:2:45
-:2:13
-blah127:0
-128:0:49
-00:09:05,587 --> 00:09:08,260:1:48
-Careful! That's a Wassily!:2:67
-:2:13
-blah128:0
-129:0:49
-00:09:09,466 --> 00:09:11,980:1:48
-Dad, I'm sure this piece is dear to you,:2:68
-:2:13
-blah129:0
-130:0:49
-00:09:12,260 --> 00:09:14,854:1:48
-but I don't think:2:98
-it goes with anything here.:2:105
-:2:13
-blah130:0
-131:0:49
-00:09:15,138 --> 00:09:17,857:1:48
-I know. It's eclectic.:2:73
-:2:13
-blah131:0
-132:0:49
-00:09:20,769 --> 00:09:22,999:1:48
-Niles, will you help me out here?:2:78
-:2:13
-blah132:0
-133:0:49
-00:09:23,271 --> 00:09:26,866:1:48
-I need an extension cord:2:73
-to plug in the vibrating part.:2:116
-:2:13
-blah133:0
-134:0:49
-00:09:27,192 --> 00:09:30,309:1:48
-Yes, that will be the crowning touch.:2:89
-:2:13
-blah134:0
-135:0:49
-00:09:35,241 --> 00:09:37,232:1:48
-Now you're settled in, I've got to run.:2:78
-:2:13
-blah135:0
-136:0:49
-00:09:37,494 --> 00:09:40,008:1:48
-I'm late for my:2:73
-dysfunctional family seminar.:2:100
-:2:13
-blah136:0
-137:0:49
-00:09:41,206 --> 00:09:43,766:1:48
-Dad, have you mentioned Eddie yet?:2:68
-:2:13
-blah137:0
-138:0:49
-00:09:44,042 --> 00:09:45,873:1:48
-- Eddie?:2:45
-- Ta-ta.:2:45
-:2:13
-blah138:0
-139:0:49
-00:09:46,127 --> 00:09:50,564:1:48
-- No, not Eddie!:2:45
-- He's my best friend. Get me my beer.:2:45
-:2:13
-blah139:0
-140:0:49
-00:09:50,924 --> 00:09:55,918:1:48
-He's weird. He gives me the creeps.:2:72
-All he does is stare at me.:2:65
-:2:13
-blah140:0
-141:0:49
-00:09:56,346 --> 00:09:58,382:1:48
-It's your imagination.:2:73
-:2:13
-blah141:0
-142:0:49
-00:09:58,640 --> 00:10:02,918:1:48
-No, I'm sorry. I'm putting my foot down.:2:78
-Eddie is not moving in here.:2:69
-:2:13
-blah142:0
-143:0:49
-00:10:04,062 --> 00:10:08,499:1:48
-(Suspense music on TV):2:40
-:2:13
-blah143:0
-144:0:49
-00:10:10,944 --> 00:10:13,538:1:48
-(Screams and a gunshot):2:40
-:2:13
-blah144:0
-145:0:49
-00:10:24,541 --> 00:10:27,294:1:48
-Niles, sorry I'm late.:2:78
-:2:13
-blah145:0
-146:0:49
-00:10:27,585 --> 00:10:32,534:1:48
-As I was leaving, Dad decided to cook:2:65
-lunch by the glow of a small kitchen fire.:2:108
-:2:13
-blah146:0
-147:0:49
-00:10:32,924 --> 00:10:36,121:1:48
-This last week with Dad,:2:84
-it's been a living hell.:2:105
-:2:13
-blah147:0
-148:0:49
-00:10:36,428 --> 00:10:40,501:1:48
-Either my territory's being violated:2:69
-or I worry about what he's up to.:2:111
-:2:13
-blah148:0
-149:0:49
-00:10:40,849 --> 00:10:45,639:1:48
-I'm a nervous wreck. I must calm down.:2:73
-Double espresso, please.:2:68
-:2:13
-blah149:0
-150:0:49
-00:10:46,021 --> 00:10:50,617:1:48
-You don't still have the brochures:2:89
-from those...those rest homes, do you?:2:102
-:2:13
-blah150:0
-151:0:49
-00:10:50,984 --> 00:10:55,421:1:48
-Of course I do. Don't forget,:2:79
-Maris is five years older than I am.:2:77
-:2:13
-blah151:0
-152:0:49
-00:10:58,533 --> 00:11:01,047:1:48
-You really think that's necessary?:2:89
-:2:13
-blah152:0
-153:0:49
-00:11:01,327 --> 00:11:04,364:1:48
-Yes. I don't have my life any more.:2:89
-:2:13
-blah153:0
-154:0:49
-00:11:04,664 --> 00:11:07,815:1:48
-I gave up my tickets to the theatre,:2:73
-to the symphony....:2:116
-:2:13
-blah154:0
-155:0:49
-00:11:08,126 --> 00:11:09,798:1:48
-What about the opera?:2:87
-:2:13
-blah155:0
-156:0:49
-00:11:10,045 --> 00:11:12,843:1:48
-- Here.:2:45
-- Thank you.:2:45
-:2:13
-blah156:0
-157:0:49
-00:11:15,050 --> 00:11:19,840:1:48
-You don't suppose there's a chance:2:89
-that you and Maris could..?:2:116
-:2:13
-blah157:0
-158:0:49
-00:11:20,221 --> 00:11:25,818:1:48
-Maris and I were discussing this. We:2:77
-should share the responsibility more.:2:115
-:2:13
-blah158:0
-159:0:49
-00:11:26,227 --> 00:11:31,142:1:48
-- You mean you'd take him in?:2:45
-- Dear God, no!:2:45
-:2:13
-blah159:0
-160:0:49
-00:11:31,524 --> 00:11:34,482:1:48
-We'll help you pay:2:87
-for a home care worker.:2:102
-:2:13
-blah160:0
-161:0:49
-00:11:34,778 --> 00:11:38,612:1:48
-Someone to cook, clean and:2:83
-help Dad with his physical therapy.:2:104
-:2:13
-blah161:0
-162:0:49
-00:11:38,948 --> 00:11:41,542:1:48
-These angels exist?:2:84
-:2:13
-blah162:0
-163:0:49
-00:11:41,826 --> 00:11:45,182:1:48
-I know an agency.:2:73
-I'll ask them to send a few people over.:2:73
-:2:13
-blah163:0
-164:0:49
-00:11:46,665 --> 00:11:52,137:1:48
-Niles, I can't thank you enough.:2:78
-I feel this urge to hug you.:2:73
-:2:13
-blah164:0
-165:0:49
-00:11:52,545 --> 00:11:56,424:1:48
-Remember what Mom always said.:2:82
-"A handshake is as good as a hug.":2:34
-:2:13
-blah165:0
-166:0:49
-00:11:58,635 --> 00:12:00,591:1:48
-Wise woman.:2:87
-:2:13
-blah166:0
-167:0:49
-00:12:02,097 --> 00:12:06,056:1:48
-I have never been more impressed:2:73
-with a human being in my life.:2:119
-:2:13
-blah167:0
-168:0:49
-00:12:07,560 --> 00:12:11,997:1:48
-- What was wrong with that one?:2:45
-- She was casing the joint.:2:45
-:2:13
-blah168:0
-169:0:49
-00:12:12,357 --> 00:12:16,145:1:48
-Casing the joint! She spent:2:67
-two years with Mother Teresa.:2:116
-:2:13
-blah169:0
-170:0:49
-00:12:16,486 --> 00:12:20,365:1:48
-If I were Mother Teresa,:2:73
-I'd check my jewellery box.:2:73
-:2:13
-blah170:0
-171:0:49
-00:12:22,659 --> 00:12:24,411:1:48
-(Doorbell):2:40
-:2:13
-blah171:0
-172:0:49
-00:12:24,661 --> 00:12:28,256:1:48
-This is the last one.:2:84
-Try to keep an open mind.:2:84
-:2:13
-blah172:0
-173:0:49
-00:12:28,581 --> 00:12:33,336:1:48
-(English accent) Hello.:2:40
-Caught with me hand in the biscuit tin!:2:67
-:2:13
-blah173:0
-174:0:49
-00:12:33,712 --> 00:12:37,864:1:48
-- I'm Daphne. Daphne Moon.:2:45
-- Frasier Crane. Please come in.:2:45
-:2:13
-blah174:0
-175:0:49
-00:12:38,216 --> 00:12:42,209:1:48
-My father, Martin Crane.:2:77
-Dad, this is Daphne Moon.:2:68
-:2:13
-blah175:0
-176:0:49
-00:12:42,554 --> 00:12:45,944:1:48
-Nice to meet you.:2:78
-Oh, and who might this be?:2:79
-:2:13
-blah176:0
-177:0:49
-00:12:46,266 --> 00:12:48,826:1:48
-That is Eddie.:2:84
-:2:13
-blah177:0
-178:0:49
-00:12:52,564 --> 00:12:55,636:1:48
-- I call him Eddie Spaghetti.:2:45
-- He likes pasta?:2:45
-:2:13
-blah178:0
-179:0:49
-00:12:55,942 --> 00:12:57,898:1:48
-No, he has worms.:2:78
-:2:13
-blah179:0
-180:0:49
-00:13:03,616 --> 00:13:07,689:1:48
-- Have a seat, Miss Moon.:2:45
-- Daphne. Thank you.:2:45
-:2:13
-blah180:0
-181:0:49
-00:13:08,455 --> 00:13:14,052:1:48
-Will you look at that?:2:87
-What a comfy chair. I always say,:2:87
-:2:13
-blah181:0
-182:0:49
-00:13:14,461 --> 00:13:17,976:1:48
-"Start with a good piece, and:2:34
-replace the rest when you can afford it.":2:114
-:2:13
-blah182:0
-183:0:49
-00:13:25,847 --> 00:13:29,965:1:48
-Perhaps you should start:2:80
-by telling us about yourself.:2:98
-:2:13
-blah183:0
-184:0:49
-00:13:30,310 --> 00:13:34,508:1:48
-- I'm from Manchester, England.:2:45
-- Really? Did you hear that, Dad?:2:45
-:2:13
-blah184:0
-185:0:49
-00:13:34,856 --> 00:13:38,849:1:48
-I'm three feet away.:2:73
-There's nothing wrong with my hearing.:2:84
-:2:13
-blah185:0
-186:0:49
-00:13:40,278 --> 00:13:44,066:1:48
-I've only been in the US:2:73
-for a few months,:2:102
-:2:13
-blah186:0
-187:0:49
-00:13:44,407 --> 00:13:49,401:1:48
-but I have an extensive background:2:98
-in home care and physical therapy,:2:105
-:2:13
-blah187:0
-188:0:49
-00:13:49,788 --> 00:13:52,780:1:48
-as you can see from my rÃ©sumÃ©.:2:97
-:2:13
-blah188:0
-189:0:49
-00:13:53,083 --> 00:13:55,199:1:48
-You were a policeman, weren't you?:2:89
-:2:13
-blah189:0
-190:0:49
-00:13:55,460 --> 00:14:01,137:1:48
-- Yeah. How'd you know?:2:45
-- I must confess I'm a bit psychic.:2:45
-:2:13
-blah190:0
-191:0:49
-00:14:03,218 --> 00:14:07,257:1:48
-It's nothing big.:2:73
-Just little things I sense about people.:2:74
-:2:13
-blah191:0
-192:0:49
-00:14:07,597 --> 00:14:09,713:1:48
-It's not like I could pick the lottery.:2:73
-:2:13
-blah192:0
-193:0:49
-00:14:09,974 --> 00:14:14,206:1:48
-If I could, I wouldn't be talking:2:73
-to the likes of you two now, would l?:2:116
-:2:13
-blah193:0
-194:0:49
-00:14:15,105 --> 00:14:18,780:1:48
-Yes.:2:89
-Perhaps I should describe your duties.:2:80
-:2:13
-blah194:0
-195:0:49
-00:14:19,109 --> 00:14:23,864:1:48
-Wait. I'm getting something on you.:2:87
-You're a florist.:2:89
-:2:13
-blah195:0
-196:0:49
-00:14:27,117 --> 00:14:32,145:1:48
-- No, I'm a psychiatrist.:2:45
-- Well, it comes and goes.:2:45
-:2:13
-blah196:0
-197:0:49
-00:14:32,539 --> 00:14:36,578:1:48
-Usually it's strongest:2:85
-during my time of the month.:2:100
-:2:13
-blah197:0
-198:0:49
-00:14:36,918 --> 00:14:40,149:1:48
-I guess I let a little secret out there.:2:73
-:2:13
-blah198:0
-199:0:49
-00:14:40,463 --> 00:14:42,499:1:48
-It's safe with us.:2:73
-:2:13
-blah199:0
-200:0:50
-00:14:44,801 --> 00:14:49,158:1:48
-We've learned all we need to know:2:87
-about you. And a dash extra.:2:97
-:2:13
-blah200:0
-201:0:50
-00:14:51,516 --> 00:14:53,472:1:48
-You're a dog, aren't you?:2:89
-:2:13
-blah201:0
-202:0:50
-00:14:58,523 --> 00:15:00,878:1:48
-Well, we'll be calling you, Miss Moon.:2:87
-:2:13
-blah202:0
-203:0:50
-00:15:01,151 --> 00:15:03,790:1:48
-- You got the job.:2:45
-- Wonderful!:2:45
-:2:13
-blah203:0
-204:0:50
-00:15:04,070 --> 00:15:09,303:1:48
-Aren't you forgetting something?:2:65
-Shouldn't we talk about this in private?:2:83
-:2:13
-blah204:0
-205:0:50
-00:15:09,701 --> 00:15:14,536:1:48
-Of course. I completely understand.:2:79
-I'll just pop into the loo.:2:73
-:2:13
-blah205:0
-206:0:50
-00:15:14,914 --> 00:15:17,303:1:48
-- You do have one, don't you?:2:45
-- Yes.:2:45
-:2:13
-blah206:0
-207:0:50
-00:15:17,584 --> 00:15:20,337:1:48
-Oh, I love America.:2:79
-:2:13
-blah207:0
-208:0:50
-00:15:22,797 --> 00:15:25,834:1:48
-- Dad!:2:45
-- You wanted me to pick one.:2:45
-:2:13
-blah208:0
-209:0:50
-00:15:26,134 --> 00:15:31,208:1:48
-- She's a kook. I don't like her.:2:45
-- She'll only be here when you're not.:2:45
-:2:13
-blah209:0
-210:0:50
-00:15:31,598 --> 00:15:34,112:1:48
-Then what's my problem?:2:84
-:2:13
-blah210:0
-211:0:50
-00:15:35,393 --> 00:15:36,872:1:48
-Daphne!:2:68
-:2:13
-blah211:0
-212:0:50
-00:15:37,103 --> 00:15:41,654:1:48
-- You've been retained.:2:45
-- Oh, wonderful! I had a premonition.:2:45
-:2:13
-blah212:0
-213:0:50
-00:15:42,025 --> 00:15:44,061:1:48
-Quelle surprise.:2:81
-:2:13
-blah213:0
-214:0:50
-00:15:44,319 --> 00:15:47,197:1:48
-I'll move my things in tomorrow.:2:73
-:2:13
-blah214:0
-215:0:50
-00:15:47,489 --> 00:15:51,846:1:48
-There must be some misunderstanding.:2:84
-This isn't a live-in position.:2:84
-:2:13
-blah215:0
-216:0:50
-00:15:52,202 --> 00:15:54,318:1:48
-The lady at the agency...:2:84
-:2:13
-blah216:0
-217:0:50
-00:15:54,579 --> 00:15:58,811:1:48
-She was wrong. This is:2:83
-a part-time position. It won't work out.:2:97
-:2:13
-blah217:0
-218:0:50
-00:15:59,167 --> 00:16:02,796:1:48
-- Let's talk about this.:2:45
-- There's nothing to discuss.:2:45
-:2:13
-blah218:0
-219:0:50
-00:16:03,129 --> 00:16:06,007:1:48
-You should talk about this.:2:89
-I'll just pop back in here:2:73
-:2:13
-blah219:0
-220:0:50
-00:16:06,299 --> 00:16:09,371:1:48
-and enjoy your African erotic art.:2:97
-:2:13
-blah220:0
-221:0:50
-00:16:10,637 --> 00:16:14,710:1:48
-- I think it would be best if you leave.:2:45
-- Oh, all right.:2:45
-:2:13
-blah221:0
-222:0:50
-00:16:15,058 --> 00:16:20,086:1:48
-We'll contact you. If not by telephone,:2:87
-then through the toaster.:2:116
-:2:13
-blah222:0
-223:0:50
-00:16:27,237 --> 00:16:30,866:1:48
-- I'm not having her living here.:2:45
-- Why not?:2:45
-:2:13
-blah223:0
-224:0:50
-00:16:31,199 --> 00:16:34,236:1:48
-- There's no room for her!:2:45
-- What about your study?:2:45
-:2:13
-blah224:0
-225:0:50
-00:16:34,536 --> 00:16:38,609:1:48
-That's where I read,:2:84
-where I do my most profound thinking.:2:119
-:2:13
-blah225:0
-226:0:50
-00:16:38,957 --> 00:16:42,427:1:48
-Use the can like the rest of the world.:2:85
-:2:13
-blah226:0
-227:0:50
-00:16:44,546 --> 00:16:45,501:1:48
-You'll adjust.:2:89
-:2:13
-blah227:0
-228:0:50
-00:16:45,714 --> 00:16:50,265:1:48
-I've done enough adjusting.:2:73
-I'm in a new city, I've got a new job.:2:73
-:2:13
-blah228:0
-229:0:50
-00:16:50,635 --> 00:16:53,672:1:48
-I'm separated from my little boy.:2:73
-:2:13
-blah229:0
-230:0:50
-00:16:53,972 --> 00:16:56,725:1:48
-And now my father:2:65
-and his dog are living with me.:2:97
-:2:13
-blah230:0
-231:0:50
-00:16:57,017 --> 00:17:00,089:1:48
-The whole idea:2:84
-of getting somebody in here:2:111
-:2:13
-blah231:0
-232:0:50
-00:17:00,395 --> 00:17:02,704:1:48
-was to help ease my burden,:2:119
-not to add to it.:2:110
-:2:13
-blah232:0
-233:0:50
-00:17:02,981 --> 00:17:06,940:1:48
-- Eddie, we're a burden.:2:45
-- You're twisting my words.:2:45
-:2:13
-blah233:0
-234:0:50
-00:17:07,277 --> 00:17:10,633:1:48
-I meant burden:2:73
-in its most positive sense.:2:105
-:2:13
-blah234:0
-235:0:50
-00:17:10,947 --> 00:17:13,825:1:48
-As in "Gee, what a lovely burden"?:2:65
-:2:13
-blah235:0
-236:0:50
-00:17:14,117 --> 00:17:18,156:1:48
-- Something like that.:2:45
-- It's not only you who got screwed.:2:45
-:2:13
-blah236:0
-237:0:50
-00:17:18,496 --> 00:17:22,967:1:48
-Two years ago, some punk:2:84
-robbing a store put a bullet in my hip.:2:114
-:2:13
-blah237:0
-238:0:50
-00:17:23,335 --> 00:17:26,133:1:48
-I traded in my golf clubs:2:73
-for one of these.:2:102
-:2:13
-blah238:0
-239:0:50
-00:17:26,421 --> 00:17:31,449:1:48
-I had plans, too. This may be a shock,:2:73
-but one of them wasn't living with you.:2:98
-:2:13
-blah239:0
-240:0:50
-00:17:31,843 --> 00:17:35,631:1:48
-- I'm just trying to be the good son.:2:45
-- Don't worry.:2:45
-:2:13
-blah240:0
-241:0:50
-00:17:35,972 --> 00:17:40,568:1:48
-- After I'm gone, you can live guilt-free.:2:45
-- You think this is about guilt?:2:45
-:2:13
-blah241:0
-242:0:50
-00:17:40,977 --> 00:17:45,607:1:48
-- Isn't it?:2:45
-- Of course it is! But I took you in.:2:45
-:2:13
-blah242:0
-243:0:50
-00:17:45,982 --> 00:17:49,452:1:48
-I wanted to do it:2:73
-because you're my father!:2:98
-:2:13
-blah243:0
-244:0:50
-00:17:50,612 --> 00:17:52,728:1:48
-And how do you repay me?:2:65
-:2:13
-blah244:0
-245:0:50
-00:17:52,989 --> 00:17:56,777:1:48
-With a snide comment about this:2:87
-or a smart little putdown about that.:2:111
-:2:13
-blah245:0
-246:0:50
-00:17:57,118 --> 00:18:00,394:1:48
-I've done my best to make a home:2:73
-here for you.:2:104
-:2:13
-blah246:0
-247:0:50
-00:18:00,705 --> 00:18:05,654:1:48
-Just once would it have killed:2:74
-you to say one lousy "thank you"?:2:121
-:2:13
-blah247:0
-248:0:50
-00:18:16,304 --> 00:18:18,818:1:48
-Come on, Eddie,:2:67
-it's past your dinner time.:2:105
-:2:13
-blah248:0
-249:0:50
-00:18:19,683 --> 00:18:21,753:1:48
-I'm going out.:2:73
-:2:13
-blah249:0
-250:0:50
-00:18:36,157 --> 00:18:39,752:1:48
-They have got to move the bathroom:2:84
-closer to the studio!:2:99
-:2:13
-blah250:0
-251:0:50
-00:18:40,078 --> 00:18:44,708:1:48
-We'll be back after these messages.:2:87
-Can't I put that on tape?:2:67
-:2:13
-blah251:0
-252:0:50
-00:18:46,543 --> 00:18:49,421:1:48
-What's eating you?:2:87
-:2:13
-blah252:0
-253:0:50
-00:18:49,713 --> 00:18:53,786:1:48
-Sorry. It's this thing with my father:2:83
-and this person he wants to hire.:2:97
-:2:13
-blah253:0
-254:0:50
-00:18:54,134 --> 00:18:57,649:1:48
-I thought I'd started my life:2:73
-with a clean slate.:2:119
-:2:13
-blah254:0
-255:0:50
-00:18:57,971 --> 00:19:02,328:1:48
-I had a picture of what it was going:2:73
-to be like and then... I don't know.:2:116
-:2:13
-blah255:0
-256:0:50
-00:19:02,684 --> 00:19:04,640:1:48
-Ever heard of Lupe Velez?:2:69
-:2:13
-blah256:0
-257:0:50
-00:19:04,894 --> 00:19:08,773:1:48
-- Who?:2:45
-- Lupe Velez. A movie star in the '30s.:2:45
-:2:13
-blah257:0
-258:0:50
-00:19:10,984 --> 00:19:15,614:1:48
-Her career hit the skids so she decided:2:72
-to make one final stab at immortality.:2:116
-:2:13
-blah258:0
-259:0:50
-00:19:15,989 --> 00:19:20,380:1:48
-She figured she'd at least be:2:83
-remembered for the way she died.:2:114
-:2:13
-blah259:0
-260:0:50
-00:19:20,744 --> 00:19:23,258:1:48
-All Lupe wanted:2:65
-was to be remembered.:2:119
-:2:13
-blah260:0
-261:0:50
-00:19:23,538 --> 00:19:26,177:1:48
-So she plans this lavish suicide.:2:83
-:2:13
-blah261:0
-262:0:50
-00:19:26,458 --> 00:19:31,248:1:48
-Flowers, candles, silk sheet,:2:70
-white satin gown, full hair and make-up.:2:119
-:2:13
-blah262:0
-263:0:50
-00:19:31,629 --> 00:19:34,985:1:48
-She takes the overdose of pills,:2:83
-lays on the bed:2:108
-:2:13
-blah263:0
-264:0:50
-00:19:35,300 --> 00:19:40,328:1:48
-and imagines how beautiful:2:97
-she'll look on tomorrow's front page.:2:115
-:2:13
-blah264:0
-265:0:50
-00:19:40,722 --> 00:19:44,874:1:48
-Unfortunately, the pills don't set well:2:85
-with the enchilada combo plate:2:119
-:2:13
-blah265:0
-266:0:50
-00:19:45,226 --> 00:19:47,456:1:48
-she sadly chose as her last meal.:2:115
-:2:13
-blah266:0
-267:0:50
-00:19:49,147 --> 00:19:51,103:1:48
-She trips in the bathroom,:2:83
-:2:13
-blah267:0
-268:0:50
-00:19:51,358 --> 00:19:54,395:1:48
-goes head-first into the toilet.:2:103
-That's how they found her.:2:84
-:2:13
-blah268:0
-269:0:50
-00:19:56,529 --> 00:19:59,407:1:48
-Is there a reason:2:73
-you're telling me this story?:2:121
-:2:13
-blah269:0
-270:0:50
-00:19:59,699 --> 00:20:05,854:1:48
-Yes. Even if things may not happen like:2:89
-we planned, they can work out anyway.:2:119
-:2:13
-blah270:0
-271:0:50
-00:20:07,707 --> 00:20:13,703:1:48
-Remind me of how it worked for Lupe,:2:82
-last seen with her head in the toilet.:2:108
-:2:13
-blah271:0
-272:0:50
-00:20:14,130 --> 00:20:18,806:1:48
-All she wanted was to be remembered.:2:65
-Will you ever forget that story?:2:87
-:2:13
-blah272:0
-273:0:50
-00:20:23,515 --> 00:20:26,712:1:48
-We're back. Roz, who's our next caller?:2:87
-:2:13
-blah273:0
-274:0:50
-00:20:27,018 --> 00:20:31,773:1:48
-We have Martin on line one.:2:87
-He's having a problem with his son.:2:72
-:2:13
-blah274:0
-275:0:50
-00:20:33,692 --> 00:20:37,480:1:48
-Hello, Martin. This is Dr Frasier Crane.:2:72
-I'm listening.:2:73
-:2:13
-blah275:0
-276:0:50
-00:20:37,821 --> 00:20:40,972:1:48
-(Martin Crane) 'I'm a first-time caller.':2:40
-:2:13
-blah276:0
-277:0:50
-00:20:45,620 --> 00:20:49,454:1:48
-Welcome to the show.:2:87
-How can I help you?:2:72
-:2:13
-blah277:0
-278:0:50
-00:20:49,791 --> 00:20:54,546:1:48
-'l moved in with my son,:2:39
-and it ain't working.:2:97
-:2:13
-blah278:0
-279:0:50
-00:20:54,921 --> 00:20:57,355:1:48
-'There's a lot of tension between us.':2:39
-:2:13
-blah279:0
-280:0:50
-00:20:57,632 --> 00:21:01,102:1:48
-I can imagine.:2:73
-Why do you think that's so?:2:87
-:2:13
-blah280:0
-281:0:50
-00:21:01,428 --> 00:21:05,387:1:48
-'l guess I didn't see he had:2:39
-a whole new life planned for himself.:2:97
-:2:13
-blah281:0
-282:0:50
-00:21:05,724 --> 00:21:07,680:1:48
-'l kind of got in the way.':2:39
-:2:13
-blah282:0
-283:0:50
-00:21:07,934 --> 00:21:10,494:1:48
-These things are a two-way street.:2:84
-:2:13
-blah283:0
-284:0:50
-00:21:10,770 --> 00:21:15,844:1:48
-Perhaps your son wasn't sensitive:2:80
-in seeing how your life was changing.:2:105
-:2:13
-blah284:0
-285:0:50
-00:21:16,234 --> 00:21:21,149:1:48
-'You've got that right! I've been telling:2:39
-him that ever since I got there!':2:104
-:2:13
-blah285:0
-286:0:50
-00:21:21,531 --> 00:21:24,284:1:48
-I'm sure he appreciated your candour.:2:73
-:2:13
-blah286:0
-287:0:50
-00:21:24,576 --> 00:21:26,965:1:48
-'Sometimes:2:39
-I oughta keep my trap shut.':2:73
-:2:13
-blah287:0
-288:0:50
-00:21:27,245 --> 00:21:30,203:1:48
-That's good advice for us all.:2:84
-:2:13
-blah288:0
-289:0:50
-00:21:31,958 --> 00:21:33,914:1:48
-Anything else?:2:65
-:2:13
-blah289:0
-290:0:50
-00:21:34,169 --> 00:21:39,004:1:48
-'I'm worried my son doesn't know that:2:39
-I appreciate what he's done for me.':2:73
-:2:13
-blah290:0
-291:0:50
-00:21:39,382 --> 00:21:41,338:1:48
-Why don't you tell him?:2:87
-:2:13
-blah291:0
-292:0:50
-00:21:41,593 --> 00:21:43,549:1:48
-'You know how it is:2:39
-with fathers and sons.:2:119
-:2:13
-blah292:0
-293:0:50
-00:21:43,803 --> 00:21:46,158:1:48
-'They have trouble saying that stuff.':2:39
-:2:13
-blah293:0
-294:0:50
-00:21:46,431 --> 00:21:51,744:1:48
-Well, if it helps, I suspect:2:87
-your son already knows how you feel.:2:121
-:2:13
-blah294:0
-295:0:50
-00:21:55,982 --> 00:22:00,134:1:48
-- Is that all?:2:45
-- 'Yeah. Thank you, Dr Crane.':2:45
-:2:13
-blah295:0
-296:0:50
-00:22:00,487 --> 00:22:03,365:1:48
-- My pleasure, Martin.:2:45
-- 'You hear that? I said thank you!':2:45
-:2:13
-blah296:0
-297:0:50
-00:22:03,656 --> 00:22:06,329:1:48
-Yes, I heard.:2:89
-:2:13
-blah297:0
-298:0:50
-00:22:10,997 --> 00:22:16,947:1:48
-Dr Crane? Claire on line four is having:2:68
-a problem getting over a relationship.:2:97
-:2:13
-blah298:0
-299:0:50
-00:22:19,089 --> 00:22:21,603:1:48
-Hello, Claire. I'm listening.:2:72
-:2:13
-blah299:0
-300:0:51
-00:22:21,883 --> 00:22:24,272:1:48
-'I'm, er...:2:39
-:2:13
-blah300:0
-301:0:51
-00:22:24,552 --> 00:22:27,385:1:48
-(Sobs) 'Well, I'm a mess!:2:40
-:2:13
-blah301:0
-302:0:51
-00:22:27,681 --> 00:22:32,038:1:48
-'Eight months ago my boyfriend and l:2:39
-broke up. I just can't get over it.:2:98
-:2:13
-blah302:0
-303:0:51
-00:22:32,435 --> 00:22:37,828:1:48
-'The pain isn't going away. It's like:2:39
-I'm in mourning or something.':2:73
-:2:13
-blah303:0
-304:0:51
-00:22:38,233 --> 00:22:41,782:1:48
-Claire, you are in mourning.:2:67
-:2:13
-blah304:0
-305:0:51
-00:22:42,112 --> 00:22:45,661:1:48
-But you're not mourning:2:66
-the loss of your boyfriend.:2:116
-:2:13
-blah305:0
-306:0:51
-00:22:45,991 --> 00:22:51,509:1:48
-You're mourning the loss of what:2:89
-you thought your life was going to be.:2:121
-:2:13
-blah306:0
-307:0:51
-00:22:51,913 --> 00:22:56,225:1:48
-Let it go. Things don't always:2:76
-work out how you plan.:2:119
-:2:13
-blah307:0
-308:0:51
-00:22:56,584 --> 00:22:59,576:1:48
-That's not necessarily bad.:2:84
-:2:13
-blah308:0
-309:0:51
-00:22:59,879 --> 00:23:03,269:1:48
-Things have a way:2:84
-of working out anyway.:2:111
-:2:13
-blah309:0
-310:0:51
-00:23:03,591 --> 00:23:06,947:1:48
-Have you ever heard of Lupe Velez?:2:72
-:2:13
-blah310:0
-311:0:51
-00:23:13,560 --> 00:23:18,315:1:48
-# Hey baby, I hear the blues are calling:2:35
-tossed salads and scrambled eggs:2:116
-:2:13
-blah311:0
-312:0:51
-00:23:19,441 --> 00:23:20,396:1:48
-# Oh, my!:2:35
-:2:13
-blah312:0
-313:0:51
-00:23:20,608 --> 00:23:23,680:1:48
-# And maybe I seem a bit confused:2:35
-Well, maybe...:2:87
-:2:13
-blah313:0
-314:0:51
-00:23:23,987 --> 00:23:27,423:1:48
-# But I got you pegged!:2:35
-:2:13
-blah314:0
-315:0:51
-00:23:27,741 --> 00:23:33,259:1:48
-# But I don't know what to do with those:2:35
-tossed salads and scrambled eggs:2:116
-:2:13
-blah315:0
-316:0:51
-00:23:33,663 --> 00:23:35,654:1:48
-# They're calling again #:2:35
-:2:13
-blah316:0
-317:0:51
-00:23:36,374 --> 00:23:38,569:1:48
-Good night, Seattle, we love you!:2:71
-:2:13
-blah317:0
-9999:0:57
-00:00:0,500 --> 00:00:2,00:1:48
-<font color="#ffff00" size=14>www.tvsubtitles.net</font>:2:60
-:2:13
-blah9999:0
-:0:0
-blah9999:1
-FRASIER"The Good Son"empy line
-#60181-098empy line
-PILDTempy line
-Created and Wriften byDavid Angell&empy line
-Peter Caseyempy line
-&empy line
-David Leeempy line
-Directed byempy line
-James Burrowsempy line
-REVISED FINAL DRAFTempy line
-April 29, 1993empy line
-FRASIERempy line
-"The Good Son"empy line
-#60181-098CASTFRASIER CRANE . . . . . . . . . . . . . . . . . . . . . . . . . . . ..KELSEY GRAMMERempy line
-MARTIN CRANE . . . . . ... . . . . . . . . . . . . . . . .......JOHN MAHONEYempy line
-DAPHNE MOON . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..JANE LEEVESempy line
-NILES CRANE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..DAVID HYDE PIERCEempy line
-ROZ DOYLE. . . . . . . . ... . . . . . . ... . . . . ... . . . . ..PERI GILPINempy line
-EDDIE . . . . . ... . . . . . . . . . . . . ... . . . . . . . . . . . . ..MOOSEempy line
-RUSSELL (V.O.)............................JEREMY LAWRENCEWAITRESS . . . . . . ... . . . . . . . . . . . . . . . . . . . . .....GINA RAVARRADELIVERYMAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..CLETO AUGUSTOempy line
-CLAIRE (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . . . ..MIMI SAVAGEempy line
-ZNQ U311:empy line
-MAN #1 (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . . . ..WOMAN #1 (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . ..MAN #2 (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . . . ..WOMAN #2 (v.o.) . . . . . . . . . . . . . . . . . . . . . . . . . ..empy line
-WOMAN #3 (v.o.). . . . . . . . . . . . . . . . . . . . . . . . . ..empy line
-Iﬂl. RADIO SIQDIOIE1. COEEEE HOUSEempy line
-FRASIER“The Good Son"empy line
-#60181-O98empy line
-I . SI 'S LIV G O. WA O F SIER'S NGempy line
-N U :IELLQAEempy line
-INT. KITCHENE32. BARKempy line
-EXT. NEWSSTANDempy line
-EXT. SEATTLE STREETempy line
-FRASIER - "The GO0d SOn" #60l8l—098empy line
-ACT ONEScene A (1)TO BE SHOT AT A LATER DATE DAY/1empy line
-** znn UNIT **empy line
-(Man #1 (V.O.))empy line
-INT. CAB - DAY(Woman #1 (V.O.))INT. KITCHEN - DAY(Man #2 (V.O.))empy line
-EXT. PARK - DAY(Woman #2 (V.O.))EXT. NEWSSTAND — DAY(Woman #3 (V.O.))empy line
-Scene B (3)INT. RADIO STUDIO — DAY DAY/1(Frasier, Roz, Russell (V.O.))empy line
-Scene C (8)EXT. SEATTLE STREET — DAY DAY/1** 2ND UNIT **empy line
-(Niles (V.O.))empy line
-INT. COFFEE HOUSE — CONTINUOUS (9)(Niles, Frasier, Waitress, DAY/1Extras)empy line
-Scene D (14)empy line
-INT. FRASIER’S LIVING ROOM - DAY DAY/2(Frasier, Niles, Martin,empy line
-Deliveryman)Scene E (21)INT. FRASIER'S LIVING NIGHT/2empy line
-ROOM - NIGHT(Martin, Frasier, Eddie)empy line
-END OF ACT ONEempy line
-FRASIER - "The Good Son" #60181—098 Page TwoACT TWOempy line
-Scene H (22)empy line
-INT. COFFEE HOUSE — DAY DAY/3empy line
-(Niles, Frasier, Extras)empy line
-Scene JMONTAGE (25)INT. HALLWAY OF FRASIER'S DAY/4empy line
-BUILDING - DAY(Frasier, Extras)empy line
-RESET TO:INT. HALLWAY - MOMENTS LATER (25)(Frasier, Extras) DAY/4RESET TO:INT. FRASIER'S LIVING (26)ROOM - DAY DAY/4(Frasier, Martin, Eddie,Daphne)Scene K (37)INT. RADIO STUDIO - LATER DAY/4THAT DAYempy line
-(Frasier, Roz, Martin (V.O.),Claire (V.O.))empy line
-Scene L (44)empy line
-INT. FRASIER'S LIVING NIGHT/4ROOM — LATER THAT NIGHTempy line
-(Frasier, Martin, Eddie,empy line
-Daphne)empy line
-END OF ACT TWOempy line
-FRASIER"The Good Son"empy line
-#60181-098empy line
-ACT ONempy line
-l>°empy line
-TO BE SHOT AT A LATER DATEempy line
-(2nd Unit)empy line
-A BLACK SCREEN. IN WHITE LETTERS APPEARS "THE JOB."MAN #1 (v.o.)I'm a long time listener, first timecaller. My problem began when I...FADE IN:MONTAGE — (V.O.’S) — DAY/1. C — YA CABBIE IS LISTENING TO HIS RADIO.WOMAN #1 (v.o.)I don't know him anymore. It's likeliving with a stranger. Takeempy line
-yesterday...empy line
-CROSS FADE TO:empy line
-2.(A)empy line
-IE1. KITCHEN - DA!empy line
-A MESSY KITCHEN, A FRAZZLED HOUSEWIFE AND A SCREAMING INFANTIN A HIGHCHAIR. THE RADIO IS ON.empy line
-MAN #2 (v.o.)At least I thought I had a normalchildhood. Aw, hell, who knowswhat's normal anymore. I...CROSS FADE TO:EXT. PARK - DAYA MAN JOGS IN THE PARK. HE'S LISTENING TO HIS WALKMAN.WOMAN #2 (V.O.)(BLUBBERING) I'm sorry, I thought Ihad this under control. I, I, I...Give me a minute.THE JOGGER ROLLS HIS EYES.CROSS FADE TO:. N SS D — DAYempy line
-A NEWSSTAND, FEATURING A PORTABLE RADIO NEXT TO THE CASHREGISTER. A COAT HANGAR IS USED AS AN ANTENNA.empy line
-WOMAN #3 (v.o.)empy line
-(THICK MIDDLE EASTERN ACCENT) I tellhim, "I'm a human being. I'm a humanbeing. You can't treat me like aempy line
-dog." You've got to help me, Dr. Crane.empy line
-CROSS FADE TO:empy line
-lmempy line
-LEI, BQQIO STUDIO — DA! — QAZZ1(Frasier, Roz, Russell (V.0.))empy line
-KACL - A TYPICAL RADIO STUDIO: TWO ROOMS SEPARATED BY A GLASSempy line
-PARTITION AND A DOOR. ON ONE SIDE, EBA§lEB_§BAN§ IS SEATED ATA DESK WITH A MULTI-LINE PHONE AND MICROPHONE. HE IS WEARINGempy line
-HEADPHONES. ON THE OTHER SIDE OF THE GLASS IS HIS CALL SCREENER,BQZ DOYLE. ANOTHER GLASS PARTITION IN THE STUDIO LOOKS OUT INTOempy line
-THE HALLWAY. THE LIGHTS ARE LOW. FRASIER IS IN THE MIDDLE OFANSWERING A CALLER.empy line
-FRASIER(FIRMLY, wrru CONCERN) Listen toyourself, Bob. You follow her towork. You eavesdrop on her calls.You open her mail. The minute youstarted doing those things, theempy line
-relationship was over. Thank you forempy line
-your call.empy line
-HE PUNCHES A BUTTON ON THE CONSOLE.empy line
-FRASIER (CONT'D)empy line
-Roz, do we have time for one more?empy line
-(Biempy line
-ROZ SPEAKS INTO THE MICROPHONE IN THE BOOTH IN A SOOTHINGRADIO VOICE.empy line
-ROZYes, Dr. Crane. On line four we haveRussell from Kirkland. He feels likehe's caught in a rut.FRASIER PUSHES A BUTTON ON THE PHONE.FRASIERThis is Doctor Frasier Crane. I'mlistening.RUSSELL (v.o.)Well, I've been feeling, sort of, youknow, depressed lately.FRASIERFor how long?RUSSELL (v.o.)Oh, the last seven or eight years.FRASIERGo on.RUSSELL (v.o.)I don't know, my life's not goinganywhere. It's not that it's bad.It's just the same old apartment, thesame old job, the same old people,day after day. Sometimes I just...empy line
-ROZ SIGNALS FROM THE BOOTH THAT TIME IS RUNNING SHORT ANDFRASIER HAS TO WRAP THIS UP.empy line
-FRASIERempy line
-Russell, we're nearing the end of ourhour. Let me see if I can cut to thechase by using myself as an example.Six months ago I was living inempy line
-Boston. My wife had left me, whichwas very painful, then she came back,which was excruciating. I thought Icould forgive her indiscretion butthere was this nagging little hint ofresentment, this minute lack ofempy line
-trust, this overwhelming desire toshove a grapefruit in her face. Ontop of that, my practice had grownstagnant and my social life consistedof hanging around a bar night afternight. Suddenly I realized I wasclinging to a life that wasn'tempy line
-working anymore. I knew I had to dosomething, anything. So I put an endto the marriage and moved back here tomy hometown of Seattle. Go Seahawks!I took action, Russell and you can too.Move, change, do something. If it's amistake, do something else. will youdo that, Russell? will you? Russell?empy line
-(TURNING TO ROZ) I think we lost him.empy line
-5.(B)empy line
-6.(B)empy line
-ROZNo, we cut to the news about thirtyempy line
-seconds ago.empy line
-FRASIER TAKES OFF HIS HEADSET, GETS UP AND HEADS INTO ROZ'SCONTROL ROOM.empy line
-FRASIEROh, for crying out loud. I finallybare my soul to all of Seattle andthey're listening to "Chopper Dave'sRush-Hour Roundup"? At least therest of the show was good. (THEN)It was a good show, wasn't it?empy line
-ROZempy line
-Here. (HANDS HIM A SLIP OF PAPER)Your brother called.empy line
-FRASIERYou know, in the trade, we call thatavoidance. Don't change the subject.What did you think?empy line
-SHE POINTS TO HER CONSOLE.empy line
-ROZDid I ever show you what this buttondoes?empy line
-FRASIERI'm not a piece of Lalique. I canempy line
-handle criticism. How was I today?empy line
-ROZLet's see. You dropped twocommercials, you left a total oftwenty—eight seconds of dead air, youscrambled the call letters, youspilled yogurt on the control boardand you kept referring to Jerry withthe identity crisis as "Jeff."FRASIER(PAUSE) You say my brother called.empy line
-CUT TO:empy line
-(B)empy line
-IQempy line
-A BLACK SCREEN. IN WHITE LETTERS APPEARS "THE BROTHER."NILES (v.o.)So I said to the gardner, "Yoshi, Ido not need a Zen garden in myempy line
-backyard.empy line
-FADE IN:empy line
-S — Y — DAY - NIT(Niles (V.O.))empy line
-A CITY BUS IS STOPPED, PICKING UP PASSENGERS. ON THE SIDE OFTHE BUS IS A LARGE ADVERTISEMENT. ON IT IS FRASIER’S SMILINGFACE AND THE WORDS "DR. FRASIER CRANE. HE LISTENS. KACL — 780empy line
-AM." THE BUS PULLS AWAY TO REVEAL "CAFE NERVOSA," ONE OFSEATTLE'S POPULAR COFFEE HOUSES.empy line
-NILES (V.O.) (CONT'D)If I want to rake gravel every tenminutes to maintain my inner harmony,empy line
-I'll move to Yokohama."empy line
-CUT TO:empy line
-9.(C)empy line
-. O OUS - INUOUS -(Niles, Frasier, Waitress, Extras)empy line
-FRASIER AND HIS BROTHER, QB, NILES CRANE, STAND AT THE COUNTER.FRASIER HAS HIS NOSE IN A MENU.empy line
-NILES (CONT'D)empy line
-Well, this offends him so he startspulling up Maris’ prized camellias bythe handful. I couldn't stand forthat, so I marched right into themorning room and locked the dooruntil he cooled down. Tell me youempy line
-would have handled it differently,Frasier.AFTER A BEAT, FRASIER LOOKS UP.FRASIEROh, I'm sorry, Niles, I didn'trealize you'd stopped talking.NILESYou haven't listened to a word I said.FRASIERNiles, you're a psychiatrist. Youknow what it's like to listen toempy line
-people prattling on endlessly aboutempy line
-their mundane lives.NILESempy line
-Touche. And on that subject, I heardempy line
-your show today.empy line
-1o.(<3)empy line
-FRASIERAnd?NILESYou know what I think about pop psychiatry.FRASIERYes, yes, I know what you think abouteverything. When was the last timeyou had an unexpressed thought?NILESI'm having one now.THEY BOTH CHUCKLE GOOD—NATUREDLY. A WAITRESS APPROACHES.WAITRESSYou guys ready?FRASIER(TO WAITRESS) Two cafe latte supremos.empy line
-NILES MOVES TO A CHAIR AND BEGINS TO DUST IT OFF WITH AHANDKERCHIEF. HE OFFERS IT TO FRASIER.empy line
-FRASIER (CONT'D)No, thank you.empy line
-NILESSo, Frasier, how are you doing onyour own?empy line
-FRASIERI'm fine. I love my new life. I lovethe solitude. I miss Frederick like thedickens, of course. He's quite a boy.He's playing goalie on the pee wee soccerempy line
-team now. He's a chip off the old block.empy line
-11.(C)empy line
-NILESYou hated sports.FRASIERAnd so does he, but the fresh air'sgood for him.THEY BOTH LAUGH AT THIS.NILESThis has been fun, Frasier, but wehave a problem. That's why I thoughtwe should talk.FRASIEROur Dad?NILESI'm afraid so. One of his oldbuddies from the police force calledthis morning. He went over to seehim. Found him on the bathroom floor.FRASIEROh my God.NILESNo, it's okay, he's fine.FRASIERHis hip again?NILES NODS.NILESFrasier, I don't think he can liveempy line
-alone anymore.empy line
-12.(<1)empy line
-FRASIERWhat can we do?NILESWell, I know this isn't going to beanyone's favorite solution, but Itook the liberty of checking out afew convalescent homes for him.HE REACHES INTO HIS BRIEFCASE AND TAKES OUT A PILE OF PAMPHLETS. *FRASIERA home? He's still a young man.NILESWell, you certainly can't take careof him. You're just getting your newempy line
-life together.empy line
-FRASIER *empy line
-Absolutely. Besides, we've neverbeen sympatico. When I was a child Ionce rode in the car with him fromSeattle to Spokane and the only thinghe said to me was, "I think we've gota problem with your brother Frasier."NILESYes, well, and, of course, I can'ttake care of him.FRASIERempy line
-Yes, of course, of course. (BEAT) Why?empy line
-NILESempy line
-Dad doesn't get along with Maris.empy line
-Who does?empy line
-I thought youempy line
-I do. I likeYou know, theempy line
-Maris is likeempy line
-FRASIERempy line
-NILESempy line
-liked Maris.empy line
-FRASIERempy line
-her from a distance.way you like the sun.empy line
-the sun... exceptempy line
-without the warmth.empy line
-NILES PICKS UP A PAMPHLET FROM THE TABLE.empy line
-(READING)empy line
-golf carts onempy line
-(nzsrcusn)empy line
-guest room.empy line
-You're a goodempy line
-Oh God, I am,empy line
-FRASIER BURIES HIS HEADempy line
-"Golden Acres".empy line
-Alright,empy line
-NILESPeople inempy line
-their way to oblivion.empy line
-FRASIERempy line
-I'll make up theempy line
-NILESson, Frasier.FRASIERempy line
-aren't I?empy line
-IN HIS HANDS AS NILES COMFORTS HIM.empy line
-CUT TO:empy line
-13.(C)empy line
-14Oempy line
-IUempy line
-A BLACK SCREEN. IN WHITE LETTERS APPEARS "THE FATHER."empy line
-FADE IN:empy line
-S ' LIVING - D Y — D(Frasier, Niles, Martin, Deliveryman)empy line
-IT'S A SMART, CLEAN, METICULOUSLY DECORATED CONDO. THEempy line
-FURNISHINGS LEAN TOWARD THE CONTEMPORARY, WITH WELL CHOSENPIECES OF ART AND SCULPTURE. CENTER IS A VIEW OF THE SEATTLEempy line
-SKYLINE. THERE IS A KNQCK AT THE DOOR. FRASIER, AT THEPIANO, GOES TO THE DOOR. HE STEELS HIMSELF AND OPENS THEDOOR. NILES IS STANDING THERE WITH A FEW SUITCASES IN HISempy line
-HAND.NILESempy line
-We finally made it.empy line
-NILES ENTERS FOLLOWED BY THEIR FATHER, QABTLN, USING A WALKER.FRASIERempy line
-Ah, Dad, welcome to your new home.empy line
-You look great.empy line
-15.(D)empy line
-MARTINDon't B.S. me. I do not look great.I spent Monday on the bathroom floor.You can still see the tile marks onmy face.empy line
-NILES(SOTTO TO FRASIER) Gives you someidea about the ride over in the car.empy line
-FRASIER CLAPS HIS HANDS AND RUBS THEM TOGETHER, TRYING TOLIGHTEN THE MOMENT.empy line
-FRASIERWell, here we are. Now, Dad, restassured the refrigerator is stockedempy line
-with your favorite beer, Ballantines,empy line
-and we've got plenty of hot links andcole slaw. I even rented a CharlesBronson movie for later.MARTINYou can cut the "Welcome to CampCrane" speech. We all know why I'mhere. Your old man can't be trustedto be alone for ten minutes withoutfalling on his ass, and Frasier gotstuck with me. Isn't that right?FRASIER AND NILES LOOK AT EACH OTHER.FRASIER/NILESempy line
-No, no, no.empy line
-16.(D)empy line
-FRASIER (CONT'D)I want you here. It will give us anopportunity to get reacquainted.MARTINThat implies we were acquainted atone point.NILESListen, why don't I take Dad's thingsinto his new "bachelor quarters" soyou two scoundrels can plan somehijinx?NILES EXITS WITH THE BAGS DOWN THE HALLWAY TO THE BEDROOM.MARTINI think that wife of his is makinghim nutso.FRASIERYes, we Crane boys sure know how tomarry, don't we? (THEN) Dad, let meget you a beer.FRASIER CROSSES TO THE KITCHEN. MARTIN LOOKS AROUND THE ROOM.FRASIER (CONT'D)So, do you like what I've done withthe place? Every piece was carefullychosen. The lamp, Corbu. The chairby Eames. This sofa is an exactreplica of the one Coco Chanel had inempy line
-her Paris atelier.empy line
-17.(D)empy line
-MARTINNothing matches.empy line
-FRASIERIt's a style of decorating. It'scalled eclectic. The theory behindit is, if you have great pieces offurniture, it doesn't matter if theymatch. They'll go together.empy line
-MARTINIt's your money.empy line
-MARTIN WALKS OVER TO THE WINDOW AND GAZES AT THE SKYLINE.§IXi__IHE_DQQB§ELL_ElE§§-empy line
-FRASIER(INDICATING) That's the Space Needleover there.empy line
-MARTINThank you for pointing that out.Being born and raised here, I neverwould have known that.empy line
-AS NILES RE-ENTERS FROM THE OTHER ROOM, FRASIER CROSSES TO THEDOOR AND OPENS IT. IT'S A DELIVERYMAN.empy line
-DELIVERYMANDelivery for Martin Crane.empy line
-MARTINIn here.empy line
-DELIVERYMANComing through.empy line
-FRASIER STEPS BACK. THE DELIVERYMAN BRINGS IN A BARCALOUNGER.empy line
-1a.(D)empy line
-FRASIERExcuse me, excuse me. Wait a minute.DELIVERYMANWhere do you want it?MARTINWhere's the TV?FRASIER(INDICATING) In that credenza. Why?MARTINPoint it at that thing.DELIVERYMANWhat about this chair?NILESHere. Let me get it out of the way.empy line
-NILES PICKS UP THE CHAIR AND MOVES IT. THE DELIVERYMANREPLACES IT WITH MARTIN'S BARCALOUNGER.empy line
-FRASIERCareful. That's a Wassily. (RE:LOUNGER) Dad, Dad, as dear as I'msure this piece is to you, I don'tthink it quite goes with anythinghere.empy line
-MARTINI know. It's eclectic.empy line
-MARTIN PAYS THE DELIVERYMAN. HE EXITS.empy line
-FRASIERempy line
-Niles, help me out here.empy line
-19.(D)empy line
-NILESI like it.FRASIER GRABS NILES BY THE SHIRT AND PULLS HIM ASIDE.FRASIERI see right through you. You'reagreeing with the old man becauseyou're afraid he might ask to livewith you and Maris.NILES(RE: SHIRT) Please, Frasier, you'rescrunching my Tommy Hilfiger.FRASIERListen, you little twit...MARTINYou're going to have to run anempy line
-extension cord over here so I canempy line
- empy line
-plug in the vibrating part.FRASIER(BEATEN) Yes, yes, that will be thecrowning touch.NILESNow that you two are settled in, I'vegot to run. I'm late for mydysfunctional family seminar.AS HE HEADS FOR THE DOOR:NILES (CONT'D)empy line
-Dad, have you mentioned Eddie yet?empy line
-2o.(D)empy line
-FRASIER TURNS TO MARTIN.FRASIER(PANICKED) Eddie?NILESTa ta.ElL§§_EZlI_~FRASIEROh, Dad, no. Not Eddie.MARTINHe's my best friend. Hand me mybeer.FRASIERBut he's weird. He gives me thecreeps. All he does is stare at me.MARTINIt's your imagination.FRASIERNo, Dad, no. I'm sorry, but I'mputting my foot down. Eddie's Q9;moving in here.empy line
-CUT TO:empy line
-21.empy line
-IF]empy line
-A BLACK SCREEN. IN WHITE LETTERS APPEARS THE WORD, "EDDIE."empy line
-CROSS FADE TO:empy line
-'s - -cempy line
-(Martin, Frasier, Eddie)empy line
-MARTIN IS SITTING IN HIS BARCALOUNGER WATCHING THE CHARLESBRONSON MOVIE. WE PAN OVER TO FRASIER ON HIS COCO COUCH. WECONTINUE THE PAN. SITTING NEXT TO FRASIER IS EDDIE, A SMALLLONG—HAIRED JACK RUSSELL TERRIER. EDDIE STARES AT FRASIER.empy line
-FADE OUT.empy line
-OF A ONempy line
-22.empy line
-ACT TWOempy line
-IIempy line
-FADE IN:empy line
-- - 0(Niles, Frasier, Extras)empy line
-NILES IS THERE, ERASIEB BUSﬂE§ IE.FRASIERempy line
-Oh, Niles, there you are. Sorry I'mlate. Just as I was leaving, Dadstarted a small kitchen fire in theliving room.empy line
-NILESThe living room?empy line
-FRASIERDon't ask. (BEAT) This last weekwith Dad has been a living hell.When I'm there, I feel like myempy line
-(MORE)empy line
-2:.(H)empy line
-FRASIER (CONT’D)territory is being violated and whenI'm away, I worry about what he's upto. My nerves are completely shot.I've got to do something to calmdown. (T0 WAITRESS) Doubleespresso, please. (TO NILES) Youdon't still have the brochures fromthose rest homes, do you?empy line
-NILESOf course I do. You're forgettingMaris is five years older than I am.But do you really think that'snecessary?empy line
-FRASIERYes, I do. I don't have a lifeanymore. Tuesday I gave up mytickets to the theatre. Wednesday,it was the symphony.empy line
-NILESThat reminds me, weren't you going tothe opera on Friday?empy line
-FRASIER TAKES TWO TICKETS OUT OF HIS POCKET.empy line
-FRASIERempy line
-Yes. Here.empy line
-24 .(HYempy line
-NILES _y - ‘i*~Thank you. (moxmc AT TICKETS) Die Fledermaus. (THEN) You know, haveyou ever considered hiring a home >“§;;-empy line
-care worker? Someone who cooks, andempy line
- empy line
-cleans, who can help him with histherapy.empy line
-FRASIER < ~"Look, the last thing I need issomeone else under foot.empy line
-NILESNo, no, someone part-time. That'sthe beauty of it. They'll only bethere when you're not.empy line
-FRASIERThese angels exist?empy line
-NILESempy line
- empy line
-I know an agency in town who has good ‘people. Let me arrange to have themsend a few over to meet you.empy line
-FRASIER _i  *I don't know how to thank you. I'mgoing to have my life again. I'mgoing to have my sanity again. I'mgoing to Die Fledermaus again.empy line
-FRASIER SNAPS THE TICKETS AWAY FROM NILES.empy line
-CUT TO:empy line
-25.empy line
-lC-Aempy line
-A BLACK SCREEN. IN WHITE LETTERS APPEARS "THE HEALTH CAREWORKER."empy line
-FADE IN:empy line
-MONTAGEempy line
-W O S R’ U NG - -(Frasier, Extras)empy line
-A QUICK SEQUENCE OF FRASIER BIDDING FAREWELL TO A NUMBER OFAPPLICANTS WITH PLEASANTRIES SUCH AS "THANK YOU VERY MUCH,""YOU'LL BE HEARING FROM US," "IT'S BEEN A PLEASURE."empy line
-RESET TO:empy line
-T. W - T TE — AY 4(Frasier, Extras)empy line
-ANOTHER APPLICANT. SHE APPEARS ROBUST, KIND, NEATLY DRESSED:THE EPITOME OF COMPETENCE.empy line
-FRASIERI've never been more impressed withany human being in my entire life.empy line
-It has truly been an honor to meet you.empy line
-26.(J)empy line
-FRASIER CLOSES THE DOOR.FRASIER (cowwo) (o.s.)(BLOWING UP) Now what was wrong withthat one?!!THE WOMAN REACTS AND WALKS AWAY.empy line
-RESET TO:empy line
-‘S V G ROO - D -(Frasier, Martin, Eddie, Daphne)empy line
-MARTINempy line
-She was casing the joint.empy line
-FRASIERCasing the joint? She spent twoyears with Mother Teresa.MARTINWell, if I were Mother Teresa, I'dcheck my jewelry box.§§3; lﬂﬁ QQOBBQLL RINGS.FRASIERThis is the last one. Can you atleast try to keep an open mind?MARTINI hate this whole stinking idea.FRASIERempy line
-There, was that so difficult?empy line
-FRASIER OPENS THE DOOR TO REVEAL DAPHNE MOON, AN ENGLISHWORKING CLASS WOMAN IN HER MID TO LATE TWENTIES. AT THISMOMENT, SHE IS REACHING INTO HER BLOUSE AND ADJUSTING HER BRA.empy line
-27.(J)empy line
-DAPHNEOh hello. Caught me with my hand inthe biscuit tin. (EXTENDING HERHAND) I'm Daphne. Daphne Moon.FRASIER(THEY SHAKE) Frasier Crane. Won'tyou come in?DAPHNEThank you.SEE ENTERS.FRASIERThis is my father, Martin Crane.Dad, this is Daphne Moon.THEY EXCHANGE GREETINGS.DAPHNE -(RE: EDDIE) And who would this be?FRASIERThat is Eddie.MARTINI call him Eddie Spaghetti.DAPHNEOh, he likes pasta?MARTINNo, he has worms.FRASIERempy line
-Uh, have a seat, Miss Moon.empy line
-2s.(J)empy line
-DAPHNEDaphne. Thank you. (RE:BARCALOUNGER) Oh, will you look atthat. What a comfy chair. Like Ialways say, start with a good pieceand replace the rest (INDICATINGFRASIER'S FURNITURE) when you canafford it.empy line
-SHE SMILES AT FRASIER. S0 DOES MARTIN.empy line
-FRASIERUh, yes, well, um, Miss Moon, tell usa little bit about yourself.empy line
-DAPHNEWell, I'm originally from Manchester,England.empy line
-FRASIEROh really. Did you hear that, Dad?empy line
-MARTINI'm three feet away. There's nothingwrong with my hearing.empy line
-DAPHNEI've only been in the U.S. for a fewmonths but I have quite an extensivebackground in home care and physicaltherapy, as you can see from myresume. I also...empy line
-SHE LOOKS AT MARTIN.empy line
-29.(J)empy line
-DAPHNE (CONT’D)You were a policeman, weren't you?MARTINYeah. How did you know?DAPHNEI must confess, I'm a bit psychic.Nothing big. Just little things Isense about people. It's not like Ican pick the lottery. If I could, Iwouldn't be talking to the likes ofyou two, now would I?SHE LAUGHS. MARTIN FINDS THAT AMUSING.FRASIERPerhaps I should describe the dutiesaround here. You would beresponsible for...DAPHNE(T0 FRASIER) Wait a minute, I'mgetting something on you. You're aflorist.FRASIERNo, I'm a psychiatrist.DAPHNEWell, it comes and goes. Usuallyit's strongest during my time of themonth. Oh, I guess I let out aempy line
-little secret there, didn't I?empy line
-FRASIERIt's safe with us. (CHECKING WATCH)Well, I think we've learnedeverything we need to know about you.And a dash extra. Thank you verymuch. We'll be in touch.empy line
-DAPHNE(TO MARTIN) You must be very proudof your son the psychiatrist.empy line
-MARTINSons. Two sons. Two shrinks. Theytook after their mother, rest hersoul. She was one too. It was quitea household. I couldn't scratchmyself without being analyzed.empy line
-DAPHNEWe Brits don't believe much inpsychiatry. I mean, isn't that whatfriends are for?empy line
-FRASIERThat's very quaint.empy line
-DAPHNE(TO EDDIE) You're a dog, aren't you?empy line
-FRASIERwell, we'll be calling you, Missempy line
-M001’! .empy line
-3o.(J)empy line
-31.(J)empy line
-MARTINempy line
-Why wait? You're hired.empy line
-DAPHNEOh wonderful!FRASIERExcuse me. Aren't we getting aheadof ourselves, here? I think weshould discuss this. Privately.DAPHNEOh, of course you should. Icompletely understand. I'll just popinto the loo. You do have one, don'tyou?FRASIER(INDICATING) Yes.DAPHNEI love America.DAEHEE QZII .FRASIERempy line
-Dad, what do you think you're doing?empy line
-MARTINYou wanted me to pick one... I pickedone.FRASIERempy line
-But she's a kook. I don't like her.empy line
-32.(J)empy line
-MARTINWhat does it matter? She's onlygoing to be here when you're not.empy line
-FRASIERThen what's my problem? (CALLING)Daphne.empy line
-QABﬂEE_B§:EHI§B§-empy line
-FRASIER (CONT'D)You've been retained.empy line
-DAPHNEOh, wonderful. I had a premonition Iwould. I'll move my things intomorrow.empy line
-FRASIERWait a minute. Move in? There mustbe some misunderstanding. This isn'ta live—in position.empy line
-DAPHNEOh dear. The lady at the agencysaid...empy line
-FRASIERWell, the lady at the agency waswrong. This is a part—time position.What a shame. We were getting alongso well.empy line
-FRASIER STARTS TO USHER HER OUT.empy line
-s3.(J)empy line
-MARTINWait a minute, Frasier. I want totalk about this.FRASIERDad, there's nothing to discuss.DAPHNEI'll just pop back in here and enjoysome more of your African erotic art.DAPHNE HEADS FOR THE BATHROOM.MARTINCheck out the one over the towelrack. You gotta be young to trythat.FRASIERPerhaps it's best if you leave.DAPHNEWell, all right.FRASIERWe'll contact you. If not bytelephone, then through the toaster.SHE EKITS.FRASIERI am not having another person livingin this house.MARTINempy line
-Give me one good reason why.empy line
-FRASIERWell, for one thing there's no roomfor her.empy line
-MARTINWhat about the room across the hallfrom mine?empy line
-FRASIERMy study?! You expect me to give upmy study? Where I read, where I domy most profound thinking?empy line
-MARTINUse the can like the rest of theworld. (THEN) You'll adjust.empy line
-FRASIERI don't want to adjust. I've doneenough adjusting. I'm in a new city,I have a new job, I'm freshlydivorced and now my father and hisdog are living with me. I thinkthat's enough on my plate. The wholeidea of getting someone in here wasto help ease my burden, not to add toit.empy line
-MARTINDid you hear that, Eddie? We're aempy line
-burden.empy line
-34.(J)empy line
-FRASIERDad, you're twisting my words. Imeant burden in its most positivesense.empy line
-MARTINOh, as in "gee what a lovely burden?"empy line
-FRASIERSomething like that, yes.empy line
-MARTINHey, you're not the only one gettingscrewed here. Two years ago I'msailing toward retirement and somepunk robbing a convenience store putsa bullet in my hip. Next thing youempy line
-know, I'm trading my golf clubs infor one of these. (HE HOLDS UP THEWALKER) I had a lot of plans too,you know, and this may come as ashock, Sonny Boy, but one of themwasn't living with you.FRASIERI'm just trying to do the right thinghere, trying to be the good son.MARTINempy line
-Oh, don't worry, after I'm gone, youcan live guilt-free knowing thatempy line
-you've done right by your papa.empy line
-3s.(J)empy line
-3s.(J)empy line
-FRASIERThat's what you think this is allabout, guilt?empy line
-MARTINIsn't it?empy line
-FRASIEROf course it is! But the point is, Idid it. I took you in. And I've gotnews for you... I wanted to do it.Because you're my father. And youknow how you repay me? Ever sinceyou moved in here, it's been a snidecomment about this or a smart littleput—down about that. Well, I've donemy best to make a new home for youhere and once, just once, would ithave killed you to say thank you?One lousy thank you?empy line
-THERE'S A PAUSE.MARTINempy line
-C'mon, Eddie. It's past your dinnerempy line
-time.empy line
-HE AND EDDIE EXIT TO THE KITCHEN. FRASIER ANGRILY §Zll§,SLAMMING THE DOOR BEHIND HIM.empy line
-CUT TO:empy line
-37.empy line
-INempy line
-A BLACK SCREEN. IN WHITE LETTERS APPEARS "LUPE VELEZ."empy line
-FADE IN:empy line
-O STUDIO — T AT — 4(Frasier, Roz, Martin (V.O.), Claire (V.O.))empy line
-gggigg COMES BLASTING LE TO HIS BOOTH.FRASIERThey have got to move the bathroomempy line
-closer to the studio!empy line
-HE FLINGS HIMSELF INTO THE CHAIR AND PUTS ON HIS HEADPHONES.ROZ POINTS TO HIM. HE SPEAKS INTO THE MICROPHONE.empy line
-FRASIER (CONT’D)I'll be right back after theseempy line
-messages.empy line
-HE PUNCHES A BUTTON ON THE CONSOLE.empy line
-FRASIER (CONT’D)(TO ROZ, IRRITATED) Could I perhapsempy line
-put that on tape?empy line
-ROZempy line
-What's eating you?empy line
-FRASIERThis thing with my father and thisperson he wants to hire... I thoughtI was starting my life over with aclean slate. I had this picture ofthe way things were going to be andthen, I don't know...empy line
-ROZEver heard of Lupe Velez?empy line
-FRASIERWho?empy line
-ROZLupe Velez. The movie star in thethirties. The Mexican Spitfire. Hercareer hit the skids so she decidedto take one final stab atimmortality. She figured if shecouldn't be remembered for hermovies, she'd be remembered for theempy line
-(MORE)empy line
-3a.(K)empy line
-ROZ (CONT'D)way she died. And all Lupe wantedwas to be remembered. So she plansthis lavish suicide. Flowers,candles, silk sheets, white satingown, full hair and make-up, theworks. She takes an overdose ofpills, lays on the bed and imagineshow beautiful she's going to look onthe front page of tomorrow'snewspaper. Unfortunately, the pillsdidn't set well with the enchiladacombo plate she sadly chose as herlast meal. She stumbles toward thebathroom, trips and falls head firstinto the toilet. And that's how theyfound her.FRASIERIs there a reason you're telling methis?ROZempy line
-Yeah. Even though things may nothappen like we planned, they can workempy line
-out anyway.empy line
-39.(K)empy line
-4o.(K)empy line
-FRASIERRemind me again how it worked forLupe, last seen with her head in thetoilet?empy line
-ROZAll she wanted was to be remembered.(BEAT) Will you egg; forget thatstory?empy line
-ROZ GOES BACK INTO HER BOOTH, LOOKS AT THE CLOCK AND POINTS ATFRASIER.empy line
-FRASIERWelcome back. Roz, who's our nextcaller?ROZWe have Martin on line one. He'shaving a problem with his son.FRASIERHello, Martin. I'm listening.MARTIN (v.o.)I'm a first time caller.FRASIER STIFFENS.FRASIERWelcome to the program. How can Ihelp you?MARTIN (v.o.)I just moved in with my son and, uh,it ain't working. There's a lot ofempy line
-tension between us.empy line
-FRASIERI can imagine. Why do you thinkthat's so?empy line
-MARTIN (v.o.)I guess maybe I didn't see he had anice new life planned out for himselfand I kind of got in the way.empy line
-FRASIERYou know these things are a two waystreet. Perhaps your son wasn'tsensitive enough to see how ygg; lifewas changing.empy line
-MARTIN (V.O.)You got that right. I've beentelling him that ever since I gotthere.empy line
-FRASIERI'm sure he appreciated your candor.empy line
-MARTIN (v.o.)But maybe sometimes I've got to learnto keep my trap shut.empy line
-FRASIERThat's good advice for us all.empy line
-Anything else?empy line
-41.(K)empy line
-MARTIN (v.o.)empy line
-I'm worried my son doesn't know thatempy line
-I really appreciate what he's doneempy line
-for me.empy line
-FRASIERempy line
-Why don't you tell him?empy line
-MARTIN (v.o.)empy line
-You know how it is with fathers andempy line
-SOUS.empy line
-We always have a hard timeempy line
-saying that stuff.empy line
-Well,empy line
-FRASIERempy line
-if it helps, I suspect your sonempy line
-already knows how you feel.empy line
-THERE IS A PAUSE.empy line
-FRASIER (CONT'D)empy line
-Is that all?empy line
-I guess that's it.empy line
-Crane.empy line
-MARTIN (V.O.)empy line
-Thank you, Doctorempy line
-FRASIERempy line
-My pleasure, Martin.empy line
-Did you hear what I said?empy line
-MARTIN (v.o.)empy line
-I said,empy line
-thank you.empy line
-Yes,empy line
-MARTIN HANGS UP.ANYTHING.empy line
-FRASIERempy line
-I heard.empy line
-FRASIER JUST SITS THERE WITHOUT SAYINGempy line
-ROZ INTERRUPTS.empy line
-42.(K)empy line
-43.(K)empy line
-ROZUh, Doctor Crane? We have Claire online four. She's having troublegetting over a break up.empy line
-FRASIERHello, Claire. I'm listening.empy line
-CLAIRE (V.O.)I'm, uh, well, I'm a mess. Eightmonths ago, my boyfriend and I brokeup and I can't get over it. The painisn't going away. It's almost likeI'm in mourning.empy line
-FRASIERClaire, you ggg in mourning. Butyou're not mourning the loss of yourboyfriend...empy line
-AS FRASIER CONTINUES THE CALL, WE:CROSS FADE TO:empy line
-47F:-empy line
-It“empy line
-S ‘S V G ROOM — LA T AT NIG - NI(Frasier, Martin, Eddie, Daphne)empy line
-WE PAN ACROSS THE APARTMENT TO SEE FRASIER AND HIS NEW"FAMILY" WATCHING TV. MARTIN IS SITTING IN HIS BARCALOUNGER.EDDIE, FRASIER AND DAPHNE ARE SITTING ON THE COUCH.FRASIER (v.o.)empy line
-You're mourning what you thought yourempy line
-life was going to be. Let it go.empy line
-Things don't always happen how youempy line
-plan. It's not necessarily bad. Itempy line
-doesn't mean things won't work outempy line
-anyway.EDDIE PUTS ONE PAW ON FRASIER'S LEG.empy line
-FRASIER (CONT'D) (V.O.)Have you ever heard of Lupe Velez?empy line
-FADE OUT.empy line
-END OF ACT TWOempy line
-empy line
-0 1 
-2 
-3 
-4 
-5 
-6 7 8 
-9 
-10 11 
-12 
-13 
-14 15 
-16 17 
-18 19 
-20 
-21 
-22 23 
-24 
-25 
-26 27 
-28 
-29 
-30 
-31 
-32 
-33 
-34 
-35 
-36 
-37 
-38 
-39 
-40 
-41 
-42 
-43 
-44 
-45 
-46 
-47 
-48 
-49 
-50 
-51 
-52 
-53 
-54 
-55 
-56 
-57 58 
-59 
-60 
-61 62 
-63 
-64 
-65 
-66 
-67 
-68 
-69 
-70 
-71 
-72 
-73 
-74 
-75 
-76 
-77 
-78 
-79 
-80 
-81 82 
-83 
-84 85 
-86 87 
-88 
-89 90 
-91 92 
-93 
-94 95 
-96 97 
-98 99 
-100 101 
-102 103 
-104 
-105 
-106 107 
-108 
-109 110 111 
-112 113 
-114 
-115 116 
-117 118 119 
-120 
-121 
-122 123 
-124 
-125 
-126 
-127 
-128 
-129 130 
-131 
-132 
-133 134 
-135 136 
-137 
-138 
-139 
-140 141 
-142 
-143 
-144 145 
-146 
-147 
-148 149 150 151 
-152 
-153 
-154 155 156 
-157 158 
-159 
-160 
-161 
-162 163 
-164 165 
-166 
-167 
-168 
-169 170 
-171 
-172 
-173 
-174 
-175 176 
-177 
-178 
-179 180 
-181 
-182 
-183 
-184 185 
-186 
-187 
-188 
-189 
-190 
-191 192 
-193 194 
-195 
-196 
-197 
-198 
-199 
-200 
-201 
-202 
-203 
-204 
-205 
-206 207 208 209 
-210 
-211 
-212 
-213 
-214 215 216 
-217 
-218 
-219 
-220 
-221 
-222 
-223 
-224 
-225 
-226 227 228 
-229 230 
-231 
-232 
-233 234 
-235 
-236 237 
-238 
-239 
-240 
-241 
-242 
-243 
-244 
-245 
-246 
-247 
-248 
-249 
-250 
-251 252 253 254 255 
-256 257 
-258 259 
-260 
-261 
-262 
-263 
-264 265 
-266 267 
-268 
-269 
-270 
-271 
-272 273 274 275 
-276 
-277 278 279 
-280 281 282 
-283 284 
-285 286 
-287 288 
-289 
-290 291 292 293 294 
-295 
-296 
-297 
-298 
-299 
-300 301 302 303 304 
-305 306 307 308 309 310 311 
-312 313 314 315 316 317 318 319 
-320 321 322 323 324 
-325 326 327 328 
-329 
-330 
-331 
-332 
-333 
-334 
-335 
-336 
-337 
-338 339 
-340 341 
-342 
-343 
-344 
-345 
-346 347 348 349 350 351 352 
-353 
-354 
-355 356 357 
-358 
-359 360 361 362 
-363 
-364 
-365 
-366 367 368 
-369 
-370 
-371 
-372 373 
-374 
-375 376 377 378 379 380 381 382 
-383 
-384 
-385 
-386 
-387 
-388 
-389 
-390 
-391 
-392 
-393 394 395 
-396 397 
-398 
-399 
-400 
-401 402 
-403 
-404 
-405 
-406 
-407 
-408 
-409 
-410 
-411 412 413 
-414 
-415 
-416 
-417 
-418 
-419 
-420 
-421 
-422 423 
-424 
-425 
-426 
-427 
-428 
-429 430 431 432 433 434 435 
-436 437 438 
-439 
-440 441 442 
-443 444 
-445 446 447 
-448 449 
-450 451 
-452 
-453 454 
-455 456 
-457 458 
-459 
-460 
-461 462 
-463 464 
-465 466 467 468 
-469 
-470 
-471 
-472 473 
-474 
-475 
-476 
-477 
-478 
-479 
-480 481 
-482 
-483 484 485 
-486 
-487 
-488 489 490 491 
-492 493 
-494 
-495 
-496 
-497 
-498 499 
-500 501 502 
-503 
-504 505 506 507 
-508 509 
-510 
-511 512 513 514 
-515 516 
-517 518 
-519 520 
-521 
-522 523 
-524 525 
-526 
-527 
-528 
-529 
-530 531 
-532 533 534 535 536 
-537 
-538 
-539 
-540 541 542 
-543 544 
-545 
-546 
-547 548 549 550 551 552 553 
-554 555 556 
-557 
-558 559 
-560 
-561 
-562 563 
-564 565 
-566 
-567 
-568 
-569 570 
-571 572 
-573 
-574 
-575 
-576 
-577 578 
-579 
-580 
-581 582 583 
-584 585 
-586 587 
-588 
-589 
-590 
-591 
-592 593 
-594 595 
-596 597 
-598 599 
-600 601 
-602 
-603 
-604 605 
-606 607 
-608 
-609 610 
-611 612 
-613 
-614 
-615 
-616 
-617 
-618 619 
-620 
-621 622 
-623 
-624 
-625 
-626 
-627 
-628 
-629 
-630 
-631 
-632 
-633 
-634 
-635 
-636 
-637 
-638 
-639 640 
-641 
-642 
-643 
-644 
-645 
-646 
-647 
-648 
-649 
-650 
-651 
-652 
-653 654 
-655 
-656 
-657 
-658 659 
-660 661 
-662 
-663 
-664 
-665 
-666 667 
-668 669 670 
-671 
-672 
-673 674 
-675 
-676 
-677 
-678 
-679 680 681 
-682 683 
-684 685 686 687 
-688 689 690 691 692 693 694 
-695 
-696 
-697 698 
-699 
-700 
-701 
-702 
-703 
-704 705 
-706 707 708 
-709 710 711 712 713 
-714 
-715 
-716 717 
-718 719 720 721 
-722 
-723 724 725 726 727 728 
-729 730 
-731 
-732 
-733 
-734 
-735 736 
-737 
-738 739 740 741 742 743 
-744 
-745 746 
-747 
-748 749 
-750 
-751 
-752 753 
-754 
-755 756 757 758 
-759 
-760 
-761 
-762 
-763 764 
-765 
-766 767 
-768 
-769 770 
-771 
-772 
-773 774 
-775 
-776 
-777 778 
-779 780 
-781 782 
-783 
-784 
-785 786 
-787 788 
-789 790 
-791 
-792 
-793 
-794 
-795 796 
-797 798 799 800 
-801 
-802 
-803 
-804 
-805 
-806 
-807 
-808 809 
-810 
-811 
-812 
-813 
-814 
-815 
-816 
-817 
-818 819 820 821 
-822 
-823 824 
-825 826 
-827 828 
-829 830 
-831 
-832 
-833 834 
-835 
-836 837 
-838 839 840 841 
-842 
-843 
-844 845 
-846 847 
-848 
-849 
-850 
-851 
-852 
-853 854 855 
-856 857 
-858 859 860 
-861 862 863 
-864 865 
-866 867 868 869 
-870 
-871 
-872 
-873 
-874 
-875 
-876 
-877 
-878 
-879 
-880 881 
-882 883 
-884 
-885 
-886 
-887 
-888 
-889 
-890 
-891 
-892 
-893 
-894 
-895 
-896 
-897 
-898 
-899 
-900 
-901 
-902 903 
-904 
-905 
-906 
-907 908 909 910 911 
-912 
-913 914 
-915 
-916 917 918 919 
-920 
-921 
-922 
-923 
-924 
-925 
-926 927 
-928 929 
-930 931 932 933 934 
-935 
-936 937 938 939 940 
-941 
-942 943 944 945 946 
-947 
-948 949 950 
-951 
-952 
-953 
-954 
-955 956 
-957 
-958 
-959 
-960 
-961 962 963 964 
-965 966 
-967 
-968 
-969 970 971 
-972 
-973 974 975 
-976 
-977 978 979 980 
-981 
-982 983 
-984 
-985 
-986 
-987 
-988 
-989 990 991 
-992 
-993 
-994 995 996 997 
-998 
-999 
-1000 
-1001 
-1002 
-1003 
-1004 1005 
-1006 
-1007 
-1008 
-1009 
-1010 
-1011 
-1012 
-1013 
-1014 1015 
-1016 
-1017 
-1018 
-1019 
-1020 
-1021 
-1022 
-1023 1024 
-1025 
-1026 
-1027 
-1028 
-1029 
-1030 1031 
-1032 1033 
-1034 
-1035 
-1036 
-1037 
-1038 
-1039 
-1040 1041 
-1042 
-1043 
-1044 
-1045 
-1046 1047 
-1048 
-1049 
-1050 1051 
-1052 
-1053 1054 1055 
-1056 1057 1058 
-1059 
-1060 1061 1062 
-1063 
-1064 
-1065 
-1066 1067 
-1068 
-1069 
-1070 
-1071 
-1072 
-1073 
-1074 
-1075 
-1076 1077 1078 
-1079 
-1080 
-1081 1082 
-1083 1084 
-1085 
-1086 1087 1088 
-1089 
-1090 
-1091 
-1092 1093 
-1094 
-1095 
-1096 1097 
-1098 1099 
-1100 
-1101 1102 
-1103 1104 
-1105 
-1106 
-1107 1108 
-1109 1110 1111 1112 
-1113 1114 
-1115 
-1116 
-1117 
-1118 1119 1120 
-1121 
-1122 1123 1124 
-1125 
-1126 1127 
-1128 
-1129 
-1130 1131 
-1132 
-1133 
-1134 1135 1136 1137 1138 
-1139 
-1140 
-1141 
-1142 
-1143 
-1144 
-1145 1146 
-1147 1148 
-1149 
-1150 1151 1152 1153 1154 1155 
-1156 
-1157 1158 1159 1160 
-1161 
-1162 1163 1164 
-1165 1166 
-1167 1168 1169 1170 
-1171 1172 
-1173 
-1174 1175 1176 1177 1178 1179 
-1180 
-1181 
-1182 1183 
-1184 
-1185 1186 1187 1188 1189 1190 
-1191 
-1192 1193 1194 1195 
-1196 
-1197 1198 
-1199 
-1200 
-1201 
-1202 
-1203 1204 
-1205 
-1206 
-1207 1208 
-1209 
-1210 
-1211 
-1212 
-1213 
-1214 
-1215 1216 
-1217 
-1218 1219 
-1220 1221 1222 1223 
-1224 1225 1226 1227 1228 
-1229 
-1230 
-1231 
-1232 
-1233 
-1234 
-1235 1236 
-1237 
-1238 1239 1240 
-1241 
-1242 1243 
-1244 
-1245 
-1246 
-1247 
-1248 1249 1250 
-1251 
-1252 1253 1254 
-1255 
-1256 
-1257 
-1258 1259 
-1260 
-1261 1262 1263 1264 
-1265 
-1266 1267 1268 1269 
-1270 
-1271 1272 1273 
-1274 
-1275 1276 1277 1278 1279 
-1280 
-1281 
-1282 1283 
-1284 
-1285 
-1286 1287 1288 
-1289 1290 
-1291 
-1292 1293 
-1294 
-1295 1296 1297 1298 
-1299 1300 
-1301 1302 
-1303 1304 1305 
-1306 
-1307 
-1308 1309 
-1310 
-1311 1312 
-1313 
-1314 1315 1316 
-1317 
-1318 1319 1320 
-1321 
-1322 1323 1324 1325 
-1326 
-1327 1328 1329 
-1330 
-1331 
-1332 1333 
-1334 1335 1336 1337 1338 1339 1340 
-1341 
-1342 1343 
-1344 1345 
-1346 
-1347 
-1348 
-1349 
-1350 1351 1352 1353 
-1354 
-1355 1356 
-1357 
-1358 1359 
-1360 
-1361 1362 1363 1364 1365 1366 
-1367 1368 1369 
-1370 1371 1372 1373 
-1374 
-1375 1376 
-1377 
-1378 1379 1380 
-1381 1382 
-1383 1384 
-1385 
-1386 1387 
-1388 
-1389 
-1390 1391 1392 
-1393 
-1394 1395 
-1396 
-1397 1398 1399 1400 1401 1402 1403 1404 1405 1406 1407 1408 1409 
-1410 
-1411 
-1412 
-1413 
-1414 
-1415 1416 
-1417 
-1418 
-1419 
-1420 
-1421 
-1422 
-1423 
-1424 
-1425 
-1426 
-1427 
-1428 
-1429 
-1430 
-1431 1432 
-1433 1434 
-1435 1436 
-1437 1438 
-1439 
-1440 
-1441 
-1442 
-1443 
-1444 
-1445 1446 
-1447 
-1448 
-1449 
-1450 
-1451 
-1452 1453 
-1454 
-1455 
-1456 1457 
-1458 
-1459 1460 1461 
-1462 1463 1464 1465 
-1466 
-1467 1468 
-1469 
-1470 1471 
-1472 
-1473 1474 1475 1476 1477 1478 1479 1480 
-1481 
-1482 
-1483 1484 
-1485 
-1486 
-1487 1488 1489 1490 1491 1492 1493 1494 1495 1496 1497 1498 1499 1500 1501 1502 1503 
-1504 1505 1506 
-1507 
-1508 1509 1510 
-1511 1512 
-1513 
-1514 
-1515 
-1516 1517 
-1518 
-1519 
-1520 1521 1522 1523 
-1524 
-1525 1526 
-1527 1528 
-1529 
-1530 
-1531 
-1532 
-1533 1534 1535 
-1536 1537 1538 
-1539 1540 
-1541 
-1542 
-1543 
-1544 1545 1546 
-1547 
-1548 1549 
-1550 1551 
-1552 
-1553 
-1554 1555 
-1556 
-1557 
-1558 1559 1560 
-1561 
-1562 1563 1564 1565 1566 
-1567 
-1568 1569 1570 1571 
-1572 
-1573 
-1574 
-1575 
-1576 1577 1578 
-1579 
-1580 1581 
-1582 1583 
-1584 
-1585 
-1586 
-1587 
-1588 
-1589 
-1590 
-1591 
-1592 
-1593 1594 
-1595 
-1596 
-1597 1598 
-1599 
-1600 
-1601 1602 
-1603 
-1604 
-1605 1606 
-1607 1608 
-1609 1610 
-1611 
-1612 
-1613 1614 
-1615 1616 
-1617 
-1618 
-1619 
-1620 
-1621 1622 
-1623 
-1624 
-1625 1626 
-1627 
-1628 
-1629 1630 
-1631 
-1632 
-1633 1634 
-1635 1636 
-1637 
-1638 
-1639 
-1640 
-1641 1642 
-1643 1644 
-1645 
-1646 
-1647 
-1648 
-1649 
-1650 
-1651 
-1652 
-1653 
-1654 
-1655 
-1656 
-1657 
-1658 
-1659 
-1660 
-1661 
-1662 
-1663 1664 1665 1666 
-1667 
-1668 1669 
-1670 
-1671 
-1672 1673 1674 1675 
-1676 
-1677 
-1678 1679 1680 1681 
-1682 
-1683 
-1684 
-1685 
-1686 
-1687 1688 
-1689 
-1690 1691 
-1692 
-1693 
-1694 
-1695 
-1696 
-1697 1698 
-1699 1700 
-1701 1702 
-1703 1704 
-1705 1706 
-1707 1708 
-1709 
-1710 
-1711 1712 
-1713 
-1714 
-1715 
-1716 
-1717 
-1718 
-computing mathcing limits for each sentence ...
-Starting forward pass ... 
-(0,318): 0,2677 *********************************** 
-(1,318): 4,2691 *********************************** 
-(2,318): 18,2701 *********************************** 
-(3,318): 28,2706 *********************************** 
-(4,318): 33,2713 *********************************** 
-(5,318): 40,2722 *********************************** 
-(6,318): 49,2732 *********************************** 
-(7,318): 59,2742 *********************************** 
-(8,318): 69,2753 *********************************** 
-(9,318): 80,2763 *********************************** 
-(10,318): 90,2771 *********************************** 
-(11,318): 98,2783 *********************************** 
-(12,318): 110,2791 *********************************** 
-(13,318): 118,2800 *********************************** 
-(14,318): 127,2809 *********************************** 
-(15,318): 136,2818 *********************************** 
-(16,318): 145,2830 *********************************** 
-(17,318): 157,2840 *********************************** 
-(18,318): 167,2848 *********************************** 
-(19,318): 175,2862 *********************************** 
-(20,318): 189,2864 *********************************** 
-(21,318): 191,2872 *********************************** 
-(22,318): 199,2884 *********************************** 
-(23,318): 211,2889 *********************************** 
-(24,318): 216,2891 *********************************** 
-(25,318): 218,2897 *********************************** 
-(26,318): 224,2906 *********************************** 
-(27,318): 233,2911 *********************************** 
-(28,318): 238,2917 *********************************** 
-(29,318): 244,2927 *********************************** 
-(30,318): 254,2943 *********************************** 
-(31,318): 270,2946 *********************************** 
-(32,318): 273,2960 *********************************** 
-(33,318): 287,2969 *********************************** 
-(34,318): 296,2976 *********************************** 
-(35,318): 303,2984 *********************************** 
-(36,318): 311,2997 *********************************** 
-(37,318): 324,3007 *********************************** 
-(38,318): 334,3019 *********************************** 
-(39,318): 346,3024 *********************************** 
-(40,318): 351,3038 *********************************** 
-(41,318): 365,3050 *********************************** 
-(42,318): 377,3055 *********************************** 
-(43,318): 382,3066 *********************************** 
-(44,318): 393,3072 *********************************** 
-(45,318): 399,3083 *********************************** 
-(46,318): 410,3089 *********************************** 
-(47,318): 416,3099 *********************************** 
-(48,318): 426,3105 *********************************** 
-(49,318): 432,3114 *********************************** 
-(50,318): 441,3122 *********************************** 
-(51,318): 449,3132 *********************************** 
-(52,318): 459,3140 *********************************** 
-(53,318): 467,3152 *********************************** 
-(54,318): 479,3157 *********************************** 
-(55,318): 484,3163 *********************************** 
-(56,318): 490,3166 *********************************** 
-(57,318): 493,3175 *********************************** 
-(58,318): 502,3183 *********************************** 
-(59,318): 510,3192 *********************************** 
-(60,318): 519,3207 *********************************** 
-(61,318): 534,3213 *********************************** 
-(62,318): 540,3220 *********************************** 
-(63,318): 547,3225 *********************************** 
-(64,318): 552,3235 *********************************** 
-(65,318): 562,3242 *********************************** 
-(66,318): 569,3254 *********************************** 
-(67,318): 581,3260 *********************************** 
-(68,318): 587,3274 *********************************** 
-(69,318): 601,3278 *********************************** 
-(70,318): 605,3286 *********************************** 
-(71,318): 613,3300 *********************************** 
-(72,318): 627,3308 *********************************** 
-(73,318): 635,3322 *********************************** 
-(74,318): 649,3322 *********************************** 
-(75,318): 649,3331 *********************************** 
-(76,318): 658,3336 *********************************** 
-(77,318): 663,3345 *********************************** 
-(78,318): 672,3351 *********************************** 
-(79,318): 678,3359 *********************************** 
-(80,318): 686,3372 *********************************** 
-(81,318): 699,3376 *********************************** 
-(82,318): 703,3387 *********************************** 
-(83,318): 714,3397 *********************************** 
-(84,318): 724,3404 *********************************** 
-(85,318): 731,3412 *********************************** 
-(86,318): 739,3425 *********************************** 
-(87,318): 752,3431 *********************************** 
-(88,318): 758,3439 *********************************** 
-(89,318): 766,3447 *********************************** 
-(90,318): 774,3450 *********************************** 
-(91,318): 777,3451 *********************************** 
-(92,318): 778,3456 *********************************** 
-(93,318): 783,3462 *********************************** 
-(94,318): 789,3466 *********************************** 
-(95,318): 793,3475 *********************************** 
-(96,318): 802,3482 *********************************** 
-(97,318): 809,3492 *********************************** 
-(98,318): 819,3501 *********************************** 
-(99,318): 828,3504 *********************************** 
-(100,318): 831,3514 *********************************** 
-(101,318): 841,3528 *********************************** 
-(102,318): 855,3538 *********************************** 
-(103,318): 865,3554 *********************************** 
-(104,318): 881,3556 *********************************** 
-(105,318): 883,3563 *********************************** 
-(106,318): 890,3571 *********************************** 
-(107,318): 898,3584 *********************************** 
-(108,318): 911,3592 *********************************** 
-(109,318): 919,3600 *********************************** 
-(110,318): 927,3609 *********************************** 
-(111,318): 936,3616 *********************************** 
-(112,318): 943,3628 *********************************** 
-(113,318): 955,3640 *********************************** 
-(114,318): 967,3655 *********************************** 
-(115,318): 982,3666 *********************************** 
-(116,318): 993,3675 *********************************** 
-(117,318): 1002,3686 *********************************** 
-(118,318): 1013,3690 *********************************** 
-(119,318): 1017,3691 *********************************** 
-(120,318): 1018,3698 *********************************** 
-(121,318): 1025,3712 *********************************** 
-(122,318): 1039,3718 *********************************** 
-(123,318): 1045,3723 *********************************** 
-(124,318): 1050,3732 *********************************** 
-(125,318): 1059,3739 *********************************** 
-(126,318): 1066,3747 *********************************** 
-(127,318): 1074,3752 *********************************** 
-(128,318): 1079,3762 *********************************** 
-(129,318): 1089,3772 *********************************** 
-(130,318): 1099,3777 *********************************** 
-(131,318): 1104,3784 *********************************** 
-(132,318): 1111,3795 *********************************** 
-(133,318): 1122,3802 *********************************** 
-(134,318): 1129,3812 *********************************** 
-(135,318): 1139,3820 *********************************** 
-(136,318): 1147,3826 *********************************** 
-(137,318): 1153,3829 *********************************** 
-(138,318): 1156,3841 *********************************** 
-(139,318): 1168,3856 *********************************** 
-(140,318): 1183,3860 *********************************** 
-(141,318): 1187,3876 *********************************** 
-(142,318): 1203,3880 *********************************** 
-(143,318): 1207,3884 *********************************** 
-(144,318): 1211,3889 *********************************** 
-(145,318): 1216,3906 *********************************** 
-(146,318): 1233,3917 *********************************** 
-(147,318): 1244,3932 *********************************** 
-(148,318): 1259,3944 *********************************** 
-(149,318): 1271,3958 *********************************** 
-(150,318): 1285,3973 *********************************** 
-(151,318): 1300,3979 *********************************** 
-(152,318): 1306,3988 *********************************** 
-(153,318): 1315,3999 *********************************** 
-(154,318): 1326,4003 *********************************** 
-(155,318): 1330,4006 *********************************** 
-(156,318): 1333,4019 *********************************** 
-(157,318): 1346,4031 *********************************** 
-(158,318): 1358,4041 *********************************** 
-(159,318): 1368,4051 *********************************** 
-(160,318): 1378,4062 *********************************** 
-(161,318): 1389,4065 *********************************** 
-(162,318): 1392,4079 *********************************** 
-(163,318): 1406,4093 *********************************** 
-(164,318): 1420,4106 *********************************** 
-(165,318): 1433,4108 *********************************** 
-(166,318): 1435,4121 *********************************** 
-(167,318): 1448,4132 *********************************** 
-(168,318): 1459,4142 *********************************** 
-(169,318): 1469,4153 *********************************** 
-(170,318): 1480,4154 *********************************** 
-(171,318): 1481,4165 *********************************** 
-(172,318): 1492,4176 *********************************** 
-(173,318): 1503,4186 *********************************** 
-(174,318): 1513,4195 *********************************** 
-(175,318): 1522,4205 *********************************** 
-(176,318): 1532,4208 *********************************** 
-(177,318): 1535,4216 *********************************** 
-(178,318): 1543,4220 *********************************** 
-(179,318): 1547,4228 *********************************** 
-(180,318): 1555,4240 *********************************** 
-(181,318): 1567,4254 *********************************** 
-(182,318): 1581,4263 *********************************** 
-(183,318): 1590,4274 *********************************** 
-(184,318): 1601,4286 *********************************** 
-(185,318): 1613,4297 *********************************** 
-(186,318): 1624,4309 *********************************** 
-(187,318): 1636,4316 *********************************** 
-(188,318): 1643,4323 *********************************** 
-(189,318): 1650,4336 *********************************** 
-(190,318): 1663,4347 *********************************** 
-(191,318): 1674,4356 *********************************** 
-(192,318): 1683,4373 *********************************** 
-(193,318): 1700,4380 *********************************** 
-(194,318): 1707,4391 *********************************** 
-(195,318): 1718,4401 *********************************** 
-(196,318): 1728,4411 *********************************** 
-(197,318): 1738,4420 *********************************** 
-(198,318): 1747,4425 *********************************** 
-(199,318): 1752,4439 *********************************** 
-(200,318): 1766,4446 *********************************** 
-(201,318): 1773,4454 *********************************** 
-(202,318): 1781,4459 *********************************** 
-(203,318): 1786,4472 *********************************** 
-(204,318): 1799,4484 *********************************** 
-(205,318): 1811,4492 *********************************** 
-(206,318): 1819,4496 *********************************** 
-(207,318): 1823,4503 *********************************** 
-(208,318): 1830,4521 *********************************** 
-(209,318): 1848,4526 *********************************** 
-(210,318): 1853,4527 *********************************** 
-(211,318): 1854,4537 *********************************** 
-(212,318): 1864,4539 *********************************** 
-(213,318): 1866,4546 *********************************** 
-(214,318): 1873,4558 *********************************** 
-(215,318): 1885,4563 *********************************** 
-(216,318): 1890,4577 *********************************** 
-(217,318): 1904,4587 *********************************** 
-(218,318): 1914,4599 *********************************** 
-(219,318): 1926,4605 *********************************** 
-(220,318): 1932,4617 *********************************** 
-(221,318): 1944,4629 *********************************** 
-(222,318): 1956,4638 *********************************** 
-(223,318): 1965,4648 *********************************** 
-(224,318): 1975,4660 *********************************** 
-(225,318): 1987,4669 *********************************** 
-(226,318): 1996,4672 *********************************** 
-(227,318): 1999,4689 *********************************** 
-(228,318): 2016,4696 *********************************** 
-(229,318): 2023,4707 *********************************** 
-(230,318): 2034,4715 *********************************** 
-(231,318): 2042,4726 *********************************** 
-(232,318): 2053,4736 *********************************** 
-(233,318): 2063,4744 *********************************** 
-(234,318): 2071,4751 *********************************** 
-(235,318): 2078,4762 *********************************** 
-(236,318): 2089,4776 *********************************** 
-(237,318): 2103,4786 *********************************** 
-(238,318): 2113,4804 *********************************** 
-(239,318): 2131,4816 *********************************** 
-(240,318): 2143,4831 *********************************** 
-(241,318): 2158,4843 *********************************** 
-(242,318): 2170,4853 *********************************** 
-(243,318): 2180,4859 *********************************** 
-(244,318): 2186,4872 *********************************** 
-(245,318): 2199,4884 *********************************** 
-(246,318): 2211,4897 *********************************** 
-(247,318): 2224,4906 *********************************** 
-(248,318): 2233,4910 *********************************** 
-(249,318): 2237,4921 *********************************** 
-(250,318): 2248,4935 *********************************** 
-(251,318): 2262,4939 *********************************** 
-(252,318): 2266,4954 *********************************** 
-(253,318): 2281,4965 *********************************** 
-(254,318): 2292,4983 *********************************** 
-(255,318): 2310,4988 *********************************** 
-(256,318): 2315,4997 *********************************** 
-(257,318): 2324,5012 *********************************** 
-(258,318): 2339,5025 *********************************** 
-(259,318): 2352,5032 *********************************** 
-(260,318): 2359,5038 *********************************** 
-(261,318): 2365,5050 *********************************** 
-(262,318): 2377,5060 *********************************** 
-(263,318): 2387,5072 *********************************** 
-(264,318): 2399,5084 *********************************** 
-(265,318): 2411,5091 *********************************** 
-(266,318): 2418,5096 *********************************** 
-(267,318): 2423,5108 *********************************** 
-(268,318): 2435,5118 *********************************** 
-(269,318): 2445,5133 *********************************** 
-(270,318): 2460,5149 *********************************** 
-(271,318): 2476,5162 *********************************** 
-(272,318): 2489,5171 *********************************** 
-(273,318): 2498,5185 *********************************** 
-(274,318): 2512,5195 *********************************** 
-(275,318): 2522,5203 *********************************** 
-(276,318): 2530,5212 *********************************** 
-(277,318): 2539,5223 *********************************** 
-(278,318): 2550,5231 *********************************** 
-(279,318): 2558,5241 *********************************** 
-(280,318): 2568,5256 *********************************** 
-(281,318): 2583,5263 *********************************** 
-(282,318): 2590,5270 *********************************** 
-(283,318): 2597,5283 *********************************** 
-(284,318): 2610,5299 *********************************** 
-(285,318): 2626,5306 *********************************** 
-(286,318): 2633,5313 *********************************** 
-(287,318): 2640,5320 *********************************** 
-(288,318): 2647,5322 *********************************** 
-(289,318): 2649,5339 *********************************** 
-(290,318): 2666,5345 *********************************** 
-(291,318): 2672,5354 *********************************** 
-(292,318): 2681,5360 *********************************** 
-(293,318): 2687,5373 *********************************** 
-(294,318): 2700,5381 *********************************** 
-(295,318): 2708,5391 *********************************** 
-(296,318): 2718,5394 *********************************** 
-(297,318): 2721,5408 *********************************** 
-(298,318): 2735,5413 *********************************** 
-(299,318): 2740,5416 *********************************** 
-(300,318): 2743,5422 *********************************** 
-(301,318): 2749,5438 *********************************** 
-(302,318): 2765,5453 *********************************** 
-(303,318): 2780,5458 *********************************** 
-(304,318): 2785,5468 *********************************** 
-(305,318): 2795,5483 *********************************** 
-(306,318): 2810,5495 *********************************** 
-(307,318): 2822,5500 *********************************** 
-(308,318): 2827,5508 *********************************** 
-(309,318): 2835,5515 *********************************** 
-(310,318): 2842,5528 *********************************** 
-(311,318): 2855,5530 *********************************** 
-(312,318): 2857,5539 *********************************** 
-(313,318): 2866,5544 *********************************** 
-(314,318): 2871,5559 *********************************** 
-(315,318): 2886,5563 *********************************** 
-(316,318): 2890,5569 *********************************** 
-(317,318): 2896,5569 *********************************** 
-Starting backward pass
-Best Score: 254.019
-0, 697 ... 700 score = 1 
-" listen to yourself bob " matched to " listen to yourself bob "
-1, 701 ... 714 score = 1 
-" you follow her to work you eavesdrop on her calls you open her mail " matched to " you follow her to work you eavesdrop on her calls you open her mail "
-2, 716 ... 725 score = 0.892 
-" when you started doing these things the relationship was over " matched to " minute you started doing those things the relationship was over "
-3, 726 ... 730 score = 1 
-" thank you for your call " matched to " thank you for your call "
-4, 742 ... 748 score = 0.914286 
-" roz we have time for one more " matched to " do we have time for one more "
-5, 764 ... 774 score = 0.900248 
-" yes on line four we have russell from kirkland " matched to " yes dr crane on line four we have russell from kirkland "
-6, 790 ... 799 score = 0.785714 
-" hello russell this is dr frasier crane i m listening " matched to " phone frasier this is doctor frasier crane i m listening "
-7, 804 ... 813 score = 1 
-" i ve been feeling sort of you know depressed lately " matched to " i ve been feeling sort of you know depressed lately "
-8, 838 ... 848 score = 0.918182 
-" my life s not going anywhere it s not that bad " matched to " my life s not going anywhere it s not that it "
-9, 851 ... 862 score = 0.830248 
-" it s just same old apartment same old job sometimes " matched to " it s just the same old apartment the same old job the "
-10, 891 ... 898 score = 0.903571 
-" we re at the end of our hour " matched to " we re nearing the end of our hour "
-11, 903 ... 914 score = 0.925 
-" i ll cut to the chase by using myself as an example " matched to " i can cut to the chase by using myself as an example "
-12, 915 ... 922 score = 1 
-" six months ago i was living in boston " matched to " six months ago i was living in boston "
-13, 923 ... 931 score = 1 
-" my wife had left me which was very painful " matched to " my wife had left me which was very painful "
-14, 932 ... 940 score = 0.525 
-" then she came back to me which was excruciating " matched to " then she came back which was excruciating i thought "
-15, 970 ... 978 score = 1 
-" on top of that my practice had grown stagnant " matched to " on top of that my practice had grown stagnant "
-16, 979 ... 984 score = 0.9 
-" and my social life consisted of hanging around a bar every night " matched to " and my social life consisted of "
-17, 995 ... 1004 score = 1 
-" i was clinging to a life that wasn t working " matched to " i was clinging to a life that wasn t working "
-18, 1006 ... 1013 score = 1 
-" i knew i had to do something anything " matched to " i knew i had to do something anything "
-19, 1020 ... 1026 score = 0.9 
-" so i ended the marriage and moved back here to my hometown of seattle " matched to " the marriage and moved back here to "
-20, 1031 ... 1032 score = 1 
-" go seahawks " matched to " go seahawks "
-21, 1033 ... 1040 score = 1 
-" i took action russell and you can too " matched to " i took action russell and you can too "
-22, 1041 ... 1052 score = 1 
-" move change do something if it s a mistake do something else " matched to " move change do something if it s a mistake do something else "
-23, 1053 ... 1057 score = 1 
-" will you do that russell " matched to " will you do that russell "
-24, 1058 ... 1059 score = 1 
-" will you " matched to " will you "
-25, 1063 ... 1068 score = 0.871429 
-" russell i think we lost him " matched to " roz i think we lost him "
-26, 1074 ... 1083 score = 0.804979 
-" no we cut to the news 30 seconds ago " matched to " no we cut to the news about thirty seconds ago "
-27, 1099 ... 1103 score = 1 
-" oh for crying out loud " matched to " oh for crying out loud "
-28, 1104 ... 1110 score = 0.797836 
-" i bare my soul to seattle " matched to " i finally bare my soul to all "
-29, 1114 ... 1123 score = 1 
-" they re listening to chopper dave s rush hour roundup " matched to " they re listening to chopper dave s rush hour roundup "
-30, 1134 ... 1141 score = 0.9 
-" the rest of the show was pretty good it was a good show wasn t it " matched to " it was a good show wasn t it "
-31, 1150 ... 1152 score = 1 
-" your brother called " matched to " your brother called "
-32, 1159 ... 1165 score = 0.9 
-" we call that avoidance don t change the subject tell me what you think " matched to " we call that avoidance don t change "
-33, 1178 ... 1186 score = 0.9 
-" did i ever tell you what this button does " matched to " did i ever show you what this button does "
-34, 1188 ... 1194 score = 0.935714 
-" i am not a piece of lalique " matched to " i m not a piece of lalique "
-35, 1195 ... 1202 score = 1 
-" i can handle criticism how was i today " matched to " i can handle criticism how was i today "
-36, 1207 ... 1220 score = 0.835748 
-" you dropped two commercials left a total of 28 seconds of dead air " matched to " you dropped two commercials you left a total of twenty—eight seconds of dead air "
-37, 1222 ... 1232 score = 0.85355 
-" scrambled the call letters spilt yoghurt on the control board " matched to " scrambled the call letters you spilled yogurt on the control board "
-38, 1233 ... 1244 score = 1 
-" and you kept referring to jerry with the identity crisis as jeff " matched to " and you kept referring to jerry with the identity crisis as jeff "
-39, 1247 ... 1251 score = 1 
-" you say my brother called " matched to " you say my brother called "
-40, 1268 ... 1281 score = 0.927679 
-" so i said to the gardener yoshi i do not want a zen garden " matched to " so i said to the gardner yoshi i do not need a zen garden "
-41, 1353 ... 1358 score = 0.9 
-" lf i want to rake gravel every ten minutes for inner harmony " matched to " i want to rake gravel every "
-42, 1366 ... 1370 score = 1 
-" i ll move to yokohama " matched to " i ll move to yokohama "
-43, 1404 ... 1414 score = 0.969318 
-" this offends him so he starts pulling up maris prized camellias " matched to " this offends him so he starts pulling up maris’ prized camellias "
-44, 1418 ... 1423 score = 1 
-" i couldn t stand for that " matched to " i couldn t stand for that "
-45, 1432 ... 1437 score = 0.9 
-" i marched inside and locked the door until he cooled down " matched to " and locked the door until he "
-46, 1442 ... 1447 score = 0.82 
-" would you have handled it differently " matched to " you would have handled it differently "
-47, 1459 ... 1468 score = 0.987143 
-" sorry niles i didn t realise you d stopped talking " matched to " sorry niles i didn t realize you d stopped talking "
-48, 1470 ... 1476 score = 0.792479 
-" you haven t heard a word " matched to " you haven t listened to a word "
-49, 1481 ... 1489 score = 0.808333 
-" you re a shrink you know how it is " matched to " you re a psychiatrist you know what it s "
-50, 1492 ... 1501 score = 0.712748 
-" when people go on about their mundane lives " matched to " listen to people prattling on endlessly about their mundane lives "
-51, 1503 ... 1512 score = 0.96 
-" touchÃ© and on that subject i heard your show today " matched to " touche and on that subject i heard your show today "
-52, 1516 ... 1525 score = 0.613373 
-" and you know my view of pop psychiatry " matched to " and niles you know what i think about pop psychiatry "
-53, 1534 ... 1545 score = 0.94 
-" and everything when was the last time you had an unexpressed thought " matched to " about everything when was the last time you had an unexpressed thought "
-54, 1547 ... 1551 score = 1 
-" i m having one now " matched to " i m having one now "
-55, 1560 ... 1565 score = 0.604167 
-" you guys ready two cafelatte supremos " matched to " you guys ready frasier to waitress "
-56, 1592 ... 1594 score = 1 
-" no thank you " matched to " no thank you "
-57, 1596 ... 1604 score = 1 
-" so frasier how are you doing on your own " matched to " so frasier how are you doing on your own "
-58, 1606 ... 1613 score = 1 
-" i m fine i love my new life " matched to " i m fine i love my new life "
-59, 1614 ... 1622 score = 0.816667 
-" i love the solitude i miss frederick of course " matched to " i love the solitude i miss frederick like the "
-60, 1631 ... 1638 score = 0.9 
-" he s playing goalie on the pee wee soccer team chip off the old block " matched to " he s playing goalie on the pee wee "
-61, 1653 ... 1660 score = 0.900248 
-" you hated sports so does he " matched to " you hated sports frasier and so does he "
-62, 1662 ... 1668 score = 1 
-" the fresh air s good for him " matched to " the fresh air s good for him "
-63, 1674 ... 1678 score = 0.856 
-" well this has been fun " matched to " niles this has been fun "
-64, 1685 ... 1695 score = 0.426693 
-" there s a problem we should discuss is it dad " matched to " that s why i thought we should talk frasier our dad "
-65, 1701 ... 1707 score = 0.654082 
-" one of his old police buddies called " matched to " one of his old buddies from the "
-66, 1719 ... 1724 score = 0.9 
-" he went to see him and found him on the bathroom floor " matched to " found him on the bathroom floor "
-67, 1726 ... 1733 score = 0.630248 
-" oh my god he s fine " matched to " oh my god niles no it s okay "
-68, 1745 ... 1751 score = 0.9 
-" is it his hip again i don t think he can live alone now " matched to " i don t think he can live "
-69, 1757 ... 1760 score = 1 
-" what can we do " matched to " what can we do "
-70, 1765 ... 1774 score = 0.812748 
-" this won t be anyone s favourite solution " matched to " this isn t going to be anyone s favorite solution "
-71, 1775 ... 1788 score = 1 
-" but i took the liberty of checking out a few convalescent homes for him " matched to " but i took the liberty of checking out a few convalescent homes for him "
-72, 1802 ... 1809 score = 1 
-" a home he s still a young man " matched to " a home he s still a young man "
-73, 1812 ... 1827 score = 0.900248 
-" you can t take care of him you re getting your new life together " matched to " you certainly can t take care of him you re just getting your new life together "
-74, 1828 ... 1828 score = 0 
-" " matched to " frasier "
-75, 1877 ... 1885 score = 1 
-" of course i can t take care of him " matched to " of course i can t take care of him "
-76, 1888 ... 1893 score = 0.664979 
-" oh yes of course why " matched to " of course of course beat why "
-77, 1895 ... 1903 score = 1 
-" dad doesn t get along with maris who does " matched to " dad doesn t get along with maris who does "
-78, 1904 ... 1909 score = 0.61 
-" i thought you liked my maris " matched to " i thought you i do i "
-79, 1918 ... 1925 score = 0.611071 
-" i do i like her from a distance " matched to " niles liked maris frasier her from a distance "
-80, 1926 ... 1932 score = 0.800012 
-" you know the way you like the sun maris is like the sun " matched to " way you like the sun the sun "
-81, 1933 ... 1936 score = 1 
-" except without the warmth " matched to " except without the warmth "
-82, 1939 ... 1944 score = 0.1725 
-" well then we re agreed about what to do with dad " matched to " up a pamphlet from the table "
-83, 1946 ... 1955 score = 0.30775 
-" golden acres we care so you don t have to " matched to " golf carts on nzsrcusn guest room you re a good "
-84, 1958 ... 1964 score = 0.31551 
-" it says that it might as well " matched to " i am frasier buries his head golden "
-85, 1974 ... 1981 score = 0.678571 
-" ok i ll make up the spare bedroom " matched to " frasier i ll make up the niles son "
-86, 1982 ... 1988 score = 0.22602 
-" you re a good son frasier oh god i am aren t l " matched to " frasier frasier aren t i in his "
-87, 1991 ... 1996 score = 0.325 
-" two cafe supremos anything to eat " matched to " niles comforts him cut to 13 "
-88, 2020 ... 2027 score = 0.273125 
-" no i seem to have lost my appetite " matched to " deliveryman it s a smart clean meticulously decorated "
-89, 2033 ... 2040 score = 0.33625 
-" i ll have a large piece of cheesecake " matched to " the contemporary with well chosen pieces of art "
-90, 2066 ... 2068 score = 0.525 
-" he plays passionately " matched to " he steels himself "
-91, 2072 ... 2072 score = 0.55 
-" doorbell " matched to " door "
-92, 2084 ... 2088 score = 0.856 
-" hi we finally made it " matched to " niles we finally made it "
-93, 2101 ... 2106 score = 1 
-" dad welcome to your new home " matched to " dad welcome to your new home "
-94, 2109 ... 2112 score = 0.2275 
-" gee you look great " matched to " great 15 d martin "
-95, 2113 ... 2122 score = 0.854979 
-" don t bs me i do not look great " matched to " don t b s me i do not look great "
-96, 2123 ... 2129 score = 1 
-" i spent monday on the bathroom floor " matched to " i spent monday on the bathroom floor "
-97, 2130 ... 2139 score = 1 
-" you can still see the tile marks on my face " matched to " you can still see the tile marks on my face "
-98, 2144 ... 2152 score = 0.9 
-" gives you some idea about the ride over here " matched to " gives you some idea about the ride over in "
-99, 2170 ... 2172 score = 1 
-" here we are " matched to " here we are "
-100, 2175 ... 2184 score = 0.99 
-" rest assured the refrigerator is stocked with your favourite beer " matched to " rest assured the refrigerator is stocked with your favorite beer "
-101, 2188 ... 2203 score = 0.675248 
-" we ve got hot links and coleslaw and i rented a charles bronson movie " matched to " ve got plenty of hot links and cole slaw i even rented a charles bronson movie "
-102, 2213 ... 2222 score = 0.8605 
-" cut the speech we all know why i m here " matched to " camp crane speech we all know why i m here "
-103, 2236 ... 2246 score = 0.654545 
-" i can t be alone without falling on my ass and you re stuck with me " matched to " without falling on his ass and frasier got stuck with me "
-104, 2260 ... 2261 score = 1 
-" no no " matched to " no no "
-105, 2274 ... 2280 score = 0.593831 
-" we have a chance to get reacquainted " matched to " give us an opportunity to get reacquainted "
-106, 2282 ... 2289 score = 1 
-" that implies we were acquainted at one point " matched to " that implies we were acquainted at one point "
-107, 2292 ... 2304 score = 1 
-" why don t i take dad s things into his new bachelor quarters " matched to " why don t i take dad s things into his new bachelor quarters "
-108, 2305 ... 2313 score = 0.762479 
-" so you scoundrels can plan some high jinks " matched to " so you two scoundrels can plan some hijinx niles "
-109, 2327 ... 2334 score = 0.935714 
-" that wife of his is driving him nutso " matched to " that wife of his is making him nutso "
-110, 2336 ... 2344 score = 1 
-" yes we crane boys sure know how to marry " matched to " yes we crane boys sure know how to marry "
-111, 2350 ... 2356 score = 0.889796 
-" let me get you a beer dad " matched to " let me get you a beer frasier "
-112, 2373 ... 2378 score = 0.9 
-" what do you think of what i ve done with the place " matched to " what i ve done with the "
-113, 2380 ... 2391 score = 0.701875 
-" every item was carefully selected this lamp by corbu chair by eames " matched to " every piece was carefully chosen the lamp corbu the chair by eames "
-114, 2397 ... 2404 score = 0.9 
-" this couch is a replica of the one coco chanel had in her paris atelier " matched to " replica of the one coco chanel had in "
-115, 2411 ... 2423 score = 0.900248 
-" nothing matches it s a style of decorating it s eclectic " matched to " nothing matches frasier it s a style of decorating it s called eclectic "
-116, 2427 ... 2435 score = 0.5 
-" if you ve got really fine pieces of furniture " matched to " it is if you have great pieces of furniture "
-117, 2436 ... 2446 score = 0.959091 
-" it doesn t matter if they match they will go together " matched to " it doesn t matter if they match they ll go together "
-118, 2448 ... 2451 score = 1 
-" it s your money " matched to " it s your money "
-119, 2465 ... 2465 score = 0.5 
-" doorbell " matched to " dqqb§ell "
-120, 2468 ... 2474 score = 0.794286 
-" hey that s the space needle there " matched to " indicating that s the space needle over "
-121, 2479 ... 2485 score = 0.9 
-" thanks for pointing that out being born and raised here i never woulda known " matched to " for pointing that out being born and "
-122, 2515 ... 2521 score = 0.904979 
-" delivery for martin crane in here " matched to " delivery for martin crane martin in here "
-123, 2539 ... 2543 score = 1 
-" excuse me wait a minute " matched to " excuse me wait a minute "
-124, 2545 ... 2554 score = 0.904979 
-" where do you want it where s the tv " matched to " where do you want it martin where s the tv "
-125, 2557 ... 2565 score = 0.900248 
-" in that credenza point it at that " matched to " in that credenza why martin point it at that "
-126, 2568 ... 2577 score = 0.678998 
-" what about this chair i ll move it " matched to " what about this chair niles here let me get it "
-127, 2599 ... 2603 score = 1 
-" careful that s a wassily " matched to " careful that s a wassily "
-128, 2606 ... 2615 score = 0.253 
-" dad i m sure this piece is dear to you " matched to " dad dad as dear as i m sure this piece "
-129, 2618 ... 2628 score = 0.814979 
-" but i don t think it goes with anything here " matched to " you i don t think it quite goes with anything here "
-130, 2630 ... 2634 score = 1 
-" i know it s eclectic " matched to " i know it s eclectic "
-131, 2640 ... 2646 score = 0.658367 
-" niles will you help me out here " matched to " exits frasier niles help me out here "
-132, 2719 ... 2725 score = 0.757143 
-" i need an extension cord to plug in the vibrating part " matched to " i can plug in the vibrating part "
-133, 2729 ... 2735 score = 1 
-" yes that will be the crowning touch " matched to " yes that will be the crowning touch "
-134, 2737 ... 2748 score = 0.870248 
-" now you re settled in i ve got to run " matched to " now that you two are settled in i ve got to run "
-135, 2749 ... 2756 score = 1 
-" i m late for my dysfunctional family seminar " matched to " i m late for my dysfunctional family seminar "
-136, 2766 ... 2771 score = 1 
-" dad have you mentioned eddie yet " matched to " dad have you mentioned eddie yet "
-137, 2780 ... 2783 score = 0.904979 
-" eddie ta ta " matched to " eddie niles ta ta "
-138, 2789 ... 2801 score = 0.829979 
-" no not eddie he s my best friend get me my beer " matched to " no not eddie martin he s my best friend hand me my beer "
-139, 2804 ... 2818 score = 1 
-" he s weird he gives me the creeps all he does is stare at me " matched to " he s weird he gives me the creeps all he does is stare at me "
-140, 2820 ... 2823 score = 1 
-" it s your imagination " matched to " it s your imagination "
-141, 2832 ... 2839 score = 0.84375 
-" no i m sorry i m putting my foot down eddie is not moving in here " matched to " i m putting my foot down eddie s "
-142, 2880 ... 2883 score = 0.389286 
-" suspense music on tv " matched to " to frasier on his "
-143, 2894 ... 2897 score = 0.402143 
-" screams and a gunshot " matched to " is eddie a small "
-144, 2932 ... 2936 score = 0.856 
-" niles sorry i m late " matched to " are sorry i m late "
-145, 2938 ... 2947 score = 0.735714 
-" as i was leaving dad decided to cook lunch by the glow of a small kitchen fire " matched to " as i was leaving dad started a small kitchen fire "
-146, 2961 ... 2970 score = 0.744979 
-" this last week with dad it s been a living hell " matched to " this last week with dad has been a living hell "
-147, 2993 ... 3000 score = 0.9 
-" either my territory s being violated or i worry about what he s up to " matched to " i worry about what he s up to "
-148, 3006 ... 3019 score = 0.469296 
-" i m a nervous wreck i must calm down double espresso please " matched to " i ve got to do something to calm down t0 waitress double espresso please "
-149, 3022 ... 3028 score = 0.9 
-" you don t still have the brochures from those those rest homes do you " matched to " you don t still have the brochures "
-150, 3043 ... 3050 score = 0.9 
-" of course i do don t forget maris is five years older than i am " matched to " maris is five years older than i am "
-151, 3053 ... 3058 score = 1 
-" you really think that s necessary " matched to " you really think that s necessary "
-152, 3060 ... 3070 score = 0.643105 
-" yes i don t have my life any more " matched to " yes i do i don t have a life anymore tuesday "
-153, 3071 ... 3078 score = 0.9 
-" i gave up my tickets to the theatre to the symphony " matched to " i gave up my tickets to the theatre "
-154, 3080 ... 3083 score = 0.409375 
-" what about the opera " matched to " it was the symphony "
-155, 3088 ... 3090 score = 0.64 
-" here thank you " matched to " weren t you "
-156, 3091 ... 3097 score = 0.219592 
-" you don t suppose there s a chance that you and maris could " matched to " going to the opera on friday frasier "
-157, 3098 ... 3109 score = 0.228214 
-" maris and i were discussing this we should share the responsibility more " matched to " takes two tickets out of his pocket frasier yes here 24 hy "
-158, 3112 ... 3121 score = 0.348357 
-" you mean you d take him in dear god no " matched to " ‘i thank you moxmc at tickets die fledermaus then you "
-159, 3122 ... 3132 score = 0.379979 
-" we ll help you pay for a home care worker " matched to " know have you ever considered hiring a home “§ care worker "
-160, 3139 ... 3144 score = 0.590248 
-" someone to cook clean and help dad with his physical therapy " matched to " can help him with his therapy "
-161, 3179 ... 3181 score = 1 
-" these angels exist " matched to " these angels exist "
-162, 3197 ... 3203 score = 0.607143 
-" i know an agency i ll ask them to send a few people over " matched to " to have them send a few over "
-163, 3214 ... 3220 score = 0.504534 
-" niles i can t thank you enough i feel this urge to hug you " matched to " to thank you i m going to "
-164, 3241 ... 3253 score = 0.267308 
-" remember what mom always said a handshake is as good as a hug " matched to " snaps the tickets away from niles cut to 25 lc a a black "
-165, 3286 ... 3287 score = 0.4 
-" wise woman " matched to " with pleasantries "
-166, 3329 ... 3341 score = 0.873077 
-" i have never been more impressed with a human being in my life " matched to " i ve never been more impressed with any human being in my entire "
-167, 3365 ... 3370 score = 0.9 
-" what was wrong with that one she was casing the joint " matched to " what was wrong with that one "
-168, 3395 ... 3404 score = 1 
-" casing the joint she spent two years with mother teresa " matched to " casing the joint she spent two years with mother teresa "
-169, 3407 ... 3417 score = 0.981818 
-" if i were mother teresa i d check my jewellery box " matched to " if i were mother teresa i d check my jewelry box "
-170, 3420 ... 3420 score = 0.55 
-" doorbell " matched to " qqobbqll "
-171, 3432 ... 3437 score = 0.9 
-" this is the last one try to keep an open mind " matched to " try to keep an open mind "
-172, 3490 ... 3496 score = 0.835714 
-" english accent hello caught with me hand in the biscuit tin " matched to " with my hand in the biscuit tin "
-173, 3500 ... 3509 score = 0.700857 
-" i m daphne daphne moon frasier crane please come in " matched to " i m daphne daphne moon frasier they shake frasier crane "
-174, 3523 ... 3531 score = 1 
-" my father martin crane dad this is daphne moon " matched to " my father martin crane dad this is daphne moon "
-175, 3533 ... 3542 score = 0.4925 
-" nice to meet you oh and who might this be " matched to " exchange greetings daphne re eddie and who would this be "
-176, 3544 ... 3546 score = 1 
-" that is eddie " matched to " that is eddie "
-177, 3548 ... 3557 score = 0.900248 
-" i call him eddie spaghetti he likes pasta " matched to " i call him eddie spaghetti daphne oh he likes pasta "
-178, 3559 ... 3562 score = 1 
-" no he has worms " matched to " no he has worms "
-179, 3565 ... 3574 score = 0.693998 
-" have a seat miss moon daphne thank you " matched to " have a seat miss moon 2s j daphne daphne thank "
-180, 3579 ... 3591 score = 0.904979 
-" will you look at that what a comfy chair i always say " matched to " will you look at that what a comfy chair like i always say "
-181, 3592 ... 3598 score = 0.9 
-" start with a good piece and replace the rest when you can afford it " matched to " start with a good piece and replace "
-182, 3622 ... 3630 score = 0.355952 
-" perhaps you should start by telling us about yourself " matched to " miss moon tell us a little bit about yourself "
-183, 3641 ... 3646 score = 0.9 
-" i m from manchester england really did you hear that dad " matched to " really did you hear that dad "
-184, 3648 ... 3659 score = 1 
-" i m three feet away there s nothing wrong with my hearing " matched to " i m three feet away there s nothing wrong with my hearing "
-185, 3661 ... 3666 score = 0.9 
-" i ve only been in the us for a few months " matched to " i ve only been in the "
-186, 3673 ... 3685 score = 0.904979 
-" but i have an extensive background in home care and physical therapy " matched to " but i have quite an extensive background in home care and physical therapy "
-187, 3686 ... 3692 score = 0.914286 
-" as you can see from my rÃ©sumÃ© " matched to " as you can see from my resume "
-188, 3703 ... 3709 score = 1 
-" you were a policeman weren t you " matched to " you were a policeman weren t you "
-189, 3717 ... 3723 score = 0.9 
-" yeah how d you know i must confess i m a bit psychic " matched to " i must confess i m a bit "
-190, 3725 ... 3730 score = 0.9 
-" it s nothing big just little things i sense about people " matched to " nothing big just little things i "
-191, 3734 ... 3742 score = 0.92 
-" it s not like i could pick the lottery " matched to " it s not like i can pick the lottery "
-192, 3743 ... 3759 score = 0.947059 
-" if i could i wouldn t be talking to the likes of you two now would l " matched to " if i could i wouldn t be talking to the likes of you two now would i "
-193, 3766 ... 3772 score = 0.761224 
-" yes perhaps i should describe your duties " matched to " frasier perhaps i should describe the duties "
-194, 3785 ... 3795 score = 0.931818 
-" wait i m getting something on you you re a florist " matched to " minute i m getting something on you you re a florist "
-195, 3797 ... 3807 score = 0.904979 
-" no i m a psychiatrist well it comes and goes " matched to " no i m a psychiatrist daphne well it comes and goes "
-196, 3808 ... 3817 score = 1 
-" usually it s strongest during my time of the month " matched to " usually it s strongest during my time of the month "
-197, 3819 ... 3829 score = 0.720248 
-" i guess i let a little secret out there " matched to " i guess i let out a little secret there didn t "
-198, 3832 ... 3836 score = 1 
-" it s safe with us " matched to " it s safe with us "
-199, 3842 ... 3855 score = 0.935714 
-" we ve learned all we need to know about you and a dash extra " matched to " we ve learned everything we need to know about you and a dash extra "
-200, 3935 ... 3941 score = 1 
-" you re a dog aren t you " matched to " you re a dog aren t you "
-201, 3943 ... 3950 score = 0.903571 
-" well we ll be calling you miss moon " matched to " well we ll be calling you miss m001’ "
-202, 3958 ... 3963 score = 0.484979 
-" you got the job wonderful " matched to " you re hired daphne oh wonderful "
-203, 3975 ... 3981 score = 0.366951 
-" aren t you forgetting something shouldn t we talk about this in private " matched to " i think we should discuss this privately "
-204, 3984 ... 3997 score = 0.900248 
-" of course i completely understand i ll just pop into the loo " matched to " of course you should i completely understand i ll just pop into the loo "
-205, 3998 ... 4005 score = 0.903571 
-" you do have one don t you yes " matched to " you do have one don t you frasier "
-206, 4008 ... 4011 score = 0.8125 
-" oh i love america " matched to " daphne i love america "
-207, 4023 ... 4029 score = 0.892857 
-" dad you wanted me to pick one " matched to " martin you wanted me to pick one "
-208, 4035 ... 4043 score = 0.9 
-" she s a kook i don t like her she ll only be here when you re not " matched to " she s a kook i don t like her "
-209, 4063 ... 4067 score = 1 
-" then what s my problem " matched to " then what s my problem "
-210, 4069 ... 4069 score = 1 
-" daphne " matched to " daphne "
-211, 4076 ... 4086 score = 0.904979 
-" you ve been retained oh wonderful i had a premonition " matched to " you ve been retained daphne oh wonderful i had a premonition "
-212, 4087 ... 4088 score = 0.1 
-" quelle surprise " matched to " i would "
-213, 4089 ... 4095 score = 1 
-" i ll move my things in tomorrow " matched to " i ll move my things in tomorrow "
-214, 4102 ... 4107 score = 0.9 
-" there must be some misunderstanding this isn t a live in position " matched to " there must be some misunderstanding this "
-215, 4116 ... 4120 score = 1 
-" the lady at the agency " matched to " the lady at the agency "
-216, 4129 ... 4135 score = 0.723161 
-" she was wrong this is a part time position it won t work out " matched to " was wrong this is a part—time position "
-217, 4159 ... 4170 score = 0.742748 
-" let s talk about this there s nothing to discuss " matched to " want to talk about this frasier dad there s nothing to discuss "
-218, 4172 ... 4177 score = 0.9 
-" you should talk about this i ll just pop back in here " matched to " i ll just pop back in "
-219, 4182 ... 4187 score = 0.73 
-" and enjoy your african erotic art " matched to " more of your african erotic art "
-220, 4213 ... 4218 score = 0.7 
-" i think it would be best if you leave oh all right " matched to " best if you leave daphne well "
-221, 4222 ... 4233 score = 1 
-" we ll contact you if not by telephone then through the toaster " matched to " we ll contact you if not by telephone then through the toaster "
-222, 4237 ... 4246 score = 0.542836 
-" i m not having her living here why not " matched to " i am not having another person living in this house "
-223, 4259 ... 4270 score = 0.742748 
-" there s no room for her what about your study " matched to " there s no room for her martin what about the room across "
-224, 4286 ... 4291 score = 0.9 
-" that s where i read where i do my most profound thinking " matched to " where i read where i do "
-225, 4297 ... 4305 score = 1 
-" use the can like the rest of the world " matched to " use the can like the rest of the world "
-226, 4307 ... 4309 score = 1 
-" you ll adjust " matched to " you ll adjust "
-227, 4317 ... 4327 score = 0.9 
-" i ve done enough adjusting i m in a new city i ve got a new job " matched to " i ve done enough adjusting i m in a new city "
-228, 4333 ... 4341 score = 0.482391 
-" i m separated from my little boy " matched to " i m freshly divorced and now my father and "
-229, 4342 ... 4347 score = 0.9 
-" and now my father and his dog are living with me " matched to " his dog are living with me "
-230, 4356 ... 4363 score = 0.957812 
-" the whole idea of getting somebody in here " matched to " the whole idea of getting someone in here "
-231, 4364 ... 4374 score = 1 
-" was to help ease my burden not to add to it " matched to " was to help ease my burden not to add to it "
-232, 4384 ... 4393 score = 0.592857 
-" eddie we re a burden you re twisting my words " matched to " burden 34 j frasier dad you re twisting my words "
-233, 4394 ... 4401 score = 1 
-" i meant burden in its most positive sense " matched to " i meant burden in its most positive sense "
-234, 4404 ... 4410 score = 1 
-" as in gee what a lovely burden " matched to " as in gee what a lovely burden "
-235, 4412 ... 4418 score = 0.515693 
-" something like that it s not only you who got screwed " matched to " something like that yes martin hey you "
-236, 4441 ... 4447 score = 0.867857 
-" two years ago some punk robbing a store put a bullet in my hip " matched to " store puts a bullet in my hip "
-237, 4452 ... 4462 score = 0.750693 
-" i traded in my golf clubs for one of these " matched to " i m trading my golf clubs in for one of these "
-238, 4486 ... 4494 score = 0.9 
-" i had plans too this may be a shock but one of them wasn t living with you " matched to " but one of them wasn t living with you "
-239, 4506 ... 4511 score = 0.9 
-" i m just trying to be the good son don t worry " matched to " trying to be the good son "
-240, 4517 ... 4525 score = 0.9 
-" after i m gone you can live guilt free you think this is about guilt " matched to " after i m gone you can live guilt free "
-241, 4554 ... 4559 score = 0.771429 
-" isn t it of course it is but i took you in " matched to " frasier of course it is but "
-242, 4577 ... 4586 score = 1 
-" i wanted to do it because you re my father " matched to " i wanted to do it because you re my father "
-243, 4587 ... 4593 score = 0.729979 
-" and how do you repay me " matched to " and you know how you repay me "
-244, 4602 ... 4614 score = 0.91 
-" with a snide comment about this or a smart little putdown about that " matched to " been a snide comment about this or a smart little put—down about that "
-245, 4616 ... 4621 score = 0.9 
-" i ve done my best to make a home here for you " matched to " i ve done my best to "
-246, 4631 ... 4645 score = 0.900248 
-" just once would it have killed you to say one lousy thank you " matched to " just once would it have killed you to say thank you one lousy thank you "
-247, 4651 ... 4659 score = 0.891667 
-" come on eddie it s past your dinner time " matched to " c mon eddie it s past your dinner time "
-248, 4672 ... 4675 score = 0.295 
-" i m going out " matched to " door behind him cut "
-249, 4713 ... 4723 score = 1 
-" they have got to move the bathroom closer to the studio " matched to " they have got to move the bathroom closer to the studio "
-250, 4747 ... 4753 score = 0.514286 
-" we ll be back after these messages can t i put that on tape " matched to " ll be right back after these messages "
-251, 4774 ... 4777 score = 1 
-" what s eating you " matched to " what s eating you "
-252, 4779 ... 4786 score = 0.9 
-" sorry it s this thing with my father and this person he wants to hire " matched to " this thing with my father and this person "
-253, 4791 ... 4802 score = 0.792479 
-" i thought i d started my life with a clean slate " matched to " i thought i was starting my life over with a clean slate "
-254, 4812 ... 4820 score = 0.804979 
-" i had a picture of what it was going to be like and then i don t know " matched to " going to be and then i don t know "
-255, 4822 ... 4826 score = 1 
-" ever heard of lupe velez " matched to " ever heard of lupe velez "
-256, 4828 ... 4837 score = 0.717479 
-" who lupe velez a movie star in the 30s " matched to " who roz lupe velez the movie star in the thirties "
-257, 4841 ... 4855 score = 0.985 
-" her career hit the skids so she decided to make one final stab at immortality " matched to " her career hit the skids so she decided to take one final stab at immortality "
-258, 4867 ... 4873 score = 0.703584 
-" she figured she d at least be remembered for the way she died " matched to " she d be remembered for the more "
-259, 4883 ... 4889 score = 1 
-" all lupe wanted was to be remembered " matched to " all lupe wanted was to be remembered "
-260, 4890 ... 4895 score = 1 
-" so she plans this lavish suicide " matched to " so she plans this lavish suicide "
-261, 4896 ... 4907 score = 0.9875 
-" flowers candles silk sheet white satin gown full hair and make up " matched to " flowers candles silk sheets white satin gown full hair and make up "
-262, 4910 ... 4919 score = 0.91 
-" she takes the overdose of pills lays on the bed " matched to " she takes an overdose of pills lays on the bed "
-263, 4920 ... 4925 score = 0.800001 
-" and imagines how beautiful she ll look on tomorrow s front page " matched to " and imagines how beautiful she s "
-264, 4937 ... 4948 score = 0.9625 
-" unfortunately the pills don t set well with the enchilada combo plate " matched to " unfortunately the pills didn t set well with the enchilada combo plate "
-265, 4949 ... 4955 score = 1 
-" she sadly chose as her last meal " matched to " she sadly chose as her last meal "
-266, 4956 ... 4960 score = 0.685 
-" she trips in the bathroom " matched to " she stumbles toward the bathroom "
-267, 4970 ... 4975 score = 0.9 
-" goes head first into the toilet that s how they found her " matched to " that s how they found her "
-268, 4977 ... 4986 score = 0.928 
-" is there a reason you re telling me this story " matched to " is there a reason you re telling me this roz "
-269, 4987 ... 5001 score = 0.91 
-" yes even if things may not happen like we planned they can work out anyway " matched to " yeah even though things may not happen like we planned they can work out anyway "
-270, 5007 ... 5022 score = 0.94375 
-" remind me of how it worked for lupe last seen with her head in the toilet " matched to " remind me again how it worked for lupe last seen with her head in the toilet "
-271, 5024 ... 5030 score = 0.9 
-" all she wanted was to be remembered will you ever forget that story " matched to " all she wanted was to be remembered "
-272, 5052 ... 5060 score = 0.828571 
-" we re back roz who s our next caller " matched to " frasier welcome back roz who s our next caller "
-273, 5062 ... 5068 score = 0.9 
-" we have martin on line one he s having a problem with his son " matched to " we have martin on line one he "
-274, 5072 ... 5081 score = 0.493214 
-" hello martin this is dr frasier crane i m listening " matched to " problem with his son frasier hello martin i m listening "
-275, 5082 ... 5090 score = 0.792479 
-" martin crane i m a first time caller " matched to " martin v o i m a first time caller "
-276, 5094 ... 5102 score = 0.914286 
-" welcome to the show how can i help you " matched to " welcome to the program how can i help you "
-277, 5108 ... 5113 score = 0.9 
-" l moved in with my son and it ain t working " matched to " moved in with my son and "
-278, 5119 ... 5126 score = 1 
-" there s a lot of tension between us " matched to " there s a lot of tension between us "
-279, 5128 ... 5137 score = 1 
-" i can imagine why do you think that s so " matched to " i can imagine why do you think that s so "
-280, 5144 ... 5154 score = 0.834545 
-" l guess i didn t see he had a whole new life planned for himself " matched to " i didn t see he had a nice new life planned "
-281, 5159 ... 5165 score = 0.871429 
-" l kind of got in the way " matched to " i kind of got in the way "
-282, 5169 ... 5175 score = 1 
-" these things are a two way street " matched to " these things are a two way street "
-283, 5176 ... 5189 score = 0.760748 
-" perhaps your son wasn t sensitive in seeing how your life was changing " matched to " perhaps your son wasn t sensitive enough to see how ygg life was changing "
-284, 5192 ... 5207 score = 0.90625 
-" you ve got that right i ve been telling him that ever since i got there " matched to " o you got that right i ve been telling him that ever since i got there "
-285, 5209 ... 5215 score = 0.981633 
-" i m sure he appreciated your candour " matched to " i m sure he appreciated your candor "
-286, 5225 ... 5231 score = 0.65 
-" sometimes i oughta keep my trap shut " matched to " to learn to keep my trap shut "
-287, 5233 ... 5239 score = 1 
-" that s good advice for us all " matched to " that s good advice for us all "
-288, 5240 ... 5241 score = 1 
-" anything else " matched to " anything else "
-289, 5247 ... 5264 score = 0.904979 
-" i m worried my son doesn t know that i appreciate what he s done for me " matched to " i m worried my son doesn t know that i really appreciate what he s done for me "
-290, 5266 ... 5271 score = 1 
-" why don t you tell him " matched to " why don t you tell him "
-291, 5275 ... 5283 score = 0.975 
-" you know how it is with fathers and sons " matched to " you know how it is with fathers and sous "
-292, 5285 ... 5292 score = 0.668105 
-" they have trouble saying that stuff " matched to " always have a hard time saying that stuff "
-293, 5294 ... 5306 score = 0.930769 
-" well if it helps i suspect your son already knows how you feel " matched to " frasier if it helps i suspect your son already knows how you feel "
-294, 5314 ... 5322 score = 0.544979 
-" is that all yeah thank you dr crane " matched to " is that all i guess that s it crane "
-295, 5330 ... 5341 score = 0.727748 
-" my pleasure martin you hear that i said thank you " matched to " my pleasure martin did you hear what i said martin v o "
-296, 5351 ... 5353 score = 0.742857 
-" yes i heard " matched to " frasier i heard "
-297, 5370 ... 5383 score = 0.633878 
-" dr crane claire on line four is having a problem getting over a relationship " matched to " we have claire on line four she s having trouble getting over a break "
-298, 5386 ... 5390 score = 1 
-" hello claire i m listening " matched to " hello claire i m listening "
-299, 5391 ... 5393 score = 0.15 
-" i m er " matched to " claire v o "
-300, 5396 ... 5401 score = 0.85 
-" sobs well i m a mess " matched to " uh well i m a mess "
-301, 5402 ... 5417 score = 0.83125 
-" eight months ago my boyfriend and l broke up i just can t get over it " matched to " eight months ago my boyfriend and i broke up and i can t get over it "
-302, 5418 ... 5425 score = 0.9 
-" the pain isn t going away it s like i m in mourning or something " matched to " the pain isn t going away it s "
-303, 5433 ... 5437 score = 0.82 
-" claire you are in mourning " matched to " claire you ggg in mourning "
-304, 5438 ... 5447 score = 1 
-" but you re not mourning the loss of your boyfriend " matched to " but you re not mourning the loss of your boyfriend "
-305, 5449 ... 5456 score = 0.260893 
-" you re mourning the loss of what you thought your life was going to be " matched to " frasier continues the call we cross fade to "
-306, 5461 ... 5472 score = 0.20625 
-" let it go things don t always work out how you plan " matched to " v g room — la t at nig ni frasier martin eddie "
-307, 5477 ... 5481 score = 0.308442 
-" that s not necessarily bad " matched to " the apartment to see frasier "
-308, 5483 ... 5490 score = 0.251339 
-" things have a way of working out anyway " matched to " his new family watching tv martin is sitting "
-309, 5492 ... 5498 score = 0.266225 
-" have you ever heard of lupe velez " matched to " his barcalounger eddie frasier and daphne are "
-310, 5499 ... 5505 score = 0.230816 
-" hey baby i hear the blues are calling tossed salads and scrambled eggs " matched to " sitting on the couch frasier v o "
-311, 5506 ... 5507 score = 0.25 
-" oh my " matched to " you re "
-312, 5514 ... 5522 score = 0.204167 
-" and maybe i seem a bit confused well maybe " matched to " was going to be let it go things don "
-313, 5524 ... 5528 score = 0.37 
-" but i got you pegged " matched to " always happen how you plan "
-314, 5533 ... 5547 score = 0.309667 
-" but i don t know what to do with those tossed salads and scrambled eggs " matched to " bad it doesn t mean things won t work out anyway eddie puts one paw "
-315, 5549 ... 5552 score = 0.260714 
-" they re calling again " matched to " frasier s leg frasier "
-316, 5553 ... 5558 score = 0.3625 
-" good night seattle we love you " matched to " cont d v o have you "
-317, 5559 ... 5559 score = 0 
-" " matched to " ever "
-Starting complete line distance measurement ... 
-731:741(1719)
-00:00:20,437 --> 00:00:23,315
-Block 197:200
-he punches a button on the console frasier cont d roz 
-749:763(1719)
-00:00:23,606 --> 00:00:25,881
-Block 201:206
-bi roz speaks into the microphone in the booth in a soothing radio voice roz 
-775:789(1719)
-00:00:26,151 --> 00:00:29,587
-Block 206:207
-he feels like he s caught in a rut frasier pushes a button on the 
-800:803(1719)
-00:00:30,864 --> 00:00:34,300
-Block 209:209
-russell v o well 
-814:837(1719)
-00:00:34,617 --> 00:00:39,532
-Block 210:214
-frasier for how long russell v o oh the last seven or eight years frasier go on russell v o i don t know 
-863:890(1719)
-00:00:43,710 --> 00:00:48,261
-Block 214:220
-same old people day after day sometimes i just roz signals from the booth that time is running short and frasier has to wrap this up frasier russell 
-941:969(1719)
-00:01:02,520 --> 00:01:06,479
-Block 221:222
-i could forgive her indiscretion but there was this nagging little hint of resentment this minute lack of trust this overwhelming desire to shove a grapefruit in her face 
-1033:1032(1719)
-ERRRROOOORRRR(20): 1033, 1032
-1060:1062(1719)
-00:01:45,855 --> 00:01:47,686
-Block 224:226
-russell turning to 
-1069:1073(1719)
-00:01:47,941 --> 00:01:50,409
-Block 228:234
-5 b 6 b roz 
-1084:1098(1719)
-00:01:50,694 --> 00:01:53,413
-Block 237:240
-frasier takes off his headset gets up and heads into roz s control room frasier 
-1142:1149(1719)
-00:02:06,710 --> 00:02:11,386
-Block 242:243
-roz here hands him a slip of paper 
-1153:1158(1719)
-00:02:11,756 --> 00:02:13,712
-Block 245:245
-frasier you know in the trade 
-1166:1177(1719)
-00:02:13,967 --> 00:02:17,926
-Block 245:249
-the subject what did you think she points to her console roz 
-1187:1187(1719)
-00:02:18,263 --> 00:02:20,697
-Block 251:251
-frasier 
-1203:1206(1719)
-00:02:23,184 --> 00:02:26,654
-Block 255:255
-roz let s see 
-1245:1246(1719)
-00:02:34,863 --> 00:02:38,617
-Block 256:257
-frasier pause 
-1252:1267(1719)
-00:02:44,706 --> 00:02:46,936
-Block 259:266
-cut to b iq a black screen in white letters appears the brother niles v o 
-1282:1352(1719)
-00:02:51,421 --> 00:02:55,573
-Block 266:280
-in my backyard fade in s — y — day nit niles v o a city bus is stopped picking up passengers on the side of the bus is a large advertisement on it is frasier’s smiling face and the words dr frasier crane he listens kacl — 780 am the bus pulls away to reveal cafe nervosa one of seattle s popular coffee houses niles v o cont d if 
-1359:1365(1719)
-00:02:55,925 --> 00:02:58,883
-Block 280:280
-ten minutes to maintain my inner harmony 
-1371:1403(1719)
-00:02:59,179 --> 00:03:01,329
-Block 284:295
-cut to 9 c o ous inuous niles frasier waitress extras frasier and his brother qb niles crane stand at the counter frasier has his nose in a menu niles cont d well 
-1448:1458(1719)
-00:03:13,860 --> 00:03:16,897
-Block 296:298
-frasier after a beat frasier looks up frasier oh i m 
-1469:1469(1719)
-00:03:17,197 --> 00:03:20,348
-Block 299:299
-niles 
-1477:1480(1719)
-00:03:20,658 --> 00:03:22,535
-Block 299:300
-i said frasier niles 
-1502:1502(1719)
-00:03:24,996 --> 00:03:27,590
-Block 303:303
-niles 
-1513:1515(1719)
-00:03:27,874 --> 00:03:32,106
-Block 306:309
-1o 3 frasier 
-1526:1533(1719)
-00:03:38,301 --> 00:03:40,735
-Block 311:311
-frasier yes yes i know what you think 
-1546:1546(1719)
-00:03:41,012 --> 00:03:45,642
-Block 312:312
-niles 
-1552:1559(1719)
-00:03:46,017 --> 00:03:48,485
-Block 314:315
-they both chuckle good—naturedly a waitress approaches waitress 
-1566:1591(1719)
-00:03:49,479 --> 00:03:53,028
-Block 317:322
-two cafe latte supremos niles moves to a chair and begins to dust it off with a handkerchief he offers it to frasier frasier cont d 
-1595:1595(1719)
-00:04:01,032 --> 00:04:02,988
-Block 324:324
-niles 
-1605:1605(1719)
-00:04:04,452 --> 00:04:07,888
-Block 326:326
-frasier 
-1639:1652(1719)
-00:04:15,463 --> 00:04:21,413
-Block 327:333
-soccer team now he s a chip off the old block 11 c niles 
-1669:1673(1719)
-ERRRROOOORRRR(62): 1669, 1673
-1696:1700(1719)
-ERRRROOOORRRR(64): 1696, 1700
-1725:1725(1719)
-00:04:39,779 --> 00:04:43,294
-Block 340:340
-frasier 
-1734:1744(1719)
-00:04:43,616 --> 00:04:45,686
-Block 341:344
-he s fine frasier his hip again niles nods niles frasier 
-1752:1756(1719)
-00:04:45,952 --> 00:04:50,867
-Block 345:350
-alone anymore 12 1 frasier 
-1761:1764(1719)
-00:04:51,249 --> 00:04:53,558
-Block 351:351
-niles well i know 
-1789:1801(1719)
-00:04:57,464 --> 00:05:01,457
-Block 352:353
-he reaches into his briefcase and takes out a pile of pamphlets frasier 
-1810:1811(1719)
-ERRRROOOORRRR(72): 1810, 1811
-1828:1827(1719)
-ERRRROOOORRRR(73): 1828, 1827
-1829:1876(1719)
-ERRRROOOORRRR(74): 1829, 1876
-1886:1887(1719)
-00:05:11,644 --> 00:05:13,874
-Block 361:362
-frasier yes 
-1894:1894(1719)
-00:05:14,147 --> 00:05:17,583
-Block 364:364
-niles 
-1904:1903(1719)
-ERRRROOOORRRR(77): 1904, 1903
-1910:1917(1719)
-00:05:21,112 --> 00:05:23,751
-Block 370:373
-like you know the maris is like frasier 
-1937:1938(1719)
-ERRRROOOORRRR(81): 1937, 1938
-1945:1945(1719)
-ERRRROOOORRRR(82): 1945, 1945
-1956:1957(1719)
-ERRRROOOORRRR(83): 1956, 1957
-1965:1973(1719)
-ERRRROOOORRRR(84): 1965, 1973
-1997:2019(1719)
-ERRRROOOORRRR(87): 1997, 2019
-2028:2032(1719)
-ERRRROOOORRRR(88): 2028, 2032
-2041:2065(1719)
-ERRRROOOORRRR(89): 2041, 2065
-2069:2071(1719)
-00:06:19,838 --> 00:06:23,148
-Block 430:430
-and opens the 
-2073:2083(1719)
-00:06:23,466 --> 00:06:25,422
-Block 431:433
-niles is standing there with a few suitcases in his hand 
-2089:2100(1719)
-ERRRROOOORRRR(92): 2089, 2100
-2107:2108(1719)
-ERRRROOOORRRR(93): 2107, 2108
-2123:2122(1719)
-ERRRROOOORRRR(95): 2123, 2122
-2140:2143(1719)
-00:06:59,794 --> 00:07:02,467
-Block 448:449
-niles sotto to frasier 
-2153:2169(1719)
-00:07:03,715 --> 00:07:06,946
-Block 449:454
-the car frasier claps his hands and rubs them together trying to lighten the moment frasier well 
-2185:2187(1719)
-00:07:11,306 --> 00:07:15,857
-Block 455:456
-ballantines and we 
-2204:2212(1719)
-00:07:16,227 --> 00:07:20,186
-Block 456:457
-for later martin you can cut the welcome to 
-2247:2259(1719)
-00:07:23,651 --> 00:07:28,281
-Block 457:459
-isn t that right frasier and niles look at each other frasier niles 
-2262:2273(1719)
-00:07:29,783 --> 00:07:32,172
-Block 460:466
-no 16 d frasier cont d i want you here it will 
-2281:2281(1719)
-00:07:33,286 --> 00:07:36,039
-Block 467:467
-martin 
-2290:2291(1719)
-00:07:36,331 --> 00:07:39,243
-Block 468:468
-niles listen 
-2314:2326(1719)
-00:07:49,094 --> 00:07:52,052
-Block 469:471
-exits with the bags down the hallway to the bedroom martin i think 
-2335:2335(1719)
-00:07:53,723 --> 00:07:56,362
-Block 472:472
-frasier 
-2357:2372(1719)
-00:08:05,276 --> 00:08:07,506
-Block 473:474
-crosses to the kitchen martin looks around the room frasier cont d so do you like 
-2405:2410(1719)
-ERRRROOOORRRR(114): 2405, 2410
-2447:2447(1719)
-ERRRROOOORRRR(117): 2447, 2447
-2452:2464(1719)
-ERRRROOOORRRR(118): 2452, 2464
-2466:2467(1719)
-ERRRROOOORRRR(119): 2466, 2467
-2475:2478(1719)
-00:08:41,104 --> 00:08:43,823
-Block 489:491
-there martin thank you 
-2486:2514(1719)
-00:08:44,107 --> 00:08:48,498
-Block 491:496
-raised here i never would have known that as niles re enters from the other room frasier crosses to the door and opens it it s a deliveryman deliveryman 
-2522:2538(1719)
-00:08:51,406 --> 00:08:54,239
-Block 500:506
-deliveryman coming through frasier steps back the deliveryman brings in a barcalounger 1a d frasier excuse me 
-2544:2544(1719)
-00:08:54,534 --> 00:08:56,843
-Block 507:507
-deliveryman 
-2555:2556(1719)
-00:08:57,120 --> 00:08:59,350
-Block 509:510
-frasier indicating 
-2566:2567(1719)
-00:08:59,622 --> 00:09:01,977
-Block 511:512
-thing deliveryman 
-2578:2598(1719)
-ERRRROOOORRRR(126): 2578, 2598
-2604:2605(1719)
-ERRRROOOORRRR(127): 2604, 2605
-2629:2629(1719)
-00:09:12,260 --> 00:09:14,854
-Block 521:521
-martin 
-2635:2639(1719)
-00:09:15,138 --> 00:09:17,857
-Block 524:524
-martin pays the deliveryman he 
-2647:2718(1719)
-00:09:20,769 --> 00:09:22,999
-Block 529:541
-19 d niles i like it frasier grabs niles by the shirt and pulls him aside frasier i see right through you you re agreeing with the old man because you re afraid he might ask to live with you and maris niles re shirt please frasier you re scrunching my tommy hilfiger frasier listen you little twit martin you re going to have to run an extension cord over here so 
-2726:2728(1719)
-00:09:23,271 --> 00:09:26,866
-Block 545:546
-frasier beaten yes 
-2736:2736(1719)
-00:09:27,192 --> 00:09:30,309
-Block 547:547
-niles 
-2757:2765(1719)
-00:09:37,494 --> 00:09:40,008
-Block 548:549
-as he heads for the door niles cont d 
-2772:2779(1719)
-00:09:41,206 --> 00:09:43,766
-Block 551:556
-2o d frasier turns to martin frasier panicked 
-2784:2788(1719)
-00:09:44,042 --> 00:09:45,873
-Block 557:558
-ell§§ ezli frasier oh dad 
-2802:2803(1719)
-00:09:46,127 --> 00:09:50,564
-Block 560:560
-frasier but 
-2819:2819(1719)
-00:09:50,924 --> 00:09:55,918
-Block 561:561
-martin 
-2824:2831(1719)
-ERRRROOOORRRR(140): 2824, 2831
-2840:2879(1719)
-ERRRROOOORRRR(141): 2840, 2879
-2884:2893(1719)
-ERRRROOOORRRR(142): 2884, 2893
-2898:2931(1719)
-ERRRROOOORRRR(143): 2898, 2931
-2948:2960(1719)
-00:10:27,585 --> 00:10:32,534
-Block 597:601
-in the living room niles the living room frasier don t ask beat 
-2971:2992(1719)
-ERRRROOOORRRR(146): 2971, 2992
-3001:3005(1719)
-ERRRROOOORRRR(147): 3001, 3005
-3029:3042(1719)
-00:10:46,021 --> 00:10:50,617
-Block 610:612
-from those rest homes do you niles of course i do you re forgetting 
-3059:3059(1719)
-00:10:58,533 --> 00:11:01,047
-Block 614:614
-frasier 
-3084:3087(1719)
-ERRRROOOORRRR(154): 3084, 3087
-3110:3111(1719)
-ERRRROOOORRRR(157): 3110, 3111
-3133:3138(1719)
-ERRRROOOORRRR(159): 3133, 3138
-3145:3178(1719)
-00:11:34,778 --> 00:11:38,612
-Block 632:636
-frasier look the last thing i need is someone else under foot niles no no someone part time that s the beauty of it they ll only be there when you re not frasier 
-3182:3196(1719)
-00:11:38,948 --> 00:11:41,542
-Block 638:642
-niles i know an agency in town who has good ‘ people let me arrange 
-3204:3213(1719)
-ERRRROOOORRRR(162): 3204, 3213
-3221:3240(1719)
-ERRRROOOORRRR(163): 3221, 3240
-3254:3285(1719)
-ERRRROOOORRRR(164): 3254, 3285
-3288:3328(1719)
-ERRRROOOORRRR(165): 3288, 3328
-3342:3364(1719)
-00:12:02,097 --> 00:12:06,056
-Block 675:683
-life it has truly been an honor to meet you 26 j frasier closes the door frasier cowwo o s blowing up now 
-3371:3394(1719)
-00:12:07,560 --> 00:12:11,997
-Block 684:693
-the woman reacts and walks away reset to ‘s v g roo d frasier martin eddie daphne martin she was casing the joint frasier 
-3405:3406(1719)
-00:12:12,357 --> 00:12:16,145
-Block 694:694
-martin well 
-3418:3419(1719)
-00:12:16,486 --> 00:12:20,365
-Block 695:695
-§§3 lﬂﬁ 
-3421:3431(1719)
-00:12:22,659 --> 00:12:24,411
-Block 695:696
-rings frasier this is the last one can you at least 
-3438:3489(1719)
-00:12:24,661 --> 00:12:28,256
-Block 697:709
-martin i hate this whole stinking idea frasier there was that so difficult frasier opens the door to reveal daphne moon an english working class woman in her mid to late twenties at this moment she is reaching into her blouse and adjusting her bra 27 j daphne oh hello caught me 
-3497:3499(1719)
-00:12:28,581 --> 00:12:33,336
-Block 709:710
-extending her hand 
-3510:3522(1719)
-ERRRROOOORRRR(173): 3510, 3522
-3532:3532(1719)
-ERRRROOOORRRR(174): 3532, 3532
-3543:3543(1719)
-ERRRROOOORRRR(175): 3543, 3543
-3547:3547(1719)
-00:12:46,266 --> 00:12:48,826
-Block 720:720
-martin 
-3558:3558(1719)
-00:12:52,564 --> 00:12:55,636
-Block 723:723
-martin 
-3563:3564(1719)
-00:12:55,942 --> 00:12:57,898
-Block 724:725
-frasier uh 
-3575:3578(1719)
-00:13:03,616 --> 00:13:07,689
-Block 729:730
-you re barcalounger oh 
-3599:3621(1719)
-ERRRROOOORRRR(181): 3599, 3621
-3631:3640(1719)
-ERRRROOOORRRR(182): 3631, 3640
-3647:3647(1719)
-00:13:30,310 --> 00:13:34,508
-Block 741:741
-martin 
-3660:3660(1719)
-00:13:34,856 --> 00:13:38,849
-Block 744:744
-daphne 
-3693:3702(1719)
-00:13:49,788 --> 00:13:52,780
-Block 745:752
-i also she looks at martin 29 j daphne cont’d 
-3710:3716(1719)
-00:13:53,083 --> 00:13:55,199
-Block 753:754
-martin yeah how did you know daphne 
-3760:3765(1719)
-00:14:09,974 --> 00:14:14,206
-Block 756:756
-she laughs martin finds that amusing 
-3773:3784(1719)
-00:14:15,105 --> 00:14:18,780
-Block 757:759
-around here you would be responsible for daphne t0 frasier wait a 
-3796:3796(1719)
-00:14:19,109 --> 00:14:23,864
-Block 760:760
-frasier 
-3830:3831(1719)
-00:14:36,918 --> 00:14:40,149
-Block 762:764
-i frasier 
-3856:3934(1719)
-00:14:44,801 --> 00:14:49,158
-Block 764:776
-thank you very much we ll be in touch daphne to martin you must be very proud of your son the psychiatrist martin sons two sons two shrinks they took after their mother rest her soul she was one too it was quite a household i couldn t scratch myself without being analyzed daphne we brits don t believe much in psychiatry i mean isn t that what friends are for frasier that s very quaint daphne to eddie 
-3942:3942(1719)
-ERRRROOOORRRR(200): 3942, 3942
-3951:3957(1719)
-ERRRROOOORRRR(201): 3951, 3957
-3964:3974(1719)
-ERRRROOOORRRR(202): 3964, 3974
-3982:3983(1719)
-ERRRROOOORRRR(203): 3982, 3983
-4006:4007(1719)
-00:15:14,914 --> 00:15:17,303
-Block 794:794
-indicating yes 
-4012:4022(1719)
-00:15:17,584 --> 00:15:20,337
-Block 797:799
-daehee qzii frasier dad what do you think you re doing 
-4030:4034(1719)
-00:15:22,797 --> 00:15:25,834
-Block 801:803
-i picked one frasier but 
-4044:4062(1719)
-00:15:26,134 --> 00:15:31,208
-Block 805:810
-32 j martin what does it matter she s only going to be here when you re not frasier 
-4070:4075(1719)
-ERRRROOOORRRR(210): 4070, 4075
-4096:4101(1719)
-00:15:44,319 --> 00:15:47,197
-Block 818:818
-frasier wait a minute move in 
-4108:4115(1719)
-00:15:47,489 --> 00:15:51,846
-Block 818:820
-isn t a live—in position daphne oh dear 
-4121:4128(1719)
-00:15:52,202 --> 00:15:54,318
-Block 820:822
-said frasier well the lady at the agency 
-4136:4158(1719)
-00:15:54,579 --> 00:15:58,811
-Block 822:828
-what a shame we were getting along so well frasier starts to usher her out s3 j martin wait a minute frasier i 
-4171:4171(1719)
-00:15:59,167 --> 00:16:02,796
-Block 830:830
-daphne 
-4188:4212(1719)
-00:16:06,299 --> 00:16:09,371
-Block 832:834
-daphne heads for the bathroom martin check out the one over the towel rack you gotta be young to try that frasier perhaps it s 
-4219:4221(1719)
-00:16:10,637 --> 00:16:14,710
-Block 835:836
-all right frasier 
-4234:4236(1719)
-00:16:15,058 --> 00:16:20,086
-Block 837:838
-she ekits frasier 
-4247:4258(1719)
-00:16:27,237 --> 00:16:30,866
-Block 840:843
-martin give me one good reason why frasier well for one thing 
-4271:4285(1719)
-00:16:31,199 --> 00:16:34,236
-Block 845:847
-the hall from mine frasier my study you expect me to give up my study 
-4292:4296(1719)
-00:16:34,536 --> 00:16:38,609
-Block 847:849
-my most profound thinking martin 
-4310:4316(1719)
-ERRRROOOORRRR(226): 4310, 4316
-4328:4332(1719)
-ERRRROOOORRRR(227): 4328, 4332
-4375:4383(1719)
-00:17:00,395 --> 00:17:02,704
-Block 855:855
-martin did you hear that eddie we re a 
-4402:4403(1719)
-00:17:07,277 --> 00:17:10,633
-Block 863:863
-martin oh 
-4411:4411(1719)
-00:17:10,947 --> 00:17:13,825
-Block 865:865
-frasier 
-4448:4451(1719)
-00:17:18,496 --> 00:17:22,967
-Block 867:868
-next thing you know 
-4463:4485(1719)
-00:17:23,335 --> 00:17:26,133
-Block 868:869
-he holds up the walker i had a lot of plans too you know and this may come as a shock sonny boy 
-4495:4505(1719)
-00:17:26,421 --> 00:17:31,449
-Block 870:871
-frasier i m just trying to do the right thing here 
-4512:4516(1719)
-00:17:31,843 --> 00:17:35,631
-Block 872:873
-martin oh don t worry 
-4526:4553(1719)
-00:17:35,972 --> 00:17:40,568
-Block 873:882
-knowing that you ve done right by your papa 3s j 3s j frasier that s what you think this is all about guilt martin isn t it 
-4646:4650(1719)
-ERRRROOOORRRR(246): 4646, 4650
-4660:4671(1719)
-ERRRROOOORRRR(247): 4660, 4671
-4676:4712(1719)
-ERRRROOOORRRR(248): 4676, 4712
-4724:4746(1719)
-00:18:36,157 --> 00:18:39,752
-Block 910:914
-he flings himself into the chair and puts on his headphones roz points to him he speaks into the microphone frasier cont’d i 
-4754:4773(1719)
-00:18:40,078 --> 00:18:44,708
-Block 917:923
-he punches a button on the console frasier cont’d to roz irritated could i perhaps put that on tape roz 
-4778:4778(1719)
-00:18:46,543 --> 00:18:49,421
-Block 926:926
-frasier 
-4821:4821(1719)
-00:18:57,971 --> 00:19:02,328
-Block 929:929
-roz 
-4827:4827(1719)
-00:19:02,684 --> 00:19:04,640
-Block 931:931
-frasier 
-4874:4882(1719)
-00:19:15,989 --> 00:19:20,380
-Block 936:939
-3a k roz cont d way she died and 
-4976:4976(1719)
-00:19:51,358 --> 00:19:54,395
-Block 940:940
-frasier 
-4987:4986(1719)
-ERRRROOOORRRR(268): 4987, 4986
-5002:5006(1719)
-00:19:59,699 --> 00:20:05,854
-Block 945:950
-39 k 4o k frasier 
-5023:5023(1719)
-00:20:07,707 --> 00:20:13,703
-Block 952:952
-roz 
-5031:5051(1719)
-00:20:14,130 --> 00:20:18,806
-Block 953:956
-beat will you egg forget that story roz goes back into her booth looks at the clock and points at frasier 
-5061:5061(1719)
-ERRRROOOORRRR(272): 5061, 5061
-5082:5081(1719)
-ERRRROOOORRRR(274): 5082, 5081
-5091:5093(1719)
-00:20:37,821 --> 00:20:40,972
-Block 963:964
-frasier stiffens frasier 
-5103:5107(1719)
-00:20:45,620 --> 00:20:49,454
-Block 965:966
-martin v o i just 
-5127:5127(1719)
-00:20:54,921 --> 00:20:57,355
-Block 969:969
-frasier 
-5138:5143(1719)
-00:20:57,632 --> 00:21:01,102
-Block 972:973
-martin v o i guess maybe 
-5166:5168(1719)
-00:21:05,724 --> 00:21:07,680
-Block 975:975
-frasier you know 
-5190:5191(1719)
-00:21:10,770 --> 00:21:15,844
-Block 977:977
-martin v 
-5208:5208(1719)
-00:21:16,234 --> 00:21:21,149
-Block 979:979
-frasier 
-5216:5224(1719)
-00:21:21,531 --> 00:21:24,284
-Block 982:982
-martin v o but maybe sometimes i ve got 
-5232:5232(1719)
-00:21:24,576 --> 00:21:26,965
-Block 984:984
-frasier 
-5240:5239(1719)
-ERRRROOOORRRR(287): 5240, 5239
-5242:5246(1719)
-00:21:31,958 --> 00:21:33,914
-Block 987:990
-41 k martin v o 
-5265:5265(1719)
-00:21:34,169 --> 00:21:39,004
-Block 997:997
-frasier 
-5272:5274(1719)
-00:21:39,382 --> 00:21:41,338
-Block 1000:1000
-martin v o 
-5284:5284(1719)
-00:21:41,593 --> 00:21:43,549
-Block 1004:1004
-we 
-5293:5293(1719)
-00:21:43,803 --> 00:21:46,158
-Block 1006:1006
-well 
-5307:5313(1719)
-00:21:46,431 --> 00:21:51,744
-Block 1012:1014
-there is a pause frasier cont d 
-5323:5329(1719)
-00:21:55,982 --> 00:22:00,134
-Block 1020:1023
-martin v o thank you doctor frasier 
-5342:5350(1719)
-00:22:00,487 --> 00:22:03,365
-Block 1029:1034
-i said thank you yes martin hangs up anything 
-5354:5369(1719)
-00:22:03,656 --> 00:22:06,329
-Block 1040:1050
-frasier just sits there without saying roz interrupts 42 k 43 k roz uh doctor crane 
-5384:5385(1719)
-ERRRROOOORRRR(297): 5384, 5385
-5391:5390(1719)
-ERRRROOOORRRR(298): 5391, 5390
-5394:5395(1719)
-ERRRROOOORRRR(299): 5394, 5395
-5426:5432(1719)
-00:22:32,435 --> 00:22:37,828
-Block 1055:1058
-almost like i m in mourning frasier 
-5448:5448(1719)
-ERRRROOOORRRR(304): 5448, 5448
-5457:5460(1719)
-ERRRROOOORRRR(305): 5457, 5460
-5473:5476(1719)
-ERRRROOOORRRR(306): 5473, 5476
-5506:5505(1719)
-ERRRROOOORRRR(310): 5506, 5505
-5508:5513(1719)
-ERRRROOOORRRR(311): 5508, 5513
