@@ -1,0 +1,4 @@
+crawlers - contains crawler files
+description_parser - contains armand's codes for description parsing
+display_html - display videos and descriptions on a html file
+video_cutting - take in videos and corresponding alignment file to cut the videos
