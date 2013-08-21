@@ -4,8 +4,38 @@
 CMakeFiles/TvParser.dir/tvParser.cpp.o
  ../include/hocr.hpp
  ../include/tvParser.hpp
+ ../include/utils.hpp
  /scail/u/vigneshr/CVPR2014/codes/C/textAlign/tvParser.cpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/compare.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/concept.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/config.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/constants.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/detail/find_format.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/detail/find_format_all.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/detail/find_format_store.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/detail/finder.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/detail/formatter.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/detail/replace_storage.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/detail/sequence.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/detail/util.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/find_format.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/finder.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/formatter.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/replace.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/sequence_traits.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/yes_no_type.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/assert.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/checked_delete.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/assert.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/detail/backward_compatibility.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/detail/borland.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/detail/concept_def.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/detail/concept_undef.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/detail/general.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/detail/has_constraints.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/detail/msvc.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept/usage.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/concept_check.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/config.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/config/no_tr1/utility.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/config/posix_features.hpp
@@ -14,9 +44,11 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/config/select_stdlib_config.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/config/suffix.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/current_function.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/detail/endian.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/detail/indirect_traits.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/detail/is_function_ref_tester.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/detail/iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/detail/limits.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/detail/workaround.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/implicit_cast.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/iterator.hpp
@@ -28,8 +60,11 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/iterator/interoperable.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/iterator/iterator_adaptor.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/iterator/iterator_categories.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/iterator/iterator_concepts.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/iterator/iterator_facade.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/iterator/iterator_traits.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/iterator/reverse_iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/limits.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/always.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/and.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/apply.hpp
@@ -123,6 +158,7 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/lambda.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/lambda_fwd.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/limits/arity.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/logical.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/next.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/next_prior.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/not.hpp
@@ -132,17 +168,23 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/quote.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/void.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/mpl/void_fwd.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/next_prior.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/non_type.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/noncopyable.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/arithmetic/add.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/arithmetic/dec.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/arithmetic/detail/div_base.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/arithmetic/inc.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/arithmetic/mod.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/arithmetic/sub.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/array/data.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/array/elem.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/array/size.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/cat.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/comma_if.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/comparison/less_equal.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/config/config.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/control/deduce_d.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/control/detail/dmc/while.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/control/detail/edg/while.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/control/detail/msvc/while.hpp
@@ -182,6 +224,7 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/logical/bitand.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/logical/bool.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/logical/compl.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/logical/not.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/punctuation/comma.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/punctuation/comma_if.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repeat.hpp
@@ -189,19 +232,25 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/detail/edg/for.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/detail/for.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/detail/msvc/for.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/enum_binary_params.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/enum_params.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/enum_shifted_params.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/enum_trailing_params.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/for.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/repeat.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/repetition/repeat_from_to.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/cat.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/detail/split.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/elem.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/enum.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/first_n.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/fold_left.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/for_each_i.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/rest_n.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/seq.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/size.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/subseq.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/seq/transform.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/slot/detail/def.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/slot/slot.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/stringize.hpp
@@ -209,6 +258,45 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/tuple/elem.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/tuple/rem.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/preprocessor/tuple/to_list.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/algorithm/equal.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/as_literal.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/begin.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/concepts.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/config.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/const_iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/as_literal.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/begin.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/common.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/const_iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/detail_str.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/end.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/extract_optional_type.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/implementation_help.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/misc_concept.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/remove_extent.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/safe_bool.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/sfinae.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/size_type.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/str_types.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/detail/vc6/end.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/difference_type.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/distance.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/empty.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/end.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/functions.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/iterator_range.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/iterator_range_core.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/iterator_range_io.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/mutable_iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/rbegin.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/rend.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/result_iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/reverse_iterator.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/size.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/size_type.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/range/value_type.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/static_assert.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/token_functions.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/token_iterator.hpp
@@ -219,6 +307,7 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/add_reference.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/broken_compiler_spec.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/config.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/conversion_traits.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/detail/bool_trait_def.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/detail/bool_trait_undef.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/detail/cv_traits_impl.hpp
@@ -274,3 +363,8 @@ CMakeFiles/TvParser.dir/tvParser.cpp.o
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/remove_cv.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/remove_pointer.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/type_traits/remove_reference.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/utility.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/utility/addressof.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/utility/base_from_member.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/utility/binary.hpp
+ /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/utility/enable_if.hpp

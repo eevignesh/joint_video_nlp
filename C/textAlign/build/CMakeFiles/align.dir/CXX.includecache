@@ -49,6 +49,8 @@ boost/tokenizer.hpp
 -
 cmath
 -
+utils.hpp
+../include/utils.hpp
 
 ../include/tvParser.hpp
 stdio.h
@@ -68,6 +70,18 @@ algorithm
 hocr.hpp
 ../include/hocr.hpp
 boost/tokenizer.hpp
+-
+utils.hpp
+../include/utils.hpp
+
+../include/utils.hpp
+vector
+-
+string
+-
+iostream
+-
+boost/algorithm/string/replace.hpp
 -
 
 /scail/u/vigneshr/CVPR2014/codes/C/textAlign/align.cpp

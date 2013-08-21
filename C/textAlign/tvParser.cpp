@@ -25,7 +25,7 @@ namespace alignment
 
     // Insert dummy sentence to account for noise
     vector <string> dummySentence;
-    for(int i = 0; i < 5; i++)
+    for(int i = 0; i < 500; i++)
     {
       dummySentence.push_back("xxxx");
     }
@@ -40,7 +40,9 @@ namespace alignment
       string lowerSentence = sentences[i];
 
       // convert to lower case
+
       transform(lowerSentence.begin(), lowerSentence.end(), lowerSentence.begin(), ::tolower);
+      boost::replace_all(lowerSentence, "*", " ");
       boost::tokenizer<> sentenceTokenizer(lowerSentence);
 
       // get word begining index of a sentence
@@ -195,10 +197,10 @@ namespace alignment
         if (currentLineId>0)
         {
           srtLineIdentifier = LINE_ID;
-          _dialogues.push_back(dialogueBuffer);
+          _dialogues.push_back(removeHtmlTags(dialogueBuffer));
 
 #ifdef DEBUG
-          cout << "<" << currentLineId << "> : " <<  dialogueBuffer << endl;
+          cout << "<" << currentLineId << "> : " <<  removeHtmlTags(dialogueBuffer) << endl;
 #endif
         }
       }

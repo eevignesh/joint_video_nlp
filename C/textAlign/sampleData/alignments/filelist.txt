@@ -1,0 +1,1 @@
+/scail/u/vigneshr/CVPR2014/codes/C/textAlign/sampleData/alignments/big_bang_2x04.wnt

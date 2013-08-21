@@ -626,10 +626,10 @@ static void hocrParser(string hocrDirname, vector <HocrLine> &allHocrLines)
     allHocrLines.insert(allHocrLines.end(), hLines.begin(), hLines.end());
   }
 
-/*  cout << " =============================================================== " << endl;
+  cout << " =============================================================== " << endl;
   for (int i = 0; i < allHocrLines.size(); i++)
   {
     cout << "(" << allHocrLines[i].x_cord.first << "," << allHocrLines[i].x_cord.second << ")" <<  allHocrLines[i].line << endl;
-  }*/
+  }
 
 }

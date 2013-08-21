@@ -5,6 +5,7 @@ CMakeFiles/align.dir/align.cpp.o
  ../include/hocr.hpp
  ../include/textAlign.hpp
  ../include/tvParser.hpp
+ ../include/utils.hpp
  /scail/u/vigneshr/CVPR2014/codes/C/textAlign/align.cpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string.hpp
  /scail/u/vigneshr/utilities/C_libraries/boost_1_46_1/boost/algorithm/string/case_conv.hpp

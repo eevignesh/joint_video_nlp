@@ -17,6 +17,7 @@
 #include <algorithm> 
 #include <boost/tokenizer.hpp>
 #include <cmath>
+#include "utils.hpp"
 
 #define DEBUG
 #define DRIFT_ALLOWED 2

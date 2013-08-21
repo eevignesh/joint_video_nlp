@@ -12,14 +12,16 @@
 #include <algorithm> 
 #include "hocr.hpp"
 #include <boost/tokenizer.hpp>
+#include "utils.hpp"
 
 #define MAX_SRT_LINES 9999
 
 // define the pixel limits to break the pdf formatting
 // for each section
 #define DIALOGUE_MAX1 800
-#define DIALOGUE_MIN1 700
-#define DIALOGUE_MAX2 2000
+//#define DIALOGUE_MIN1 700
+#define DIALOGUE_MIN1 600
+#define DIALOGUE_MAX2 2400
 
 #define DESCRIPTION_MAX 500
 #define DESCRIPTION_MIN 400
